@@ -1,0 +1,13 @@
+TransportistaID,NombreTransportista,ProvinciaBase,CostoPorKm,Especialidad
+1,TransNEA Frío,Misiones,132.44,Seco
+2,Logística Norte,Chaco,213.1,Frío
+3,DistriSur,Corrientes,182.48,Frío
+4,Frío Express,Formosa,163.81,Frío
+5,Carga Seca SRL,Entre Ríos,101.84,Seco
+6,Transportes Iguazú,Misiones,101.84,Seco
+7,Rápido Chaco,Chaco,88.13,Ambos
+8,Fletes Corrientes,Corrientes,201.26,Frío
+9,Refrigerados Misiones,Formosa,164.16,Frío
+10,Distribuidora Formosa,Entre Ríos,179.13,Frío
+11,Entre Ríos Logística,Corrientes,82.88,Frío
+12,Grupo Frío NEA,Misiones,215.79,Seco

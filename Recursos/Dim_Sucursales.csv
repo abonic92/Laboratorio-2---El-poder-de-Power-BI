@@ -1,0 +1,2186 @@
+SucursalID,ClienteID,NombreSucursal,Direccion,Provincia,Localidad,Latitud,Longitud,CodigoPostal
+1,1,Sucursal 1,Diag. Corrientes N° 8972,Entre Ríos,Concordia,-31.38363,-58.019652,3200
+2,1,Sucursal 2,Avenida Formosa N° 39,Misiones,Posadas,-27.365197,-55.893171,3300
+3,1,Sucursal 3,Avenida La Rioja N° 177,Misiones,Puerto Iguazú,-25.596036,-54.578734,3370
+4,1,Sucursal 4,Calle J.B. Alberdi N° 299,Chaco,Barranqueras,-27.484002,-58.931915,3503
+5,2,Sucursal 1,Avenida 7 N° 512,Corrientes,Paso de los Libres,-29.71392,-57.085214,3230
+6,3,Sucursal 1,Av. 3 N° 813,Misiones,Eldorado,-26.398359,-54.615181,3380
+7,4,Sucursal 1,Diagonal 9 N° 622,Entre Ríos,Paraná,-31.738942,-60.513643,3100
+8,5,Sucursal 1,Diagonal 9 N° 6386,Formosa,El Colorado,-26.2991,-59.367059,3603
+9,6,Sucursal 1,Avenida Tucumán N° 78,Entre Ríos,Paraná,-31.74041,-60.508981,3100
+10,7,Sucursal 1,Avenida 2 N° 689,Chaco,Sáenz Peña,-26.79468,-60.440497,3700
+11,7,Sucursal 2,Diagonal Córdoba N° 3116,Entre Ríos,Gualeguay,-33.143961,-59.31532,2840
+12,8,Sucursal 1,Av. 1 N° 388,Misiones,Puerto Iguazú,-25.598313,-54.580761,3370
+13,8,Sucursal 2,Av. Corrientes N° 224,Chaco,Villa Ángela,-27.582432,-60.718211,3540
+14,9,Sucursal 1,Calle Salta N° 326,Formosa,El Colorado,-26.298673,-59.36799,3603
+15,9,Sucursal 2,Avenida San Miguel de Tucumán N° 785,Entre Ríos,Gualeguaychú,-33.010639,-58.508718,2820
+16,9,Sucursal 3,Calle Mar del Plata N° 538,Chaco,Charata,-27.218467,-61.199358,3730
+17,9,Sucursal 4,Diag. La Rioja N° 782,Chaco,Sáenz Peña,-26.790713,-60.439327,3700
+18,10,Sucursal 1,Diag. Chaco N° 99,Chaco,Barranqueras,-27.483331,-58.935624,3503
+19,11,Sucursal 1,Boulevard 7 N° 491,Entre Ríos,Paraná,-31.741336,-60.51133,3100
+20,11,Sucursal 2,Av. 9 N° 55,Corrientes,Corrientes Capital,-27.477579,-58.831996,3400
+21,12,Sucursal 1,Diag. Mar del Plata N° 116,Misiones,Eldorado,-26.397835,-54.61629,3380
+22,13,Sucursal 1,Diag. Corrientes N° 476,Formosa,Pirané,-25.732202,-59.115124,3606
+23,13,Sucursal 2,Av. Buenos Aires N° 243,Entre Ríos,Gualeguay,-33.144262,-59.316176,2840
+24,14,Sucursal 1,Diagonal Posadas N° 693,Chaco,Villa Ángela,-27.585006,-60.714165,3540
+25,14,Sucursal 2,Diagonal J.B. Alberdi N° 69,Misiones,Eldorado,-26.39996,-54.615929,3380
+26,15,Sucursal 1,Av. Río Negro N° 155,Misiones,Puerto Iguazú,-25.595989,-54.581105,3370
+27,15,Sucursal 2,Av. 9 N° 705,Formosa,Pirané,-25.733074,-59.118784,3606
+28,16,Sucursal 1,Calle Posadas N° 4749,Chaco,Charata,-27.219226,-61.197474,3730
+29,17,Sucursal 1,Avenida La Rioja N° 166,Formosa,Pirané,-25.734339,-59.116181,3606
+30,18,Sucursal 1,Diagonal Catamarca N° 633,Chaco,Charata,-27.215508,-61.19862,3730
+31,19,Sucursal 1,Boulevard Alem N° 97,Corrientes,Goya,-29.141933,-59.260152,3450
+32,19,Sucursal 2,Av. Pte. Perón N° 22,Corrientes,Paso de los Libres,-29.71308,-57.086847,3230
+33,20,Sucursal 1,Diagonal Belgrano N° 34,Entre Ríos,Concordia,-31.38185,-58.015256,3200
+34,20,Sucursal 2,Calle 6 N° 5972,Corrientes,Paso de los Libres,-29.715724,-57.089677,3230
+35,21,Sucursal 1,Calle 9 N° 898,Chaco,Resistencia,-27.451122,-58.98652,3500
+36,22,Sucursal 1,Boulevard 104 B N° 74,Entre Ríos,Concepción del Uruguay,-32.484045,-58.237969,3260
+37,22,Sucursal 2,Avenida 8 N° 4520,Entre Ríos,Concepción del Uruguay,-32.480913,-58.238587,3260
+38,22,Sucursal 3,Calle 4 N° 51,Corrientes,Paso de los Libres,-29.711171,-57.090324,3230
+39,22,Sucursal 4,Calle Santa Rosa N° 47,Misiones,Puerto Iguazú,-25.598568,-54.581217,3370
+40,22,Sucursal 5,Avenida Malvinas Argentinas N° 7136,Entre Ríos,Gualeguaychú,-33.00495,-58.510035,2820
+41,23,Sucursal 1,Av. San Miguel de Tucumán N° 7161,Misiones,Apóstoles,-27.916635,-55.769367,3350
+42,23,Sucursal 2,Calle San Salvador de Jujuy N° 8446,Formosa,Ingeniero Juárez,-23.901999,-61.852056,3636
+43,23,Sucursal 3,Calle Córdoba N° 49,Entre Ríos,Gualeguay,-33.144083,-59.316257,2840
+44,23,Sucursal 4,Calle Malvinas Argentinas N° 516,Entre Ríos,Concepción del Uruguay,-32.484908,-58.235755,3260
+45,24,Sucursal 1,Avenida 8 N° 406,Corrientes,Goya,-29.138248,-59.265626,3450
+46,24,Sucursal 2,Calle Neuquén N° 13,Corrientes,Goya,-29.140569,-59.263402,3450
+47,25,Sucursal 1,Calle Catamarca N° 6396,Chaco,Resistencia,-27.448513,-58.983455,3500
+48,26,Sucursal 1,Calle 8 N° 1984,Chaco,Barranqueras,-27.484369,-58.933802,3503
+49,26,Sucursal 2,Calle 2 N° 938,Entre Ríos,Concepción del Uruguay,-32.48368,-58.235244,3260
+50,27,Sucursal 1,Diagonal Mendoza N° 22,Misiones,Oberá,-27.485584,-55.11566,3360
+51,27,Sucursal 2,Av. 137 B N° 53,Corrientes,Goya,-29.142324,-59.260874,3450
+52,27,Sucursal 3,Blv. 1 N° 617,Corrientes,Goya,-29.137676,-59.265286,3450
+53,27,Sucursal 4,Calle Belgrano N° 1598,Misiones,Apóstoles,-27.914504,-55.765059,3350
+54,28,Sucursal 1,Diagonal Salta N° 817,Misiones,Posadas,-27.369582,-55.89636,3300
+55,28,Sucursal 2,Camino Santa Fe N° 135,Misiones,Oberá,-27.485096,-55.116317,3360
+56,29,Sucursal 1,Camino Río Negro N° 98,Entre Ríos,Concepción del Uruguay,-32.481864,-58.237416,3260
+57,29,Sucursal 2,Diagonal Tucumán N° 15,Formosa,Ingeniero Juárez,-23.897169,-61.847013,3636
+58,30,Sucursal 1,Diagonal Comodoro Rivadavia N° 5135,Entre Ríos,Concepción del Uruguay,-32.480197,-58.235637,3260
+59,31,Sucursal 1,Calle La Rioja N° 655,Corrientes,Mercedes,-29.184262,-58.07944,3470
+60,32,Sucursal 1,Diagonal 7 N° 783,Formosa,Pirané,-25.734221,-59.114663,3606
+61,32,Sucursal 2,Avenida Tierra del Fuego N° 894,Corrientes,Corrientes Capital,-27.477794,-58.837591,3400
+62,32,Sucursal 3,Calle San Martin N° 59,Entre Ríos,Concordia,-31.384042,-58.015272,3200
+63,33,Sucursal 1,Camino Merlo N° 380,Corrientes,Paso de los Libres,-29.714569,-57.084601,3230
+64,33,Sucursal 2,Diagonal Tucumán N° 7457,Misiones,Puerto Iguazú,-25.597248,-54.581241,3370
+65,34,Sucursal 1,Avenida San Martin N° 718,Entre Ríos,Gualeguaychú,-33.009121,-58.513537,2820
+66,34,Sucursal 2,Avenida 2 N° 716,Chaco,Barranqueras,-27.480916,-58.933181,3503
+67,35,Sucursal 1,Avenida Malvinas Argentinas N° 705,Misiones,Apóstoles,-27.913853,-55.769191,3350
+68,35,Sucursal 2,Avenida Pte. Perón N° 91,Corrientes,Paso de los Libres,-29.712767,-57.086677,3230
+69,36,Sucursal 1,Diagonal Santiago del Estero N° 467,Corrientes,Curuzú Cuatiá,-29.789149,-58.056926,3460
+70,36,Sucursal 2,Av. Chilecito N° 1377,Entre Ríos,Concordia,-31.380515,-58.018279,3200
+71,37,Sucursal 1,Av. Santa Fe N° 885,Misiones,Posadas,-27.364544,-55.896742,3300
+72,37,Sucursal 2,Av. 9 N° 1358,Entre Ríos,Concepción del Uruguay,-32.483642,-58.237483,3260
+73,38,Sucursal 1,Av. 5 N° 44,Corrientes,Curuzú Cuatiá,-29.787039,-58.056483,3460
+74,39,Sucursal 1,Calle San Martin N° 1254,Corrientes,Paso de los Libres,-29.714868,-57.089514,3230
+75,39,Sucursal 2,Calle Rivadavia N° 25,Misiones,Apóstoles,-27.917816,-55.768976,3350
+76,39,Sucursal 3,Av. Ciudad Autónoma de Buenos Aires N° 719,Misiones,Oberá,-27.480512,-55.118454,3360
+77,39,Sucursal 4,Av. 2 N° 87,Chaco,Charata,-27.21692,-61.197885,3730
+78,39,Sucursal 5,Diagonal Omar Nuñez N° 1829,Corrientes,Curuzú Cuatiá,-29.791754,-58.053184,3460
+79,40,Sucursal 1,Calle San Miguel de Tucumán N° 341,Entre Ríos,Gualeguaychú,-33.00718,-58.51251,2820
+80,40,Sucursal 2,Av. Río Gallegos N° 9039,Misiones,Posadas,-27.36921,-55.894833,3300
+81,40,Sucursal 3,Av. San Martin N° 5793,Misiones,Oberá,-27.483923,-55.119406,3360
+82,40,Sucursal 4,Av. Río Gallegos N° 91,Chaco,Charata,-27.218139,-61.197056,3730
+83,41,Sucursal 1,Diagonal 6 N° 3672,Misiones,Eldorado,-26.397872,-54.616364,3380
+84,41,Sucursal 2,Camino San Martin N° 74,Formosa,Pirané,-25.734801,-59.116928,3606
+85,41,Sucursal 3,Camino Alvear N° 698,Corrientes,Mercedes,-29.183571,-58.08153,3470
+86,42,Sucursal 1,Diagonal Omar Nuñez N° 587,Corrientes,Mercedes,-29.183111,-58.079497,3470
+87,42,Sucursal 2,Diagonal Alvear N° 83,Entre Ríos,Concordia,-31.382518,-58.015832,3200
+88,43,Sucursal 1,Boulevard Santa Cruz N° 532,Corrientes,Curuzú Cuatiá,-29.792569,-58.056913,3460
+89,43,Sucursal 2,Av. 9 N° 161,Entre Ríos,Paraná,-31.742239,-60.513727,3100
+90,44,Sucursal 1,Calle Alem N° 9499,Corrientes,Paso de los Libres,-29.715544,-57.087734,3230
+91,44,Sucursal 2,Diag. J.B. Alberdi N° 2169,Chaco,Resistencia,-27.448555,-58.986001,3500
+92,44,Sucursal 3,Avenida San Salvador de Jujuy N° 798,Entre Ríos,Concepción del Uruguay,-32.48323,-58.240023,3260
+93,44,Sucursal 4,Calle Mar del Plata N° 917,Entre Ríos,Concordia,-31.38374,-58.017576,3200
+94,45,Sucursal 1,Diag. 3 N° 346,Chaco,Villa Ángela,-27.584621,-60.714399,3540
+95,46,Sucursal 1,Av. 5 N° 433,Formosa,El Colorado,-26.299285,-59.368225,3603
+96,47,Sucursal 1,Diagonal J.B. Alberdi N° 192,Formosa,Formosa Capital,-26.183828,-58.182996,3600
+97,47,Sucursal 2,Diagonal Mitre N° 329,Corrientes,Goya,-29.142874,-59.263402,3450
+98,48,Sucursal 1,Diagonal J.B. Alberdi N° 66,Chaco,Sáenz Peña,-26.791344,-60.436317,3700
+99,48,Sucursal 2,Avenida Santa Fe N° 72,Chaco,Barranqueras,-27.482515,-58.931487,3503
+100,49,Sucursal 1,Av. 2 N° 143,Misiones,Eldorado,-26.398309,-54.617545,3380
+101,50,Sucursal 1,Camino Santa Cruz N° 587,Misiones,Oberá,-27.480824,-55.116686,3360
+102,50,Sucursal 2,Avenida Pte. Perón N° 124,Misiones,Eldorado,-26.401377,-54.619544,3380
+103,51,Sucursal 1,Diagonal 1 N° 5497,Chaco,Barranqueras,-27.486124,-58.931436,3503
+104,51,Sucursal 2,Av. G. Brown N° 25,Chaco,Villa Ángela,-27.585948,-60.713751,3540
+105,51,Sucursal 3,Calle Formosa N° 708,Formosa,Clorinda,-25.284155,-57.716196,3610
+106,51,Sucursal 4,Av. J.M. de Rosas N° 5360,Chaco,Barranqueras,-27.480456,-58.935699,3503
+107,52,Sucursal 1,Calle Santa Fe N° 228,Chaco,Villa Ángela,-27.583098,-60.714953,3540
+108,53,Sucursal 1,Av. San Salvador de Jujuy N° 59,Entre Ríos,Gualeguay,-33.138722,-59.318384,2840
+109,54,Sucursal 1,Av. 112 B N° 4319,Misiones,Oberá,-27.480689,-55.113751,3360
+110,54,Sucursal 2,Av. Chaco N° 1536,Chaco,Resistencia,-27.453043,-58.985045,3500
+111,55,Sucursal 1,Calle Neuquén N° 409,Formosa,Ingeniero Juárez,-23.902831,-61.848797,3636
+112,55,Sucursal 2,Av. Comodoro Rivadavia N° 115,Formosa,Ingeniero Juárez,-23.899618,-61.849621,3636
+113,56,Sucursal 1,Avenida 5 N° 189,Formosa,Formosa Capital,-26.183047,-58.185247,3600
+114,56,Sucursal 2,Calle Santa Cruz N° 197,Corrientes,Goya,-29.142858,-59.264304,3450
+115,57,Sucursal 1,Calle 136 A N° 723,Corrientes,Corrientes Capital,-27.480341,-58.837596,3400
+116,58,Sucursal 1,Boulevard 8 N° 389,Chaco,Sáenz Peña,-26.790361,-60.439055,3700
+117,58,Sucursal 2,Calle Catamarca N° 6854,Chaco,Resistencia,-27.448587,-58.983534,3500
+118,58,Sucursal 3,Calle La Plata N° 609,Misiones,Posadas,-27.369743,-55.898214,3300
+119,58,Sucursal 4,Diagonal J.M. de Rosas N° 796,Entre Ríos,Gualeguaychú,-33.005297,-58.509154,2820
+120,58,Sucursal 5,Av. Malvinas Argentinas N° 5444,Formosa,Clorinda,-25.281136,-57.713937,3610
+121,59,Sucursal 1,Avenida San Juan N° 89,Entre Ríos,Gualeguaychú,-33.005148,-58.511426,2820
+122,59,Sucursal 2,Boulevard La Pampa N° 227,Corrientes,Paso de los Libres,-29.713781,-57.088564,3230
+123,59,Sucursal 3,Av. Omar Nuñez N° 175,Chaco,Resistencia,-27.449706,-58.985979,3500
+124,60,Sucursal 1,Diagonal Neuquén N° 39,Entre Ríos,Paraná,-31.742996,-60.510257,3100
+125,60,Sucursal 2,Avenida 6 N° 29,Formosa,Pirané,-25.732139,-59.114127,3606
+126,61,Sucursal 1,Camino 194 Bis N° 841,Chaco,Barranqueras,-27.482307,-58.931413,3503
+127,61,Sucursal 2,Blv. Santa Rosa N° 905,Misiones,Eldorado,-26.401159,-54.615569,3380
+128,62,Sucursal 1,Calle Tierra del Fuego N° 95,Chaco,Resistencia,-27.449727,-58.982907,3500
+129,62,Sucursal 2,Diagonal Alem N° 747,Formosa,Ingeniero Juárez,-23.90065,-61.847034,3636
+130,63,Sucursal 1,Av. San Martin N° 84,Corrientes,Goya,-29.142308,-59.263791,3450
+131,63,Sucursal 2,Diag. Viedma N° 3576,Formosa,El Colorado,-26.301675,-59.366307,3603
+132,63,Sucursal 3,Calle Santa Rosa N° 5971,Formosa,Formosa Capital,-26.185456,-58.181828,3600
+133,63,Sucursal 4,Diagonal Río Gallegos N° 711,Chaco,Barranqueras,-27.484219,-58.934383,3503
+134,64,Sucursal 1,Av. 4 N° 4683,Corrientes,Curuzú Cuatiá,-29.78777,-58.05328,3460
+135,64,Sucursal 2,Avenida Mendoza N° 84,Entre Ríos,Concepción del Uruguay,-32.48028,-58.23752,3260
+136,64,Sucursal 3,Av. Santa Cruz N° 831,Chaco,Villa Ángela,-27.585042,-60.715541,3540
+137,64,Sucursal 4,Calle San Juan N° 56,Misiones,Oberá,-27.48476,-55.119052,3360
+138,65,Sucursal 1,Calle Posadas N° 21,Corrientes,Goya,-29.141084,-59.261304,3450
+139,65,Sucursal 2,Diag. 2 N° 38,Chaco,Resistencia,-27.448793,-58.985642,3500
+140,66,Sucursal 1,Diagonal 193 B N° 374,Misiones,Oberá,-27.483024,-55.119091,3360
+141,66,Sucursal 2,Av. 146 A N° 25,Formosa,Formosa Capital,-26.181568,-58.182832,3600
+142,67,Sucursal 1,Av. Río Negro N° 658,Chaco,Resistencia,-27.451392,-58.983805,3500
+143,68,Sucursal 1,Av. 7 N° 122,Chaco,Charata,-27.21958,-61.201433,3730
+144,69,Sucursal 1,Avenida Río Negro N° 865,Corrientes,Curuzú Cuatiá,-29.790649,-58.051972,3460
+145,69,Sucursal 2,Diag. Neuquén N° 2222,Chaco,Resistencia,-27.449708,-58.985318,3500
+146,70,Sucursal 1,Calle Rawson N° 8682,Misiones,Oberá,-27.482736,-55.116018,3360
+147,70,Sucursal 2,Avenida Ushuaia N° 974,Formosa,Clorinda,-25.282073,-57.717112,3610
+148,71,Sucursal 1,Diagonal 9 N° 32,Entre Ríos,Paraná,-31.739561,-60.513557,3100
+149,72,Sucursal 1,Calle Mendoza N° 380,Misiones,Oberá,-27.485067,-55.11856,3360
+150,73,Sucursal 1,Avenida 1 N° 449,Entre Ríos,Concepción del Uruguay,-32.483911,-58.238775,3260
+151,73,Sucursal 2,Calle Chubut N° 291,Corrientes,Goya,-29.141043,-59.262402,3450
+152,74,Sucursal 1,Diag. Formosa N° 17,Chaco,Sáenz Peña,-26.794873,-60.441077,3700
+153,74,Sucursal 2,Calle J.M. de Rosas N° 892,Corrientes,Paso de los Libres,-29.714033,-57.086528,3230
+154,75,Sucursal 1,Camino 7 N° 474,Formosa,El Colorado,-26.301802,-59.369546,3603
+155,75,Sucursal 2,Boulevard J.B. Alberdi N° 662,Chaco,Villa Ángela,-27.582471,-60.713838,3540
+156,75,Sucursal 3,Camino La Plata N° 115,Formosa,El Colorado,-26.297937,-59.36785,3603
+157,75,Sucursal 4,Boulevard San Ferando del Valle de Catamarca N° 385,Formosa,Clorinda,-25.283474,-57.714331,3610
+158,76,Sucursal 1,Avenida Tierra del Fuego N° 345,Corrientes,Mercedes,-29.180449,-58.079575,3470
+159,76,Sucursal 2,Av. Malvinas Argentinas N° 3615,Formosa,Formosa Capital,-26.180987,-58.184084,3600
+160,76,Sucursal 3,Diagonal Córdoba N° 29,Formosa,Ingeniero Juárez,-23.902732,-61.850362,3636
+161,77,Sucursal 1,Diag. San Miguel de Tucumán N° 8176,Misiones,Posadas,-27.365078,-55.895715,3300
+162,77,Sucursal 2,Diagonal 6 N° 951,Chaco,Barranqueras,-27.481787,-58.932295,3503
+163,77,Sucursal 3,Av. Santiago del Estero N° 736,Corrientes,Mercedes,-29.180291,-58.077051,3470
+164,78,Sucursal 1,Blv. Salta N° 14,Entre Ríos,Gualeguay,-33.143335,-59.319334,2840
+165,78,Sucursal 2,Calle Salta N° 28,Formosa,Pirané,-25.73139,-59.117188,3606
+166,79,Sucursal 1,Avenida San Luis N° 1893,Entre Ríos,Gualeguay,-33.13941,-59.316842,2840
+167,79,Sucursal 2,Avenida San Martin N° 421,Corrientes,Mercedes,-29.181931,-58.076776,3470
+168,80,Sucursal 1,Blv. Malvinas Argentinas N° 1188,Entre Ríos,Concordia,-31.382873,-58.016599,3200
+169,80,Sucursal 2,Camino 9 N° 8218,Entre Ríos,Gualeguay,-33.140635,-59.315978,2840
+170,81,Sucursal 1,Diagonal 6 N° 95,Formosa,El Colorado,-26.301963,-59.363794,3603
+171,81,Sucursal 2,Calle 3 N° 180,Misiones,Posadas,-27.365249,-55.898343,3300
+172,82,Sucursal 1,Av. Omar Nuñez N° 841,Corrientes,Mercedes,-29.17837,-58.079288,3470
+173,82,Sucursal 2,Av. Alem N° 328,Chaco,Villa Ángela,-27.581295,-60.718153,3540
+174,83,Sucursal 1,Avenida Omar Nuñez N° 592,Corrientes,Mercedes,-29.183778,-58.078562,3470
+175,83,Sucursal 2,Calle San Martin N° 3674,Entre Ríos,Gualeguaychú,-33.008843,-58.512143,2820
+176,83,Sucursal 3,Diagonal Río Gallegos N° 2770,Formosa,El Colorado,-26.297497,-59.369626,3603
+177,83,Sucursal 4,Diag. Tierra del Fuego N° 641,Entre Ríos,Gualeguay,-33.141565,-59.317182,2840
+178,84,Sucursal 1,Avenida 6 N° 8517,Chaco,Villa Ángela,-27.585411,-60.716172,3540
+179,84,Sucursal 2,Boulevard Mitre N° 2794,Chaco,Sáenz Peña,-26.78965,-60.437724,3700
+180,85,Sucursal 1,Calle Omar Nuñez N° 777,Misiones,Apóstoles,-27.914495,-55.764419,3350
+181,86,Sucursal 1,Avenida Güemes N° 235,Misiones,Puerto Iguazú,-25.597902,-54.578686,3370
+182,86,Sucursal 2,Av. 7 N° 62,Entre Ríos,Paraná,-31.744675,-60.512848,3100
+183,87,Sucursal 1,Diag. Mitre N° 682,Formosa,Pirané,-25.736067,-59.114363,3606
+184,88,Sucursal 1,Calle J.M. de Rosas N° 436,Misiones,Eldorado,-26.402704,-54.616849,3380
+185,88,Sucursal 2,Calle Salta N° 8236,Misiones,Puerto Iguazú,-25.594818,-54.581479,3370
+186,89,Sucursal 1,Av. Constitución N° 4176,Misiones,Apóstoles,-27.918018,-55.76675,3350
+187,89,Sucursal 2,Camino J.B. Alberdi N° 173,Chaco,Sáenz Peña,-26.789365,-60.439732,3700
+188,90,Sucursal 1,Av. Chubut N° 276,Formosa,El Colorado,-26.298356,-59.367775,3603
+189,90,Sucursal 2,Avenida Güemes N° 5523,Formosa,Ingeniero Juárez,-23.89937,-61.852464,3636
+190,90,Sucursal 3,Avenida 5 N° 1591,Formosa,El Colorado,-26.301732,-59.364756,3603
+191,91,Sucursal 1,Av. 6 N° 55,Entre Ríos,Gualeguaychú,-33.005597,-58.508874,2820
+192,91,Sucursal 2,Av. Paraná N° 851,Entre Ríos,Gualeguaychú,-33.006051,-58.513406,2820
+193,92,Sucursal 1,Diagonal Resistencia N° 2156,Chaco,Villa Ángela,-27.581617,-60.716554,3540
+194,92,Sucursal 2,Calle Corrientes N° 565,Corrientes,Corrientes Capital,-27.482458,-58.832349,3400
+195,93,Sucursal 1,Diagonal La Rioja N° 785,Corrientes,Curuzú Cuatiá,-29.791203,-58.054561,3460
+196,93,Sucursal 2,Av. San Salvador de Jujuy N° 775,Formosa,Pirané,-25.732072,-59.118056,3606
+197,93,Sucursal 3,Av. Saavedra N° 3024,Entre Ríos,Concordia,-31.383269,-58.015888,3200
+198,94,Sucursal 1,Diagonal J.M. de Rosas N° 859,Corrientes,Corrientes Capital,-27.482048,-58.834667,3400
+199,95,Sucursal 1,Avenida Rosario N° 995,Misiones,Posadas,-27.364337,-55.896253,3300
+200,95,Sucursal 2,Diagonal La Rioja N° 191,Formosa,Pirané,-25.734235,-59.114674,3606
+201,96,Sucursal 1,Av. Alvear N° 2747,Corrientes,Mercedes,-29.18259,-58.079581,3470
+202,96,Sucursal 2,Calle 5 N° 24,Misiones,Posadas,-27.364977,-55.894421,3300
+203,96,Sucursal 3,Av. Misiones N° 4135,Misiones,Eldorado,-26.397857,-54.615816,3380
+204,97,Sucursal 1,Avenida Tierra del Fuego N° 3546,Misiones,Apóstoles,-27.91579,-55.76662,3350
+205,98,Sucursal 1,Avenida 4 N° 149,Entre Ríos,Gualeguay,-33.139231,-59.315816,2840
+206,99,Sucursal 1,Diagonal 6 N° 98,Misiones,Puerto Iguazú,-25.598686,-54.576769,3370
+207,100,Sucursal 1,Diagonal J.J. Castelli N° 456,Misiones,Apóstoles,-27.917157,-55.767441,3350
+208,100,Sucursal 2,Avenida Pte. Perón N° 825,Formosa,Ingeniero Juárez,-23.900246,-61.851691,3636
+209,101,Sucursal 1,Avenida San Miguel de Tucumán N° 106,Entre Ríos,Paraná,-31.741393,-60.514456,3100
+210,101,Sucursal 2,Avenida 7 N° 57,Formosa,Ingeniero Juárez,-23.899631,-61.849437,3636
+211,101,Sucursal 3,Calle Mendoza N° 534,Formosa,Formosa Capital,-26.184509,-58.185651,3600
+212,101,Sucursal 4,Boulevard Comodoro Rivadavia N° 147,Corrientes,Mercedes,-29.182282,-58.080241,3470
+213,102,Sucursal 1,Diag. Río Gallegos N° 55,Entre Ríos,Gualeguaychú,-33.009139,-58.509863,2820
+214,102,Sucursal 2,Avenida 7 N° 2123,Formosa,Ingeniero Juárez,-23.901207,-61.8521,3636
+215,102,Sucursal 3,Diagonal Chaco N° 1417,Entre Ríos,Gualeguay,-33.143258,-59.319359,2840
+216,103,Sucursal 1,Diag. J.M. de Rosas N° 712,Misiones,Puerto Iguazú,-25.596237,-54.577515,3370
+217,103,Sucursal 2,Diagonal Salta N° 2992,Entre Ríos,Concordia,-31.386147,-58.016716,3200
+218,103,Sucursal 3,Blv. La Pampa N° 7453,Misiones,Posadas,-27.368543,-55.896589,3300
+219,103,Sucursal 4,Av. San Luis N° 207,Misiones,Apóstoles,-27.91528,-55.766202,3350
+220,104,Sucursal 1,Avenida 5 N° 51,Chaco,Charata,-27.217641,-61.19872,3730
+221,104,Sucursal 2,Avenida Pte. Perón N° 5832,Entre Ríos,Concordia,-31.383092,-58.014991,3200
+222,104,Sucursal 3,Diagonal La Rioja N° 254,Misiones,Puerto Iguazú,-25.597156,-54.576527,3370
+223,104,Sucursal 4,Avenida Güemes N° 904,Entre Ríos,Paraná,-31.743813,-60.513914,3100
+224,105,Sucursal 1,Av. Pte. Perón N° 2247,Misiones,Eldorado,-26.398649,-54.616346,3380
+225,105,Sucursal 2,Av. Santa Fe N° 614,Chaco,Sáenz Peña,-26.789518,-60.435702,3700
+226,106,Sucursal 1,Diag. J.B. Alberdi N° 270,Chaco,Charata,-27.217568,-61.198535,3730
+227,107,Sucursal 1,Av. Mendoza N° 86,Formosa,Clorinda,-25.281571,-57.717712,3610
+228,107,Sucursal 2,Diagonal Salta N° 78,Misiones,Apóstoles,-27.916187,-55.766917,3350
+229,107,Sucursal 3,Blv. San Martin N° 6054,Corrientes,Corrientes Capital,-27.480677,-58.832402,3400
+230,108,Sucursal 1,Calle 4 N° 997,Chaco,Charata,-27.214363,-61.199997,3730
+231,109,Sucursal 1,Diagonal Mendoza N° 967,Chaco,Charata,-27.216521,-61.200521,3730
+232,109,Sucursal 2,Avenida Rivadavia N° 68,Corrientes,Curuzú Cuatiá,-29.791876,-58.056098,3460
+233,109,Sucursal 3,Diag. 5 N° 939,Formosa,Formosa Capital,-26.180377,-58.180943,3600
+234,109,Sucursal 4,Diagonal Río Negro N° 194,Formosa,Formosa Capital,-26.185441,-58.181126,3600
+235,110,Sucursal 1,Av. San Salvador de Jujuy N° 65,Corrientes,Corrientes Capital,-27.480575,-58.833814,3400
+236,110,Sucursal 2,Calle 189 A N° 6621,Corrientes,Curuzú Cuatiá,-29.79082,-58.056952,3460
+237,111,Sucursal 1,Calle Jujuy N° 1951,Chaco,Sáenz Peña,-26.793944,-60.436459,3700
+238,111,Sucursal 2,Diagonal 1 N° 86,Formosa,Clorinda,-25.281713,-57.716763,3610
+239,112,Sucursal 1,Av. Pte. Perón N° 25,Corrientes,Curuzú Cuatiá,-29.789013,-58.053499,3460
+240,113,Sucursal 1,Camino Omar Nuñez N° 138,Formosa,Clorinda,-25.280508,-57.7174,3610
+241,113,Sucursal 2,Avenida Buenos Aires N° 221,Corrientes,Corrientes Capital,-27.480297,-58.833216,3400
+242,114,Sucursal 1,Avenida Resistencia N° 498,Formosa,Formosa Capital,-26.181759,-58.183114,3600
+243,115,Sucursal 1,Calle Salta N° 67,Corrientes,Corrientes Capital,-27.47974,-58.836107,3400
+244,115,Sucursal 2,Boulevard Corrientes N° 716,Formosa,Formosa Capital,-26.184427,-58.185684,3600
+245,116,Sucursal 1,Calle 8 N° 928,Formosa,Clorinda,-25.285298,-57.714757,3610
+246,116,Sucursal 2,Camino Río Negro N° 4279,Formosa,Clorinda,-25.280609,-57.716964,3610
+247,116,Sucursal 3,Av. Mitre N° 1730,Formosa,Clorinda,-25.283698,-57.715579,3610
+248,116,Sucursal 4,Diag. 2 N° 887,Corrientes,Corrientes Capital,-27.481444,-58.832192,3400
+249,117,Sucursal 1,Avenida San Luis N° 7645,Chaco,Sáenz Peña,-26.794211,-60.435659,3700
+250,117,Sucursal 2,Av. Mendoza N° 6511,Entre Ríos,Paraná,-31.744785,-60.513154,3100
+251,118,Sucursal 1,Av. Salta N° 43,Chaco,Sáenz Peña,-26.790796,-60.437562,3700
+252,119,Sucursal 1,Avenida Malvinas Argentinas N° 872,Corrientes,Paso de los Libres,-29.7136,-57.086597,3230
+253,120,Sucursal 1,Av. 6 N° 913,Misiones,Eldorado,-26.397741,-54.618165,3380
+254,121,Sucursal 1,Diag. Tierra del Fuego N° 39,Formosa,El Colorado,-26.297032,-59.365728,3603
+255,122,Sucursal 1,Boulevard Córdoba N° 39,Corrientes,Goya,-29.139262,-59.263199,3450
+256,123,Sucursal 1,Diag. Catamarca N° 663,Corrientes,Paso de los Libres,-29.712516,-57.087654,3230
+257,123,Sucursal 2,Calle Güemes N° 5135,Corrientes,Mercedes,-29.183067,-58.077786,3470
+258,123,Sucursal 3,Avenida San Martin N° 26,Corrientes,Corrientes Capital,-27.481693,-58.83363,3400
+259,123,Sucursal 4,Avenida San Salvador de Jujuy N° 6738,Entre Ríos,Concordia,-31.383178,-58.015963,3200
+260,124,Sucursal 1,Blv. Santiago del Estero N° 67,Misiones,Puerto Iguazú,-25.595216,-54.580971,3370
+261,125,Sucursal 1,Diagonal La Rioja N° 573,Chaco,Charata,-27.219016,-61.202362,3730
+262,126,Sucursal 1,Camino Jujuy N° 673,Formosa,El Colorado,-26.301802,-59.368122,3603
+263,126,Sucursal 2,Camino 9 N° 4761,Formosa,Clorinda,-25.280461,-57.717552,3610
+264,127,Sucursal 1,Calle Córdoba N° 883,Chaco,Charata,-27.218738,-61.199711,3730
+265,127,Sucursal 2,Av. 8 N° 633,Chaco,Sáenz Peña,-26.791071,-60.438216,3700
+266,128,Sucursal 1,Avenida Pte. Perón N° 8518,Corrientes,Corrientes Capital,-27.483424,-58.837066,3400
+267,128,Sucursal 2,Diag. San Luis N° 212,Corrientes,Paso de los Libres,-29.710789,-57.086486,3230
+268,128,Sucursal 3,Diagonal 6 N° 9477,Corrientes,Mercedes,-29.178603,-58.077223,3470
+269,129,Sucursal 1,Calle 2 N° 662,Entre Ríos,Concepción del Uruguay,-32.481259,-58.234771,3260
+270,129,Sucursal 2,Av. Alem N° 467,Entre Ríos,Paraná,-31.743513,-60.508568,3100
+271,129,Sucursal 3,Calle 2 N° 7459,Chaco,Charata,-27.218115,-61.2027,3730
+272,130,Sucursal 1,Diagonal Neuquén N° 4751,Corrientes,Goya,-29.138287,-59.263539,3450
+273,131,Sucursal 1,Calle 1 N° 32,Misiones,Puerto Iguazú,-25.595769,-54.58103,3370
+274,131,Sucursal 2,Boulevard 1 N° 4157,Entre Ríos,Gualeguay,-33.139358,-59.319642,2840
+275,132,Sucursal 1,Avenida Resistencia N° 9499,Entre Ríos,Concordia,-31.382417,-58.017728,3200
+276,133,Sucursal 1,Diag. Alvear N° 84,Formosa,El Colorado,-26.30139,-59.365302,3603
+277,133,Sucursal 2,Av. 6 N° 643,Misiones,Oberá,-27.48141,-55.118603,3360
+278,134,Sucursal 1,Diagonal Merlo N° 447,Misiones,Eldorado,-26.397226,-54.618069,3380
+279,134,Sucursal 2,Calle San Luis N° 86,Misiones,Eldorado,-26.398861,-54.616831,3380
+280,135,Sucursal 1,Diag. Ciudad Autónoma de Buenos Aires N° 55,Entre Ríos,Paraná,-31.739583,-60.513499,3100
+281,135,Sucursal 2,Av. Mitre N° 693,Corrientes,Mercedes,-29.180123,-58.081548,3470
+282,135,Sucursal 3,Av. San Miguel de Tucumán N° 18,Chaco,Resistencia,-27.453478,-58.983133,3500
+283,136,Sucursal 1,Calle Omar Nuñez N° 796,Formosa,Ingeniero Juárez,-23.89893,-61.851912,3636
+284,136,Sucursal 2,Calle San Luis N° 147,Misiones,Eldorado,-26.398325,-54.616032,3380
+285,137,Sucursal 1,Calle Merlo N° 4098,Formosa,Formosa Capital,-26.180778,-58.185622,3600
+286,138,Sucursal 1,Av. Entre Ríos N° 494,Misiones,Apóstoles,-27.919424,-55.76813,3350
+287,138,Sucursal 2,Av. 5 N° 47,Misiones,Posadas,-27.370026,-55.89389,3300
+288,139,Sucursal 1,Av. Misiones N° 831,Entre Ríos,Gualeguay,-33.140238,-59.315357,2840
+289,139,Sucursal 2,Calle Corrientes N° 814,Chaco,Barranqueras,-27.480433,-58.932281,3503
+290,139,Sucursal 3,Av. Rivadavia N° 471,Misiones,Posadas,-27.366985,-55.894971,3300
+291,139,Sucursal 4,Avenida Córdoba N° 97,Formosa,El Colorado,-26.302429,-59.36573,3603
+292,139,Sucursal 5,Boulevard 186 A N° 279,Chaco,Barranqueras,-27.483408,-58.932318,3503
+293,140,Sucursal 1,Diagonal G. Brown N° 309,Corrientes,Mercedes,-29.179266,-58.07855,3470
+294,140,Sucursal 2,Av. 4 N° 976,Formosa,El Colorado,-26.302673,-59.36584,3603
+295,141,Sucursal 1,Avenida Mendoza N° 51,Formosa,Clorinda,-25.281207,-57.714589,3610
+296,142,Sucursal 1,Diagonal 2 N° 66,Corrientes,Curuzú Cuatiá,-29.788191,-58.055376,3460
+297,143,Sucursal 1,Avenida San Salvador de Jujuy N° 133,Chaco,Villa Ángela,-27.585998,-60.718364,3540
+298,143,Sucursal 2,Calle Santiago del Estero N° 383,Entre Ríos,Paraná,-31.742628,-60.509597,3100
+299,143,Sucursal 3,Av. G. Brown N° 956,Corrientes,Curuzú Cuatiá,-29.789945,-58.052492,3460
+300,143,Sucursal 4,Diagonal Santiago del Estero N° 254,Misiones,Apóstoles,-27.919172,-55.766709,3350
+301,144,Sucursal 1,Diagonal Tucumán N° 192,Corrientes,Paso de los Libres,-29.709916,-57.086029,3230
+302,144,Sucursal 2,Av. La Plata N° 6598,Corrientes,Corrientes Capital,-27.482884,-58.835126,3400
+303,145,Sucursal 1,Boulevard Santa Cruz N° 7697,Formosa,Pirané,-25.736299,-59.119155,3606
+304,145,Sucursal 2,Diag. Santa Fe N° 2876,Formosa,El Colorado,-26.297221,-59.365875,3603
+305,145,Sucursal 3,Calle 5 N° 391,Formosa,Clorinda,-25.282926,-57.715772,3610
+306,145,Sucursal 4,Av. Güemes N° 3613,Misiones,Apóstoles,-27.913998,-55.76752,3350
+307,146,Sucursal 1,Diagonal 6 N° 1825,Chaco,Barranqueras,-27.481234,-58.934308,3503
+308,146,Sucursal 2,Av. San Juan N° 3594,Entre Ríos,Gualeguay,-33.140981,-59.316861,2840
+309,147,Sucursal 1,Av. Tucumán N° 122,Entre Ríos,Gualeguaychú,-33.008085,-58.513215,2820
+310,147,Sucursal 2,Diagonal Pte. Perón N° 29,Entre Ríos,Concordia,-31.38497,-58.017652,3200
+311,148,Sucursal 1,Av. Buenos Aires N° 322,Chaco,Charata,-27.216414,-61.200757,3730
+312,148,Sucursal 2,Av. La Rioja N° 6746,Corrientes,Paso de los Libres,-29.715525,-57.089515,3230
+313,148,Sucursal 3,Av. Mendoza N° 5567,Corrientes,Mercedes,-29.179369,-58.077445,3470
+314,148,Sucursal 4,Blv. San Martin N° 1754,Misiones,Puerto Iguazú,-25.599558,-54.577935,3370
+315,149,Sucursal 1,Diagonal 7 N° 7556,Corrientes,Paso de los Libres,-29.710219,-57.088143,3230
+316,150,Sucursal 1,Avenida 5 N° 4788,Chaco,Sáenz Peña,-26.790899,-60.440453,3700
+317,150,Sucursal 2,Av. Paraná N° 259,Misiones,Puerto Iguazú,-25.599921,-54.577801,3370
+318,150,Sucursal 3,Avenida Corrientes N° 811,Entre Ríos,Concordia,-31.382767,-58.015067,3200
+319,151,Sucursal 1,Camino Rosario N° 391,Misiones,Apóstoles,-27.915749,-55.763963,3350
+320,151,Sucursal 2,Diagonal 138 Bis N° 189,Corrientes,Mercedes,-29.178517,-58.081874,3470
+321,151,Sucursal 3,Av. Resistencia N° 126,Entre Ríos,Concepción del Uruguay,-32.485309,-58.234588,3260
+322,152,Sucursal 1,Diagonal Rivadavia N° 247,Formosa,Clorinda,-25.281614,-57.714239,3610
+323,152,Sucursal 2,Camino Rosario N° 395,Entre Ríos,Gualeguaychú,-33.007329,-58.509417,2820
+324,153,Sucursal 1,Blv. Tierra del Fuego N° 8994,Corrientes,Paso de los Libres,-29.713476,-57.086897,3230
+325,154,Sucursal 1,Avenida 5 N° 772,Formosa,Clorinda,-25.281012,-57.717188,3610
+326,154,Sucursal 2,Diag. 3 N° 62,Formosa,El Colorado,-26.297505,-59.365126,3603
+327,154,Sucursal 3,Avenida 6 N° 95,Chaco,Villa Ángela,-27.583913,-60.717643,3540
+328,155,Sucursal 1,Avenida Santa Fe N° 64,Misiones,Apóstoles,-27.914871,-55.768871,3350
+329,155,Sucursal 2,Boulevard 4 N° 9738,Formosa,El Colorado,-26.2988,-59.365209,3603
+330,156,Sucursal 1,Diagonal 123 B N° 85,Entre Ríos,Gualeguaychú,-33.007513,-58.511917,2820
+331,156,Sucursal 2,Camino 2 N° 588,Entre Ríos,Concepción del Uruguay,-32.479987,-58.236405,3260
+332,157,Sucursal 1,Av. Alem N° 45,Chaco,Sáenz Peña,-26.791455,-60.439357,3700
+333,158,Sucursal 1,Diagonal 7 N° 384,Entre Ríos,Concordia,-31.385504,-58.015438,3200
+334,158,Sucursal 2,Calle 2 N° 464,Chaco,Resistencia,-27.451077,-58.984434,3500
+335,159,Sucursal 1,Calle Salta N° 840,Entre Ríos,Gualeguaychú,-33.010108,-58.511687,2820
+336,159,Sucursal 2,Av. Catamarca N° 753,Formosa,Formosa Capital,-26.182803,-58.180644,3600
+337,159,Sucursal 3,Diag. 4 N° 8957,Entre Ríos,Gualeguaychú,-33.008295,-58.509313,2820
+338,160,Sucursal 1,Avenida San Miguel de Tucumán N° 99,Misiones,Puerto Iguazú,-25.59535,-54.578464,3370
+339,160,Sucursal 2,Diagonal 8 N° 870,Corrientes,Corrientes Capital,-27.481215,-58.837282,3400
+340,161,Sucursal 1,Diagonal Mendoza N° 21,Chaco,Sáenz Peña,-26.793598,-60.436387,3700
+341,162,Sucursal 1,Diagonal J.J. Castelli N° 16,Entre Ríos,Concordia,-31.384797,-58.014664,3200
+342,162,Sucursal 2,Diagonal Mitre N° 29,Entre Ríos,Gualeguaychú,-33.006094,-58.512576,2820
+343,163,Sucursal 1,Boulevard Salta N° 798,Corrientes,Goya,-29.141248,-59.262984,3450
+344,163,Sucursal 2,Av. 9 N° 219,Formosa,El Colorado,-26.297792,-59.365263,3603
+345,163,Sucursal 3,Av. Comodoro Rivadavia N° 44,Chaco,Barranqueras,-27.481846,-58.932932,3503
+346,163,Sucursal 4,Diagonal 5 N° 255,Chaco,Barranqueras,-27.483234,-58.931519,3503
+347,164,Sucursal 1,Camino Misiones N° 4098,Entre Ríos,Gualeguaychú,-33.006813,-58.508241,2820
+348,164,Sucursal 2,Calle J.B. Alberdi N° 166,Misiones,Eldorado,-26.400501,-54.614971,3380
+349,165,Sucursal 1,Av. Ushuaia N° 16,Misiones,Posadas,-27.364305,-55.898777,3300
+350,165,Sucursal 2,Diagonal Omar Nuñez N° 272,Entre Ríos,Concepción del Uruguay,-32.484092,-58.236477,3260
+351,165,Sucursal 3,Calle 4 N° 412,Entre Ríos,Gualeguay,-33.139537,-59.317042,2840
+352,165,Sucursal 4,Blv. San Luis N° 816,Chaco,Barranqueras,-27.480831,-58.932072,3503
+353,166,Sucursal 1,Camino 1 N° 991,Entre Ríos,Gualeguay,-33.14117,-59.315269,2840
+354,166,Sucursal 2,Diagonal Mar del Plata N° 994,Chaco,Sáenz Peña,-26.790543,-60.435314,3700
+355,167,Sucursal 1,Calle 6 N° 224,Misiones,Apóstoles,-27.918635,-55.765604,3350
+356,167,Sucursal 2,Diagonal Córdoba N° 76,Chaco,Resistencia,-27.448325,-58.98419,3500
+357,167,Sucursal 3,Diagonal Catamarca N° 285,Corrientes,Paso de los Libres,-29.713537,-57.087929,3230
+358,167,Sucursal 4,Diagonal 7 N° 454,Formosa,Pirané,-25.734715,-59.118734,3606
+359,168,Sucursal 1,Blv. 9 N° 327,Corrientes,Corrientes Capital,-27.481517,-58.833342,3400
+360,168,Sucursal 2,Diagonal Alvear N° 644,Corrientes,Mercedes,-29.18406,-58.076328,3470
+361,169,Sucursal 1,Calle 5 N° 64,Entre Ríos,Gualeguay,-33.139106,-59.316006,2840
+362,170,Sucursal 1,Camino 4 N° 645,Formosa,Formosa Capital,-26.181561,-58.182999,3600
+363,170,Sucursal 2,Blv. Pte. Perón N° 247,Corrientes,Curuzú Cuatiá,-29.787996,-58.055393,3460
+364,171,Sucursal 1,Calle 4 N° 224,Chaco,Resistencia,-27.450976,-58.983882,3500
+365,171,Sucursal 2,Calle Merlo N° 691,Chaco,Resistencia,-27.451604,-58.985378,3500
+366,171,Sucursal 3,Av. San Salvador de Jujuy N° 846,Corrientes,Curuzú Cuatiá,-29.790604,-58.052,3460
+367,172,Sucursal 1,Av. Tierra del Fuego N° 88,Misiones,Posadas,-27.368114,-55.897339,3300
+368,172,Sucursal 2,Avenida Alem N° 912,Entre Ríos,Gualeguay,-33.14099,-59.316851,2840
+369,172,Sucursal 3,Calle Pte. Perón N° 6826,Formosa,Pirané,-25.731358,-59.113813,3606
+370,172,Sucursal 4,Diagonal 6 N° 35,Corrientes,Corrientes Capital,-27.482812,-58.835524,3400
+371,173,Sucursal 1,Diagonal Bahía Blanca N° 689,Entre Ríos,Paraná,-31.741218,-60.510773,3100
+372,174,Sucursal 1,Avenida La Rioja N° 26,Entre Ríos,Concordia,-31.380986,-58.017412,3200
+373,174,Sucursal 2,Diagonal Córdoba N° 7269,Corrientes,Paso de los Libres,-29.713485,-57.087259,3230
+374,175,Sucursal 1,Avenida 8 N° 3167,Corrientes,Corrientes Capital,-27.478032,-58.832667,3400
+375,175,Sucursal 2,Avenida 7 N° 5462,Misiones,Oberá,-27.483214,-55.116648,3360
+376,175,Sucursal 3,Avenida Mendoza N° 456,Formosa,Formosa Capital,-26.186037,-58.18091,3600
+377,176,Sucursal 1,Diag. Santiago del Estero N° 448,Misiones,Posadas,-27.367017,-55.893411,3300
+378,177,Sucursal 1,Avenida Buenos Aires N° 133,Entre Ríos,Gualeguay,-33.141472,-59.319656,2840
+379,178,Sucursal 1,Calle Salta N° 583,Chaco,Sáenz Peña,-26.791178,-60.436459,3700
+380,179,Sucursal 1,Av. Jujuy N° 6318,Corrientes,Paso de los Libres,-29.714567,-57.085528,3230
+381,179,Sucursal 2,Calle Resistencia N° 6540,Entre Ríos,Concepción del Uruguay,-32.480949,-58.236321,3260
+382,180,Sucursal 1,Calle 3 N° 13,Entre Ríos,Concepción del Uruguay,-32.481484,-58.240057,3260
+383,180,Sucursal 2,Diagonal Comodoro Rivadavia N° 682,Entre Ríos,Gualeguaychú,-33.00881,-58.513275,2820
+384,181,Sucursal 1,Av. 4 N° 994,Chaco,Resistencia,-27.449335,-58.985251,3500
+385,181,Sucursal 2,Boulevard San Martin N° 338,Formosa,Ingeniero Juárez,-23.89807,-61.847534,3636
+386,181,Sucursal 3,Calle Santa Fe N° 51,Misiones,Puerto Iguazú,-25.597872,-54.577819,3370
+387,182,Sucursal 1,Boulevard San Luis N° 3998,Misiones,Posadas,-27.369999,-55.89506,3300
+388,182,Sucursal 2,Calle Neuquén N° 951,Formosa,Pirané,-25.736265,-59.115378,3606
+389,182,Sucursal 3,Boulevard Santiago del Estero N° 559,Corrientes,Curuzú Cuatiá,-29.788164,-58.053786,3460
+390,183,Sucursal 1,Av. 9 N° 948,Misiones,Oberá,-27.480732,-55.119063,3360
+391,184,Sucursal 1,Diag. Viedma N° 778,Formosa,El Colorado,-26.302481,-59.365108,3603
+392,184,Sucursal 2,Avenida 6 N° 6591,Misiones,Apóstoles,-27.917412,-55.764767,3350
+393,185,Sucursal 1,Camino San Martin N° 219,Formosa,Formosa Capital,-26.185362,-58.184981,3600
+394,185,Sucursal 2,Avenida San Luis N° 116,Entre Ríos,Concepción del Uruguay,-32.483254,-58.235415,3260
+395,186,Sucursal 1,Av. Río Gallegos N° 569,Chaco,Charata,-27.213939,-61.202136,3730
+396,186,Sucursal 2,Avenida 7 N° 631,Entre Ríos,Concordia,-31.380978,-58.013908,3200
+397,186,Sucursal 3,Diagonal San Juan N° 627,Entre Ríos,Concepción del Uruguay,-32.481712,-58.234456,3260
+398,186,Sucursal 4,Avenida 1 N° 3679,Corrientes,Corrientes Capital,-27.480179,-58.83427,3400
+399,187,Sucursal 1,Avenida 4 N° 13,Corrientes,Goya,-29.14337,-59.26212,3450
+400,187,Sucursal 2,Diagonal Saavedra N° 57,Formosa,Pirané,-25.733015,-59.119189,3606
+401,188,Sucursal 1,Av. Malvinas Argentinas N° 190,Entre Ríos,Concepción del Uruguay,-32.481151,-58.235844,3260
+402,188,Sucursal 2,Calle Malvinas Argentinas N° 3324,Chaco,Sáenz Peña,-26.792724,-60.437224,3700
+403,189,Sucursal 1,Avenida Ushuaia N° 31,Corrientes,Mercedes,-29.183334,-58.080575,3470
+404,189,Sucursal 2,Diagonal 2 N° 255,Chaco,Villa Ángela,-27.585134,-60.718612,3540
+405,189,Sucursal 3,Avenida Santiago del Estero N° 185,Formosa,Ingeniero Juárez,-23.897886,-61.847892,3636
+406,189,Sucursal 4,Av. Corrientes N° 956,Formosa,Pirané,-25.733532,-59.116402,3606
+407,190,Sucursal 1,Diagonal Mendoza N° 321,Entre Ríos,Concordia,-31.385896,-58.019111,3200
+408,190,Sucursal 2,Av. J.J. Castelli N° 520,Entre Ríos,Concepción del Uruguay,-32.482116,-58.234491,3260
+409,191,Sucursal 1,Calle Merlo N° 608,Corrientes,Mercedes,-29.180272,-58.080493,3470
+410,191,Sucursal 2,Diagonal Pte. Perón N° 354,Chaco,Charata,-27.215983,-61.197599,3730
+411,192,Sucursal 1,Diagonal Corrientes N° 8326,Formosa,Formosa Capital,-26.183596,-58.182602,3600
+412,192,Sucursal 2,Boulevard 2 N° 507,Chaco,Charata,-27.215539,-61.202086,3730
+413,192,Sucursal 3,Av. Chaco N° 362,Formosa,Ingeniero Juárez,-23.900813,-61.851102,3636
+414,193,Sucursal 1,Av. 6 N° 968,Chaco,Resistencia,-27.454071,-58.987123,3500
+415,193,Sucursal 2,Calle 9 N° 7971,Chaco,Barranqueras,-27.482027,-58.932455,3503
+416,193,Sucursal 3,Calle 9 N° 959,Chaco,Villa Ángela,-27.581259,-60.718894,3540
+417,194,Sucursal 1,Diagonal Güemes N° 3489,Formosa,Formosa Capital,-26.183523,-58.184148,3600
+418,194,Sucursal 2,Blv. Corrientes N° 240,Chaco,Charata,-27.216778,-61.202347,3730
+419,195,Sucursal 1,Avenida J.M. de Rosas N° 589,Chaco,Villa Ángela,-27.581148,-60.71886,3540
+420,196,Sucursal 1,Diagonal Formosa N° 7251,Chaco,Sáenz Peña,-26.793621,-60.435782,3700
+421,196,Sucursal 2,Calle J.J. Castelli N° 1225,Corrientes,Curuzú Cuatiá,-29.788335,-58.051947,3460
+422,196,Sucursal 3,Calle 4 N° 731,Formosa,Clorinda,-25.28251,-57.714824,3610
+423,196,Sucursal 4,Avenida 6 N° 534,Formosa,Ingeniero Juárez,-23.900569,-61.84946,3636
+424,197,Sucursal 1,Av. Constitución N° 88,Formosa,Pirané,-25.734736,-59.114336,3606
+425,198,Sucursal 1,Boulevard Malvinas Argentinas N° 588,Entre Ríos,Paraná,-31.740249,-60.512305,3100
+426,198,Sucursal 2,Diagonal Misiones N° 164,Chaco,Barranqueras,-27.480951,-58.932762,3503
+427,199,Sucursal 1,Av. Güemes N° 33,Corrientes,Mercedes,-29.181512,-58.078838,3470
+428,199,Sucursal 2,Avenida 8 N° 38,Misiones,Eldorado,-26.400817,-54.619636,3380
+429,200,Sucursal 1,Calle 1 N° 425,Formosa,El Colorado,-26.298895,-59.365157,3603
+430,200,Sucursal 2,Avenida San Martin N° 951,Corrientes,Mercedes,-29.181623,-58.080825,3470
+431,201,Sucursal 1,Avenida Mitre N° 881,Entre Ríos,Concordia,-31.381067,-58.018823,3200
+432,201,Sucursal 2,Av. Mitre N° 16,Entre Ríos,Concepción del Uruguay,-32.482699,-58.238047,3260
+433,201,Sucursal 3,Calle Alem N° 719,Chaco,Barranqueras,-27.481731,-58.93491,3503
+434,201,Sucursal 4,Av. Mitre N° 493,Chaco,Villa Ángela,-27.584083,-60.719443,3540
+435,202,Sucursal 1,Boulevard 1 N° 95,Formosa,Clorinda,-25.280854,-57.717532,3610
+436,203,Sucursal 1,Av. Constitución N° 31,Misiones,Apóstoles,-27.914411,-55.769461,3350
+437,203,Sucursal 2,Calle J.J. Castelli N° 94,Entre Ríos,Paraná,-31.742956,-60.510278,3100
+438,203,Sucursal 3,Calle Alem N° 84,Formosa,Clorinda,-25.282499,-57.718059,3610
+439,204,Sucursal 1,Avenida Mendoza N° 496,Formosa,Ingeniero Juárez,-23.899734,-61.851957,3636
+440,204,Sucursal 2,Avenida Río Negro N° 7879,Entre Ríos,Paraná,-31.742629,-60.510974,3100
+441,205,Sucursal 1,Diagonal Mitre N° 454,Formosa,Clorinda,-25.28479,-57.713864,3610
+442,206,Sucursal 1,Avenida 149 Bis N° 592,Formosa,Clorinda,-25.283865,-57.714797,3610
+443,206,Sucursal 2,Blv. 8 N° 24,Misiones,Oberá,-27.483379,-55.116807,3360
+444,207,Sucursal 1,Av. Río Gallegos N° 7995,Corrientes,Corrientes Capital,-27.480489,-58.836766,3400
+445,207,Sucursal 2,Diag. Jujuy N° 8685,Chaco,Resistencia,-27.45272,-58.985513,3500
+446,207,Sucursal 3,Avenida 2 N° 79,Chaco,Villa Ángela,-27.585031,-60.718579,3540
+447,207,Sucursal 4,Camino 2 N° 135,Misiones,Oberá,-27.482688,-55.114798,3360
+448,208,Sucursal 1,Av. J.J. Castelli N° 7316,Chaco,Barranqueras,-27.483812,-58.934319,3503
+449,208,Sucursal 2,Avenida Malvinas Argentinas N° 2343,Corrientes,Paso de los Libres,-29.712911,-57.087627,3230
+450,208,Sucursal 3,Boulevard Río Negro N° 255,Chaco,Sáenz Peña,-26.791655,-60.437216,3700
+451,208,Sucursal 4,Calle 1 N° 78,Misiones,Puerto Iguazú,-25.600065,-54.581341,3370
+452,209,Sucursal 1,Calle Omar Nuñez N° 411,Formosa,Ingeniero Juárez,-23.902033,-61.849223,3636
+453,209,Sucursal 2,Boulevard Entre Ríos N° 56,Corrientes,Goya,-29.138055,-59.264819,3450
+454,209,Sucursal 3,Diag. 5 N° 9913,Chaco,Resistencia,-27.45255,-58.98752,3500
+455,209,Sucursal 4,Diagonal J.B. Alberdi N° 94,Misiones,Eldorado,-26.399404,-54.616318,3380
+456,210,Sucursal 1,Diagonal Omar Nuñez N° 559,Entre Ríos,Concepción del Uruguay,-32.481232,-58.235272,3260
+457,211,Sucursal 1,Avenida Güemes N° 65,Chaco,Sáenz Peña,-26.792505,-60.435143,3700
+458,212,Sucursal 1,Diagonal 2 N° 58,Chaco,Resistencia,-27.452784,-58.986135,3500
+459,212,Sucursal 2,Av. San Juan N° 79,Corrientes,Mercedes,-29.179532,-58.076977,3470
+460,213,Sucursal 1,Camino Saavedra N° 228,Formosa,El Colorado,-26.299042,-59.368113,3603
+461,214,Sucursal 1,Av. Chilecito N° 55,Misiones,Apóstoles,-27.916121,-55.769287,3350
+462,214,Sucursal 2,Av. Corrientes N° 217,Misiones,Eldorado,-26.400687,-54.619049,3380
+463,215,Sucursal 1,Av. 3 N° 606,Formosa,Clorinda,-25.281142,-57.716674,3610
+464,215,Sucursal 2,Av. Neuquén N° 740,Misiones,Puerto Iguazú,-25.595241,-54.577967,3370
+465,215,Sucursal 3,Diagonal Río Gallegos N° 196,Chaco,Resistencia,-27.451245,-58.984912,3500
+466,216,Sucursal 1,Av. Santa Cruz N° 338,Formosa,Pirané,-25.73328,-59.118995,3606
+467,217,Sucursal 1,Av. 2 N° 2364,Entre Ríos,Concordia,-31.385518,-58.016079,3200
+468,217,Sucursal 2,Blv. Belgrano N° 54,Corrientes,Corrientes Capital,-27.478118,-58.832951,3400
+469,217,Sucursal 3,Diagonal Ciudad Autónoma de Buenos Aires N° 9947,Entre Ríos,Paraná,-31.742311,-60.511976,3100
+470,218,Sucursal 1,Diag. Mendoza N° 225,Entre Ríos,Gualeguaychú,-33.007621,-58.512423,2820
+471,218,Sucursal 2,Diagonal Corrientes N° 862,Formosa,Formosa Capital,-26.181563,-58.184013,3600
+472,219,Sucursal 1,Av. Paraná N° 126,Entre Ríos,Concepción del Uruguay,-32.480153,-58.235177,3260
+473,219,Sucursal 2,Diagonal Jujuy N° 4410,Formosa,Ingeniero Juárez,-23.902414,-61.852197,3636
+474,219,Sucursal 3,Calle Santa Fe N° 7069,Formosa,Formosa Capital,-26.181705,-58.180839,3600
+475,219,Sucursal 4,Diagonal San Juan N° 693,Corrientes,Curuzú Cuatiá,-29.791,-58.052039,3460
+476,220,Sucursal 1,Av. 6 N° 817,Chaco,Villa Ángela,-27.585166,-60.715445,3540
+477,220,Sucursal 2,Calle G. Brown N° 35,Corrientes,Corrientes Capital,-27.480032,-58.836893,3400
+478,221,Sucursal 1,Blv. 1 N° 147,Misiones,Eldorado,-26.399073,-54.615573,3380
+479,222,Sucursal 1,Av. Mendoza N° 198,Misiones,Puerto Iguazú,-25.598026,-54.580671,3370
+480,222,Sucursal 2,Av. Malvinas Argentinas N° 684,Entre Ríos,Paraná,-31.741388,-60.512932,3100
+481,223,Sucursal 1,Diag. 1 N° 8377,Formosa,Ingeniero Juárez,-23.900806,-61.851347,3636
+482,223,Sucursal 2,Diag. Comodoro Rivadavia N° 19,Entre Ríos,Concordia,-31.383915,-58.018478,3200
+483,224,Sucursal 1,Av. Comodoro Rivadavia N° 57,Formosa,Pirané,-25.733405,-59.117479,3606
+484,224,Sucursal 2,Blv. Alvear N° 781,Formosa,Pirané,-25.733397,-59.113769,3606
+485,224,Sucursal 3,Camino J.M. de Rosas N° 36,Formosa,Ingeniero Juárez,-23.900934,-61.848767,3636
+486,224,Sucursal 4,Av. Omar Nuñez N° 141,Entre Ríos,Concepción del Uruguay,-32.484772,-58.235017,3260
+487,225,Sucursal 1,Av. San Juan N° 61,Entre Ríos,Concepción del Uruguay,-32.484221,-58.235501,3260
+488,226,Sucursal 1,Avenida Rivadavia N° 8269,Corrientes,Paso de los Libres,-29.714513,-57.088097,3230
+489,227,Sucursal 1,Avenida Formosa N° 35,Formosa,Pirané,-25.732616,-59.115593,3606
+490,227,Sucursal 2,Av. Tierra del Fuego N° 474,Corrientes,Goya,-29.142436,-59.259913,3450
+491,227,Sucursal 3,Blv. Santiago del Estero N° 436,Corrientes,Corrientes Capital,-27.478674,-58.83266,3400
+492,228,Sucursal 1,Av. 4 N° 17,Formosa,El Colorado,-26.300388,-59.369316,3603
+493,228,Sucursal 2,Calle Belgrano N° 74,Chaco,Barranqueras,-27.484075,-58.932646,3503
+494,229,Sucursal 1,Diag. Chaco N° 710,Misiones,Eldorado,-26.397416,-54.617296,3380
+495,229,Sucursal 2,Blv. Misiones N° 377,Entre Ríos,Paraná,-31.741774,-60.51023,3100
+496,229,Sucursal 3,Diag. Córdoba N° 282,Formosa,El Colorado,-26.302655,-59.365058,3603
+497,229,Sucursal 4,Av. Saavedra N° 86,Chaco,Resistencia,-27.450258,-58.985966,3500
+498,229,Sucursal 5,Calle Corrientes N° 124,Chaco,Sáenz Peña,-26.790097,-60.435515,3700
+499,230,Sucursal 1,Diagonal J.M. de Rosas N° 990,Chaco,Charata,-27.218532,-61.198296,3730
+500,230,Sucursal 2,Avenida La Pampa N° 313,Formosa,Clorinda,-25.283205,-57.71831,3610
+501,230,Sucursal 3,Camino Catamarca N° 130,Chaco,Resistencia,-27.450056,-58.986442,3500
+502,230,Sucursal 4,Calle Posadas N° 82,Entre Ríos,Paraná,-31.744898,-60.513555,3100
+503,230,Sucursal 5,Boulevard 7 N° 36,Chaco,Villa Ángela,-27.581622,-60.717581,3540
+504,231,Sucursal 1,Av. Güemes N° 92,Misiones,Eldorado,-26.399484,-54.616594,3380
+505,231,Sucursal 2,Diagonal Comodoro Rivadavia N° 3097,Entre Ríos,Concepción del Uruguay,-32.481378,-58.234685,3260
+506,231,Sucursal 3,Avenida Corrientes N° 8096,Formosa,Pirané,-25.734593,-59.114721,3606
+507,231,Sucursal 4,Avenida 2 N° 62,Formosa,Ingeniero Juárez,-23.900911,-61.84722,3636
+508,232,Sucursal 1,Diagonal Mendoza N° 722,Chaco,Barranqueras,-27.482662,-58.935133,3503
+509,232,Sucursal 2,Diagonal Córdoba N° 3842,Misiones,Eldorado,-26.399551,-54.618133,3380
+510,233,Sucursal 1,Calle Corrientes N° 788,Formosa,Clorinda,-25.285661,-57.719266,3610
+511,233,Sucursal 2,Diagonal Corrientes N° 289,Chaco,Charata,-27.21766,-61.202298,3730
+512,234,Sucursal 1,Diagonal 9 N° 25,Chaco,Villa Ángela,-27.581043,-60.714821,3540
+513,234,Sucursal 2,Boulevard 121 B N° 951,Formosa,Ingeniero Juárez,-23.901499,-61.850343,3636
+514,234,Sucursal 3,Boulevard J.B. Alberdi N° 82,Misiones,Eldorado,-26.399621,-54.61508,3380
+515,234,Sucursal 4,Avenida J.B. Alberdi N° 148,Entre Ríos,Gualeguay,-33.142662,-59.315046,2840
+516,234,Sucursal 5,Avenida Tucumán N° 6720,Entre Ríos,Concordia,-31.383536,-58.016179,3200
+517,235,Sucursal 1,Diag. 1 N° 477,Formosa,Formosa Capital,-26.185602,-58.185895,3600
+518,236,Sucursal 1,Diagonal San Luis N° 55,Chaco,Barranqueras,-27.482239,-58.93492,3503
+519,236,Sucursal 2,Calle Merlo N° 639,Misiones,Posadas,-27.367625,-55.896981,3300
+520,236,Sucursal 3,Calle 3 N° 8151,Formosa,Pirané,-25.736242,-59.114707,3606
+521,236,Sucursal 4,Calle 7 N° 3223,Chaco,Barranqueras,-27.484576,-58.933906,3503
+522,236,Sucursal 5,Diagonal 132 A N° 724,Entre Ríos,Concepción del Uruguay,-32.480674,-58.239744,3260
+523,237,Sucursal 1,Camino 153 A N° 163,Formosa,Formosa Capital,-26.184417,-58.184989,3600
+524,237,Sucursal 2,Av. Mar del Plata N° 868,Formosa,Ingeniero Juárez,-23.901386,-61.847317,3636
+525,237,Sucursal 3,Diagonal La Plata N° 933,Entre Ríos,Concordia,-31.380718,-58.018559,3200
+526,238,Sucursal 1,Diagonal 191 B N° 3799,Chaco,Sáenz Peña,-26.793791,-60.439648,3700
+527,238,Sucursal 2,Avenida 1 N° 258,Chaco,Villa Ángela,-27.585059,-60.718483,3540
+528,238,Sucursal 3,Diagonal Alem N° 439,Chaco,Barranqueras,-27.481282,-58.934164,3503
+529,238,Sucursal 4,Avenida Misiones N° 79,Entre Ríos,Gualeguay,-33.14406,-59.314179,2840
+530,239,Sucursal 1,Avenida Salta N° 78,Formosa,El Colorado,-26.30296,-59.364557,3603
+531,239,Sucursal 2,Boulevard 2 N° 7017,Corrientes,Goya,-29.138312,-59.263473,3450
+532,240,Sucursal 1,Boulevard San Juan N° 24,Formosa,Formosa Capital,-26.180911,-58.181014,3600
+533,240,Sucursal 2,Diagonal 8 N° 73,Formosa,Ingeniero Juárez,-23.897787,-61.850055,3636
+534,241,Sucursal 1,Calle Mar del Plata N° 799,Chaco,Villa Ángela,-27.583913,-60.715199,3540
+535,241,Sucursal 2,Diagonal Buenos Aires N° 29,Corrientes,Mercedes,-29.183975,-58.077104,3470
+536,241,Sucursal 3,Diagonal Resistencia N° 238,Formosa,Formosa Capital,-26.180662,-58.186105,3600
+537,241,Sucursal 4,Calle Río Gallegos N° 458,Misiones,Oberá,-27.483938,-55.115582,3360
+538,242,Sucursal 1,Av. Tierra del Fuego N° 1076,Misiones,Apóstoles,-27.913841,-55.765511,3350
+539,243,Sucursal 1,Av. Belgrano N° 927,Misiones,Posadas,-27.365965,-55.899029,3300
+540,243,Sucursal 2,Calle Omar Nuñez N° 11,Chaco,Sáenz Peña,-26.792923,-60.440496,3700
+541,244,Sucursal 1,Diag. Catamarca N° 186,Formosa,El Colorado,-26.297829,-59.368577,3603
+542,244,Sucursal 2,Av. 134 A N° 992,Chaco,Villa Ángela,-27.584877,-60.716872,3540
+543,245,Sucursal 1,Av. San Salvador de Jujuy N° 233,Misiones,Posadas,-27.367904,-55.896107,3300
+544,245,Sucursal 2,Avenida Ushuaia N° 488,Chaco,Sáenz Peña,-26.792685,-60.436587,3700
+545,245,Sucursal 3,Av. La Plata N° 331,Misiones,Oberá,-27.481174,-55.118022,3360
+546,245,Sucursal 4,Av. Alvear N° 933,Chaco,Resistencia,-27.450672,-58.982724,3500
+547,245,Sucursal 5,Avenida 4 N° 3179,Entre Ríos,Concordia,-31.384929,-58.019101,3200
+548,246,Sucursal 1,Av. Corrientes N° 701,Chaco,Barranqueras,-27.482968,-58.931162,3503
+549,246,Sucursal 2,Blv. Bahía Blanca N° 3526,Chaco,Sáenz Peña,-26.794325,-60.435345,3700
+550,246,Sucursal 3,Av. La Pampa N° 8656,Corrientes,Mercedes,-29.181462,-58.081842,3470
+551,247,Sucursal 1,Calle 8 N° 55,Formosa,Formosa Capital,-26.185493,-58.18094,3600
+552,247,Sucursal 2,Av. J.M. de Rosas N° 392,Entre Ríos,Paraná,-31.741798,-60.510177,3100
+553,248,Sucursal 1,Av. 1 N° 421,Chaco,Charata,-27.218194,-61.197849,3730
+554,248,Sucursal 2,Diag. J.M. de Rosas N° 452,Corrientes,Goya,-29.14101,-59.261557,3450
+555,249,Sucursal 1,Camino Jujuy N° 1155,Chaco,Sáenz Peña,-26.790317,-60.438241,3700
+556,249,Sucursal 2,Blv. Alvear N° 2813,Entre Ríos,Paraná,-31.744322,-60.510032,3100
+557,250,Sucursal 1,Diagonal Pte. Perón N° 9442,Misiones,Oberá,-27.484138,-55.116355,3360
+558,250,Sucursal 2,Diagonal 8 N° 695,Chaco,Villa Ángela,-27.584235,-60.717229,3540
+559,250,Sucursal 3,Calle Santa Fe N° 76,Misiones,Oberá,-27.481096,-55.113921,3360
+560,250,Sucursal 4,Calle 4 N° 954,Chaco,Sáenz Peña,-26.791739,-60.437201,3700
+561,251,Sucursal 1,Calle Santiago del Estero N° 61,Entre Ríos,Gualeguay,-33.142992,-59.317749,2840
+562,252,Sucursal 1,Diag. Río Negro N° 53,Entre Ríos,Gualeguay,-33.140281,-59.314362,2840
+563,252,Sucursal 2,Avenida Ciudad Autónoma de Buenos Aires N° 38,Misiones,Eldorado,-26.399318,-54.616917,3380
+564,253,Sucursal 1,Diag. San Salvador de Jujuy N° 4795,Chaco,Resistencia,-27.450257,-58.983029,3500
+565,253,Sucursal 2,Calle Mar del Plata N° 858,Misiones,Puerto Iguazú,-25.596412,-54.57817,3370
+566,254,Sucursal 1,Avenida 3 N° 396,Corrientes,Curuzú Cuatiá,-29.791728,-58.055931,3460
+567,254,Sucursal 2,Diagonal 3 N° 662,Misiones,Posadas,-27.366182,-55.894837,3300
+568,255,Sucursal 1,Blv. Jujuy N° 847,Entre Ríos,Paraná,-31.742527,-60.509174,3100
+569,255,Sucursal 2,Av. 1 N° 51,Entre Ríos,Gualeguay,-33.139523,-59.317521,2840
+570,255,Sucursal 3,Calle 7 N° 398,Formosa,Ingeniero Juárez,-23.899874,-61.850298,3636
+571,255,Sucursal 4,Avenida Jujuy N° 992,Chaco,Resistencia,-27.452997,-58.988461,3500
+572,256,Sucursal 1,Avenida Alvear N° 95,Chaco,Barranqueras,-27.482328,-58.930657,3503
+573,256,Sucursal 2,Av. 8 N° 218,Entre Ríos,Gualeguaychú,-33.006302,-58.512537,2820
+574,256,Sucursal 3,Avenida Saavedra N° 64,Misiones,Eldorado,-26.402382,-54.619317,3380
+575,256,Sucursal 4,Calle 128 B N° 94,Formosa,Formosa Capital,-26.183009,-58.186142,3600
+576,257,Sucursal 1,Diag. Viedma N° 392,Formosa,Clorinda,-25.28171,-57.7192,3610
+577,257,Sucursal 2,Avenida G. Brown N° 603,Chaco,Villa Ángela,-27.582591,-60.719194,3540
+578,258,Sucursal 1,Av. Mendoza N° 427,Chaco,Charata,-27.218324,-61.198574,3730
+579,258,Sucursal 2,Avenida 186 B N° 7237,Misiones,Apóstoles,-27.915941,-55.768912,3350
+580,259,Sucursal 1,Av. Alem N° 93,Corrientes,Corrientes Capital,-27.483289,-58.835459,3400
+581,259,Sucursal 2,Calle Neuquén N° 5662,Misiones,Posadas,-27.364915,-55.896297,3300
+582,260,Sucursal 1,Diagonal Comodoro Rivadavia N° 93,Chaco,Villa Ángela,-27.583009,-60.718889,3540
+583,260,Sucursal 2,Blv. Tucumán N° 982,Entre Ríos,Gualeguaychú,-33.007564,-58.510255,2820
+584,260,Sucursal 3,Diagonal Alvear N° 664,Misiones,Apóstoles,-27.915914,-55.765885,3350
+585,260,Sucursal 4,Avenida La Pampa N° 768,Formosa,Ingeniero Juárez,-23.90039,-61.849161,3636
+586,261,Sucursal 1,Diagonal Córdoba N° 185,Chaco,Charata,-27.214246,-61.20011,3730
+587,261,Sucursal 2,Diagonal Salta N° 8298,Chaco,Barranqueras,-27.481472,-58.933649,3503
+588,261,Sucursal 3,Av. Chilecito N° 55,Misiones,Oberá,-27.483827,-55.118766,3360
+589,261,Sucursal 4,Avenida Corrientes N° 14,Corrientes,Corrientes Capital,-27.483499,-58.832708,3400
+590,262,Sucursal 1,Calle 194 B N° 5954,Misiones,Oberá,-27.484579,-55.116489,3360
+591,262,Sucursal 2,Calle Tucumán N° 3686,Entre Ríos,Gualeguaychú,-33.005267,-58.508118,2820
+592,262,Sucursal 3,Calle 159 Bis N° 190,Formosa,Formosa Capital,-26.184502,-58.181705,3600
+593,263,Sucursal 1,Diagonal La Rioja N° 711,Formosa,El Colorado,-26.301613,-59.369657,3603
+594,263,Sucursal 2,Camino Pte. Perón N° 67,Misiones,Oberá,-27.485169,-55.114407,3360
+595,264,Sucursal 1,Diagonal Córdoba N° 91,Misiones,Eldorado,-26.401501,-54.61541,3380
+596,264,Sucursal 2,Boulevard J.M. de Rosas N° 9298,Entre Ríos,Paraná,-31.742562,-60.51223,3100
+597,265,Sucursal 1,Blv. G. Brown N° 2938,Corrientes,Curuzú Cuatiá,-29.790167,-58.055863,3460
+598,265,Sucursal 2,Diagonal J.M. de Rosas N° 45,Entre Ríos,Gualeguay,-33.1399,-59.316021,2840
+599,265,Sucursal 3,Av. J.B. Alberdi N° 587,Entre Ríos,Gualeguaychú,-33.006692,-58.512092,2820
+600,266,Sucursal 1,Av. Neuquén N° 1879,Formosa,Pirané,-25.731447,-59.117223,3606
+601,266,Sucursal 2,Av. Entre Ríos N° 62,Corrientes,Curuzú Cuatiá,-29.791606,-58.055562,3460
+602,266,Sucursal 3,Camino 2 N° 4377,Entre Ríos,Paraná,-31.742168,-60.511783,3100
+603,266,Sucursal 4,Blv. Rawson N° 741,Entre Ríos,Gualeguaychú,-33.007063,-58.512673,2820
+604,267,Sucursal 1,Diagonal Alvear N° 809,Corrientes,Mercedes,-29.184002,-58.07869,3470
+605,267,Sucursal 2,Diagonal 1 N° 159,Chaco,Resistencia,-27.448266,-58.986907,3500
+606,268,Sucursal 1,Diag. Santiago del Estero N° 990,Entre Ríos,Gualeguaychú,-33.00817,-58.513751,2820
+607,268,Sucursal 2,Diagonal Alem N° 58,Corrientes,Curuzú Cuatiá,-29.791796,-58.054339,3460
+608,269,Sucursal 1,Diagonal J.B. Alberdi N° 410,Misiones,Puerto Iguazú,-25.598331,-54.576803,3370
+609,269,Sucursal 2,Diagonal Formosa N° 91,Misiones,Oberá,-27.483518,-55.114951,3360
+610,269,Sucursal 3,Calle Paraná N° 9579,Misiones,Posadas,-27.369619,-55.894597,3300
+611,270,Sucursal 1,Calle Ciudad Autónoma de Buenos Aires N° 85,Corrientes,Goya,-29.141801,-59.263345,3450
+612,271,Sucursal 1,Av. 5 N° 44,Chaco,Resistencia,-27.452947,-58.983551,3500
+613,271,Sucursal 2,Avenida Resistencia N° 583,Misiones,Eldorado,-26.39803,-54.618968,3380
+614,272,Sucursal 1,Av. 6 N° 563,Misiones,Eldorado,-26.398373,-54.617042,3380
+615,273,Sucursal 1,Diag. J.B. Alberdi N° 62,Chaco,Sáenz Peña,-26.792435,-60.436474,3700
+616,274,Sucursal 1,Calle Merlo N° 707,Formosa,Formosa Capital,-26.183965,-58.180533,3600
+617,275,Sucursal 1,Diagonal 4 N° 259,Chaco,Resistencia,-27.450325,-58.988347,3500
+618,275,Sucursal 2,Av. 7 N° 630,Formosa,Pirané,-25.733174,-59.11818,3606
+619,276,Sucursal 1,Avenida Saavedra N° 33,Chaco,Sáenz Peña,-26.793037,-60.440787,3700
+620,276,Sucursal 2,Blv. Mitre N° 7090,Entre Ríos,Concordia,-31.384993,-58.019022,3200
+621,277,Sucursal 1,Calle 100 Bis N° 6690,Misiones,Posadas,-27.37001,-55.894334,3300
+622,277,Sucursal 2,Diagonal San Juan N° 330,Formosa,Ingeniero Juárez,-23.902282,-61.848265,3636
+623,278,Sucursal 1,Diagonal Santiago del Estero N° 524,Corrientes,Goya,-29.139914,-59.261555,3450
+624,279,Sucursal 1,Boulevard Saavedra N° 324,Misiones,Oberá,-27.481675,-55.118208,3360
+625,280,Sucursal 1,Diagonal Catamarca N° 988,Corrientes,Curuzú Cuatiá,-29.788584,-58.055269,3460
+626,280,Sucursal 2,Av. 1 N° 1437,Entre Ríos,Gualeguay,-33.140949,-59.319341,2840
+627,281,Sucursal 1,Calle Omar Nuñez N° 584,Corrientes,Mercedes,-29.180092,-58.077151,3470
+628,281,Sucursal 2,Diagonal San Salvador de Jujuy N° 65,Corrientes,Mercedes,-29.181373,-58.08,3470
+629,281,Sucursal 3,Calle Merlo N° 739,Formosa,Pirané,-25.731569,-59.11516,3606
+630,281,Sucursal 4,Avenida 6 N° 352,Misiones,Apóstoles,-27.915301,-55.769572,3350
+631,282,Sucursal 1,Av. Posadas N° 245,Misiones,Oberá,-27.481954,-55.118196,3360
+632,282,Sucursal 2,Boulevard Omar Nuñez N° 2144,Corrientes,Goya,-29.140488,-59.263075,3450
+633,283,Sucursal 1,Boulevard San Miguel de Tucumán N° 278,Formosa,Pirané,-25.732118,-59.118561,3606
+634,283,Sucursal 2,Diag. 6 N° 567,Chaco,Resistencia,-27.450838,-58.986658,3500
+635,284,Sucursal 1,Calle 106 B N° 694,Chaco,Villa Ángela,-27.581094,-60.716108,3540
+636,284,Sucursal 2,Diagonal San Ferando del Valle de Catamarca N° 645,Formosa,Pirané,-25.735338,-59.116513,3606
+637,285,Sucursal 1,Blv. 1 N° 1262,Chaco,Charata,-27.214783,-61.19975,3730
+638,285,Sucursal 2,Diagonal Alem N° 1583,Misiones,Apóstoles,-27.919696,-55.765872,3350
+639,285,Sucursal 3,Av. Chubut N° 265,Misiones,Eldorado,-26.398598,-54.614402,3380
+640,286,Sucursal 1,Avenida Buenos Aires N° 3043,Entre Ríos,Gualeguay,-33.140979,-59.317776,2840
+641,286,Sucursal 2,Avenida 5 N° 415,Corrientes,Curuzú Cuatiá,-29.78875,-58.054066,3460
+642,287,Sucursal 1,Blv. Alvear N° 598,Chaco,Sáenz Peña,-26.792056,-60.438115,3700
+643,287,Sucursal 2,Av. San Martin N° 333,Formosa,Pirané,-25.735375,-59.118001,3606
+644,287,Sucursal 3,Avenida Formosa N° 2536,Misiones,Puerto Iguazú,-25.596355,-54.580937,3370
+645,288,Sucursal 1,Calle J.M. de Rosas N° 434,Corrientes,Goya,-29.138389,-59.264921,3450
+646,289,Sucursal 1,Blv. Salta N° 43,Chaco,Sáenz Peña,-26.794558,-60.43995,3700
+647,290,Sucursal 1,Av. Catamarca N° 3714,Formosa,Ingeniero Juárez,-23.899149,-61.850668,3636
+648,291,Sucursal 1,Avenida Tierra del Fuego N° 5716,Formosa,Clorinda,-25.282556,-57.716158,3610
+649,291,Sucursal 2,Diagonal Rosario N° 918,Corrientes,Goya,-29.141202,-59.262064,3450
+650,292,Sucursal 1,Avenida 127 Bis N° 467,Corrientes,Corrientes Capital,-27.477919,-58.836348,3400
+651,292,Sucursal 2,Diagonal 183 A N° 4124,Formosa,Formosa Capital,-26.18073,-58.181308,3600
+652,293,Sucursal 1,Calle Río Negro N° 29,Entre Ríos,Paraná,-31.744536,-60.511152,3100
+653,293,Sucursal 2,Avenida 7 N° 376,Misiones,Puerto Iguazú,-25.595268,-54.576835,3370
+654,293,Sucursal 3,Av. San Ferando del Valle de Catamarca N° 705,Corrientes,Goya,-29.138458,-59.264105,3450
+655,294,Sucursal 1,Diagonal 4 N° 778,Entre Ríos,Concepción del Uruguay,-32.485178,-58.238377,3260
+656,294,Sucursal 2,Av. Merlo N° 990,Chaco,Sáenz Peña,-26.789436,-60.440517,3700
+657,294,Sucursal 3,Av. Rawson N° 842,Entre Ríos,Concepción del Uruguay,-32.484214,-58.237888,3260
+658,295,Sucursal 1,Blv. Neuquén N° 66,Formosa,Clorinda,-25.282359,-57.71628,3610
+659,296,Sucursal 1,Diagonal Viedma N° 1390,Formosa,Pirané,-25.731805,-59.117209,3606
+660,297,Sucursal 1,Avenida J.M. de Rosas N° 2770,Entre Ríos,Gualeguay,-33.140868,-59.317552,2840
+661,297,Sucursal 2,Diagonal J.J. Castelli N° 969,Misiones,Apóstoles,-27.915485,-55.767138,3350
+662,298,Sucursal 1,Diagonal Mendoza N° 83,Chaco,Resistencia,-27.449345,-58.9853,3500
+663,299,Sucursal 1,Avenida Corrientes N° 276,Entre Ríos,Concordia,-31.385351,-58.013709,3200
+664,299,Sucursal 2,Av. 1 N° 83,Misiones,Apóstoles,-27.914099,-55.764285,3350
+665,300,Sucursal 1,Av. San Martin N° 127,Misiones,Oberá,-27.483826,-55.115901,3360
+666,300,Sucursal 2,Diagonal J.M. de Rosas N° 818,Entre Ríos,Concepción del Uruguay,-32.483659,-58.238756,3260
+667,301,Sucursal 1,Av. 9 N° 2174,Misiones,Eldorado,-26.398406,-54.614143,3380
+668,302,Sucursal 1,Avenida 5 N° 5595,Misiones,Oberá,-27.48053,-55.117015,3360
+669,302,Sucursal 2,Calle J.J. Castelli N° 42,Misiones,Eldorado,-26.402999,-54.619492,3380
+670,302,Sucursal 3,Calle 3 N° 8581,Chaco,Charata,-27.216125,-61.199894,3730
+671,302,Sucursal 4,Calle 7 N° 328,Chaco,Charata,-27.219661,-61.197094,3730
+672,303,Sucursal 1,Av. Rosario N° 909,Misiones,Posadas,-27.36997,-55.894168,3300
+673,303,Sucursal 2,Diagonal San Martin N° 179,Entre Ríos,Gualeguaychú,-33.005866,-58.508285,2820
+674,304,Sucursal 1,Calle Ciudad Autónoma de Buenos Aires N° 851,Formosa,Pirané,-25.732876,-59.11627,3606
+675,304,Sucursal 2,Boulevard 3 N° 765,Corrientes,Paso de los Libres,-29.715574,-57.088366,3230
+676,304,Sucursal 3,Diagonal Malvinas Argentinas N° 7181,Corrientes,Mercedes,-29.18271,-58.076562,3470
+677,304,Sucursal 4,Avenida Rivadavia N° 3364,Chaco,Barranqueras,-27.484902,-58.931434,3503
+678,305,Sucursal 1,Calle 8 N° 32,Formosa,Ingeniero Juárez,-23.900601,-61.847493,3636
+679,306,Sucursal 1,Calle Alvear N° 880,Entre Ríos,Concepción del Uruguay,-32.483652,-58.237305,3260
+680,307,Sucursal 1,Av. San Martin N° 67,Entre Ríos,Gualeguaychú,-33.006583,-58.508883,2820
+681,307,Sucursal 2,Calle Neuquén N° 8387,Corrientes,Paso de los Libres,-29.712229,-57.088698,3230
+682,308,Sucursal 1,Diagonal 9 N° 868,Corrientes,Curuzú Cuatiá,-29.788019,-58.051769,3460
+683,308,Sucursal 2,Avenida 8 N° 289,Misiones,Posadas,-27.368012,-55.894197,3300
+684,309,Sucursal 1,Av. Constitución N° 4738,Corrientes,Paso de los Libres,-29.710581,-57.08914,3230
+685,309,Sucursal 2,Av. Pte. Perón N° 76,Entre Ríos,Paraná,-31.739803,-60.508928,3100
+686,310,Sucursal 1,Av. La Rioja N° 572,Entre Ríos,Gualeguay,-33.140907,-59.319375,2840
+687,310,Sucursal 2,Av. Córdoba N° 2083,Formosa,Clorinda,-25.286053,-57.71646,3610
+688,310,Sucursal 3,Camino Santa Fe N° 741,Corrientes,Mercedes,-29.182339,-58.077713,3470
+689,310,Sucursal 4,Calle San Martin N° 7025,Corrientes,Mercedes,-29.183997,-58.077511,3470
+690,311,Sucursal 1,Av. Neuquén N° 341,Misiones,Apóstoles,-27.915183,-55.766248,3350
+691,311,Sucursal 2,Av. Belgrano N° 791,Corrientes,Curuzú Cuatiá,-29.791367,-58.055561,3460
+692,311,Sucursal 3,Calle Viedma N° 164,Misiones,Eldorado,-26.402112,-54.617683,3380
+693,312,Sucursal 1,Avenida San Luis N° 981,Formosa,Ingeniero Juárez,-23.898528,-61.849711,3636
+694,312,Sucursal 2,Boulevard 178 B N° 5124,Chaco,Villa Ángela,-27.58579,-60.716689,3540
+695,313,Sucursal 1,Avenida 190 Bis N° 856,Corrientes,Mercedes,-29.179728,-58.079014,3470
+696,313,Sucursal 2,Diagonal Córdoba N° 5451,Chaco,Sáenz Peña,-26.792273,-60.437187,3700
+697,313,Sucursal 3,Calle Neuquén N° 927,Chaco,Sáenz Peña,-26.791833,-60.435118,3700
+698,313,Sucursal 4,Diagonal 9 N° 32,Formosa,Clorinda,-25.284823,-57.71927,3610
+699,313,Sucursal 5,Av. Ciudad Autónoma de Buenos Aires N° 27,Entre Ríos,Gualeguay,-33.14212,-59.315592,2840
+700,314,Sucursal 1,Av. Santa Cruz N° 6453,Corrientes,Curuzú Cuatiá,-29.792025,-58.054819,3460
+701,314,Sucursal 2,Calle Rosario N° 965,Misiones,Oberá,-27.48421,-55.117776,3360
+702,314,Sucursal 3,Diagonal J.B. Alberdi N° 26,Formosa,El Colorado,-26.299068,-59.365082,3603
+703,314,Sucursal 4,Calle 1 N° 36,Chaco,Resistencia,-27.448174,-58.984903,3500
+704,315,Sucursal 1,Diagonal 9 N° 8029,Formosa,El Colorado,-26.302125,-59.369431,3603
+705,315,Sucursal 2,Calle 7 N° 234,Chaco,Barranqueras,-27.485102,-58.934057,3503
+706,316,Sucursal 1,Avenida 5 N° 758,Corrientes,Curuzú Cuatiá,-29.792026,-58.056973,3460
+707,316,Sucursal 2,Calle Santa Fe N° 46,Formosa,El Colorado,-26.29744,-59.364487,3603
+708,316,Sucursal 3,Avenida 3 N° 169,Chaco,Charata,-27.219618,-61.198837,3730
+709,316,Sucursal 4,Blv. Constitución N° 369,Corrientes,Paso de los Libres,-29.713969,-57.087673,3230
+710,317,Sucursal 1,Av. Omar Nuñez N° 664,Chaco,Sáenz Peña,-26.79076,-60.439829,3700
+711,317,Sucursal 2,Calle Santiago del Estero N° 8693,Formosa,Pirané,-25.73316,-59.118148,3606
+712,318,Sucursal 1,Av. 1 N° 568,Formosa,El Colorado,-26.29862,-59.368852,3603
+713,318,Sucursal 2,Diagonal Mendoza N° 183,Entre Ríos,Gualeguaychú,-33.00679,-58.51154,2820
+714,319,Sucursal 1,Calle Malvinas Argentinas N° 3355,Chaco,Villa Ángela,-27.585278,-60.717996,3540
+715,320,Sucursal 1,Av. Entre Ríos N° 108,Formosa,El Colorado,-26.301372,-59.36691,3603
+716,320,Sucursal 2,Av. 2 N° 63,Corrientes,Corrientes Capital,-27.4831,-58.833638,3400
+717,320,Sucursal 3,Calle 1 N° 94,Entre Ríos,Concordia,-31.381188,-58.015739,3200
+718,320,Sucursal 4,Diagonal 8 N° 9895,Corrientes,Paso de los Libres,-29.715686,-57.085296,3230
+719,321,Sucursal 1,Calle Santa Fe N° 58,Chaco,Barranqueras,-27.480421,-58.933249,3503
+720,321,Sucursal 2,Avenida 8 N° 45,Entre Ríos,Gualeguaychú,-33.010202,-58.511907,2820
+721,322,Sucursal 1,Calle Corrientes N° 253,Chaco,Resistencia,-27.452907,-58.982799,3500
+722,323,Sucursal 1,Boulevard 6 N° 678,Corrientes,Goya,-29.141916,-59.262524,3450
+723,324,Sucursal 1,Calle San Juan N° 5316,Formosa,Formosa Capital,-26.18394,-58.185358,3600
+724,324,Sucursal 2,Boulevard 6 N° 768,Misiones,Oberá,-27.482194,-55.117568,3360
+725,325,Sucursal 1,Av. Córdoba N° 68,Chaco,Barranqueras,-27.480324,-58.930428,3503
+726,325,Sucursal 2,Avenida San Salvador de Jujuy N° 572,Chaco,Villa Ángela,-27.581429,-60.715945,3540
+727,325,Sucursal 3,Av. 9 N° 7937,Misiones,Eldorado,-26.397658,-54.614811,3380
+728,326,Sucursal 1,Av. Alvear N° 417,Formosa,Pirané,-25.730605,-59.118347,3606
+729,326,Sucursal 2,Diagonal Mitre N° 1380,Misiones,Posadas,-27.364717,-55.895158,3300
+730,327,Sucursal 1,Calle 150 B N° 64,Entre Ríos,Concepción del Uruguay,-32.483307,-58.234436,3260
+731,328,Sucursal 1,Calle Santiago del Estero N° 5555,Misiones,Puerto Iguazú,-25.598758,-54.580684,3370
+732,329,Sucursal 1,Avenida Mitre N° 512,Formosa,El Colorado,-26.301024,-59.366447,3603
+733,329,Sucursal 2,Av. Santa Fe N° 237,Chaco,Sáenz Peña,-26.791285,-60.437614,3700
+734,330,Sucursal 1,Avenida Tucumán N° 815,Corrientes,Mercedes,-29.182446,-58.077669,3470
+735,331,Sucursal 1,Avenida Güemes N° 3575,Misiones,Puerto Iguazú,-25.594226,-54.575745,3370
+736,332,Sucursal 1,Av. San Luis N° 2079,Entre Ríos,Paraná,-31.739302,-60.508997,3100
+737,333,Sucursal 1,Av. San Miguel de Tucumán N° 415,Corrientes,Curuzú Cuatiá,-29.789356,-58.051608,3460
+738,333,Sucursal 2,Av. 147 B N° 317,Corrientes,Paso de los Libres,-29.714695,-57.085463,3230
+739,334,Sucursal 1,Av. San Luis N° 235,Entre Ríos,Concepción del Uruguay,-32.485423,-58.238288,3260
+740,334,Sucursal 2,Calle 1 N° 1438,Misiones,Puerto Iguazú,-25.594433,-54.57978,3370
+741,335,Sucursal 1,Av. 3 N° 23,Entre Ríos,Paraná,-31.7393,-60.512857,3100
+742,335,Sucursal 2,Boulevard Bahía Blanca N° 6276,Entre Ríos,Gualeguay,-33.143572,-59.318911,2840
+743,335,Sucursal 3,Diagonal J.M. de Rosas N° 65,Corrientes,Corrientes Capital,-27.478925,-58.833928,3400
+744,335,Sucursal 4,Diagonal G. Brown N° 4722,Chaco,Villa Ángela,-27.582666,-60.716026,3540
+745,336,Sucursal 1,Avenida 135 Bis N° 419,Chaco,Barranqueras,-27.482176,-58.934144,3503
+746,337,Sucursal 1,Diagonal Mitre N° 8756,Corrientes,Mercedes,-29.181286,-58.078272,3470
+747,337,Sucursal 2,Camino Misiones N° 174,Entre Ríos,Gualeguaychú,-33.006903,-58.512696,2820
+748,338,Sucursal 1,Diagonal 5 N° 936,Formosa,Formosa Capital,-26.183457,-58.185317,3600
+749,338,Sucursal 2,Diag. 7 N° 31,Chaco,Barranqueras,-27.486107,-58.931713,3503
+750,338,Sucursal 3,Camino Entre Ríos N° 1621,Corrientes,Corrientes Capital,-27.477947,-58.831899,3400
+751,339,Sucursal 1,Diag. Jujuy N° 8682,Entre Ríos,Concepción del Uruguay,-32.481572,-58.238983,3260
+752,340,Sucursal 1,Avenida 1 N° 5435,Corrientes,Curuzú Cuatiá,-29.791638,-58.051572,3460
+753,340,Sucursal 2,Calle Ciudad Autónoma de Buenos Aires N° 618,Misiones,Apóstoles,-27.914497,-55.76676,3350
+754,341,Sucursal 1,Diagonal Rivadavia N° 8257,Misiones,Apóstoles,-27.914374,-55.767135,3350
+755,341,Sucursal 2,Avenida J.B. Alberdi N° 522,Entre Ríos,Gualeguay,-33.144449,-59.315288,2840
+756,341,Sucursal 3,Calle Chilecito N° 896,Misiones,Eldorado,-26.398679,-54.617335,3380
+757,342,Sucursal 1,Avenida Güemes N° 705,Formosa,Clorinda,-25.285644,-57.716959,3610
+758,343,Sucursal 1,Diag. Salta N° 601,Chaco,Barranqueras,-27.483188,-58.933926,3503
+759,344,Sucursal 1,Calle Tierra del Fuego N° 7027,Corrientes,Goya,-29.140054,-59.262603,3450
+760,344,Sucursal 2,Avenida Mendoza N° 461,Entre Ríos,Paraná,-31.739124,-60.513361,3100
+761,344,Sucursal 3,Blv. Tierra del Fuego N° 99,Misiones,Apóstoles,-27.917312,-55.767873,3350
+762,344,Sucursal 4,Diagonal Santa Fe N° 8313,Chaco,Charata,-27.216932,-61.200465,3730
+763,345,Sucursal 1,Avenida 5 N° 386,Entre Ríos,Gualeguaychú,-33.007698,-58.512947,2820
+764,346,Sucursal 1,Av. Neuquén N° 613,Corrientes,Curuzú Cuatiá,-29.788364,-58.056621,3460
+765,346,Sucursal 2,Avenida Jujuy N° 695,Entre Ríos,Gualeguay,-33.141187,-59.314334,2840
+766,347,Sucursal 1,Blv. 3 N° 317,Corrientes,Mercedes,-29.181942,-58.079959,3470
+767,347,Sucursal 2,Diagonal Chilecito N° 658,Corrientes,Corrientes Capital,-27.482427,-58.834058,3400
+768,347,Sucursal 3,Avenida 5 N° 422,Entre Ríos,Gualeguaychú,-33.005425,-58.508505,2820
+769,347,Sucursal 4,Calle Córdoba N° 3937,Corrientes,Curuzú Cuatiá,-29.7912,-58.05315,3460
+770,347,Sucursal 5,Av. G. Brown N° 4160,Entre Ríos,Gualeguaychú,-33.006021,-58.50949,2820
+771,348,Sucursal 1,Diagonal Paraná N° 57,Corrientes,Curuzú Cuatiá,-29.792015,-58.054604,3460
+772,349,Sucursal 1,Diagonal Jujuy N° 42,Corrientes,Curuzú Cuatiá,-29.789557,-58.054995,3460
+773,349,Sucursal 2,Avenida San Luis N° 479,Formosa,Clorinda,-25.282628,-57.718741,3610
+774,350,Sucursal 1,Camino Alvear N° 654,Misiones,Eldorado,-26.402737,-54.618675,3380
+775,350,Sucursal 2,Blv. 5 N° 81,Misiones,Posadas,-27.366707,-55.895143,3300
+776,350,Sucursal 3,Avenida Rawson N° 114,Corrientes,Mercedes,-29.183327,-58.081032,3470
+777,350,Sucursal 4,Avenida Neuquén N° 689,Entre Ríos,Gualeguay,-33.140428,-59.317183,2840
+778,351,Sucursal 1,Camino Santa Fe N° 997,Entre Ríos,Concepción del Uruguay,-32.480988,-58.237522,3260
+779,351,Sucursal 2,Diagonal J.J. Castelli N° 33,Entre Ríos,Paraná,-31.743816,-60.509109,3100
+780,352,Sucursal 1,Calle Entre Ríos N° 765,Corrientes,Corrientes Capital,-27.479765,-58.836081,3400
+781,353,Sucursal 1,Avenida 6 N° 823,Formosa,Formosa Capital,-26.181168,-58.183039,3600
+782,353,Sucursal 2,Av. 1 N° 49,Corrientes,Corrientes Capital,-27.479852,-58.834639,3400
+783,353,Sucursal 3,Av. Alvear N° 6442,Chaco,Sáenz Peña,-26.791667,-60.438246,3700
+784,353,Sucursal 4,Calle Catamarca N° 808,Misiones,Puerto Iguazú,-25.597549,-54.577993,3370
+785,354,Sucursal 1,Camino Córdoba N° 877,Chaco,Barranqueras,-27.481007,-58.934631,3503
+786,355,Sucursal 1,Diagonal J.J. Castelli N° 8562,Formosa,Pirané,-25.731379,-59.118454,3606
+787,355,Sucursal 2,Calle San Miguel de Tucumán N° 368,Chaco,Resistencia,-27.45321,-58.98468,3500
+788,355,Sucursal 3,Av. Santa Fe N° 4939,Corrientes,Goya,-29.142528,-59.265505,3450
+789,355,Sucursal 4,Diagonal 157 B N° 512,Formosa,Ingeniero Juárez,-23.897972,-61.851209,3636
+790,355,Sucursal 5,Av. La Rioja N° 803,Corrientes,Curuzú Cuatiá,-29.792406,-58.054798,3460
+791,356,Sucursal 1,Av. 149 B N° 409,Chaco,Resistencia,-27.450067,-58.984933,3500
+792,356,Sucursal 2,Diagonal Mendoza N° 258,Entre Ríos,Gualeguaychú,-33.006601,-58.510366,2820
+793,356,Sucursal 3,Av. San Luis N° 3775,Formosa,Pirané,-25.735235,-59.116968,3606
+794,357,Sucursal 1,Camino Rivadavia N° 85,Corrientes,Goya,-29.142841,-59.263904,3450
+795,357,Sucursal 2,Avenida Malvinas Argentinas N° 1613,Misiones,Oberá,-27.480915,-55.114778,3360
+796,358,Sucursal 1,Av. 7 N° 32,Formosa,Pirané,-25.73591,-59.116875,3606
+797,358,Sucursal 2,Boulevard Rawson N° 370,Corrientes,Paso de los Libres,-29.711632,-57.088853,3230
+798,359,Sucursal 1,Diag. 7 N° 837,Formosa,Clorinda,-25.285041,-57.718446,3610
+799,359,Sucursal 2,Camino 5 N° 4729,Corrientes,Goya,-29.142744,-59.261322,3450
+800,360,Sucursal 1,Av. Buenos Aires N° 7075,Formosa,Formosa Capital,-26.181956,-58.182671,3600
+801,361,Sucursal 1,Diagonal Malvinas Argentinas N° 23,Misiones,Puerto Iguazú,-25.596547,-54.579701,3370
+802,361,Sucursal 2,Avenida Omar Nuñez N° 137,Formosa,Clorinda,-25.282849,-57.715961,3610
+803,362,Sucursal 1,Calle 3 N° 122,Formosa,El Colorado,-26.299624,-59.366582,3603
+804,362,Sucursal 2,Avenida Güemes N° 279,Entre Ríos,Paraná,-31.741914,-60.509652,3100
+805,363,Sucursal 1,Av. Chilecito N° 33,Entre Ríos,Gualeguaychú,-33.009057,-58.512639,2820
+806,364,Sucursal 1,Blv. Pte. Perón N° 1859,Corrientes,Corrientes Capital,-27.480711,-58.83282,3400
+807,365,Sucursal 1,Avenida Mendoza N° 813,Chaco,Sáenz Peña,-26.790403,-60.435106,3700
+808,365,Sucursal 2,Diagonal Saavedra N° 478,Misiones,Puerto Iguazú,-25.599927,-54.579502,3370
+809,365,Sucursal 3,Camino 5 N° 429,Entre Ríos,Paraná,-31.743626,-60.510656,3100
+810,365,Sucursal 4,Diagonal Chaco N° 972,Entre Ríos,Gualeguaychú,-33.00911,-58.509059,2820
+811,366,Sucursal 1,Blv. La Rioja N° 442,Chaco,Charata,-27.21666,-61.201056,3730
+812,366,Sucursal 2,Camino Chilecito N° 962,Corrientes,Corrientes Capital,-27.482817,-58.8356,3400
+813,367,Sucursal 1,Diagonal 4 N° 266,Entre Ríos,Concepción del Uruguay,-32.482186,-58.234439,3260
+814,367,Sucursal 2,Av. Omar Nuñez N° 138,Chaco,Resistencia,-27.452936,-58.983597,3500
+815,367,Sucursal 3,Calle 2 N° 28,Entre Ríos,Concordia,-31.383425,-58.016853,3200
+816,368,Sucursal 1,Blv. Pte. Perón N° 6682,Entre Ríos,Paraná,-31.744085,-60.513568,3100
+817,369,Sucursal 1,Calle Santa Rosa N° 648,Formosa,Pirané,-25.730924,-59.116925,3606
+818,369,Sucursal 2,Av. Rosario N° 67,Misiones,Puerto Iguazú,-25.594633,-54.581264,3370
+819,370,Sucursal 1,Calle 3 N° 81,Chaco,Charata,-27.21631,-61.198931,3730
+820,370,Sucursal 2,Av. 162 A N° 4718,Formosa,Pirané,-25.733085,-59.11845,3606
+821,370,Sucursal 3,Av. 8 N° 865,Entre Ríos,Concordia,-31.38431,-58.014203,3200
+822,370,Sucursal 4,Calle 3 N° 293,Misiones,Oberá,-27.485903,-55.118804,3360
+823,371,Sucursal 1,Calle 2 N° 278,Misiones,Posadas,-27.364198,-55.895341,3300
+824,371,Sucursal 2,Av. San Martin N° 772,Chaco,Resistencia,-27.450674,-58.986263,3500
+825,372,Sucursal 1,Av. La Rioja N° 761,Corrientes,Paso de los Libres,-29.710612,-57.085991,3230
+826,372,Sucursal 2,Blv. J.M. de Rosas N° 4275,Entre Ríos,Gualeguaychú,-33.005653,-58.509541,2820
+827,372,Sucursal 3,Calle La Plata N° 832,Chaco,Villa Ángela,-27.583817,-60.716718,3540
+828,372,Sucursal 4,Diagonal Formosa N° 862,Chaco,Barranqueras,-27.48407,-58.931323,3503
+829,373,Sucursal 1,Av. Corrientes N° 3253,Chaco,Sáenz Peña,-26.792049,-60.44005,3700
+830,373,Sucursal 2,Calle Santiago del Estero N° 629,Misiones,Oberá,-27.48159,-55.115033,3360
+831,373,Sucursal 3,Avenida 1 N° 654,Corrientes,Curuzú Cuatiá,-29.790037,-58.05715,3460
+832,374,Sucursal 1,Av. Mendoza N° 966,Formosa,Clorinda,-25.285376,-57.717659,3610
+833,374,Sucursal 2,Calle Corrientes N° 91,Formosa,Formosa Capital,-26.181905,-58.183158,3600
+834,374,Sucursal 3,Diag. 1 N° 797,Entre Ríos,Gualeguay,-33.142736,-59.315083,2840
+835,375,Sucursal 1,Diagonal 1 N° 9727,Formosa,Clorinda,-25.28224,-57.718904,3610
+836,376,Sucursal 1,Avenida J.J. Castelli N° 3746,Misiones,Apóstoles,-27.917374,-55.764511,3350
+837,377,Sucursal 1,Diagonal J.J. Castelli N° 211,Corrientes,Corrientes Capital,-27.481634,-58.837336,3400
+838,377,Sucursal 2,Avenida Buenos Aires N° 19,Formosa,El Colorado,-26.297769,-59.3677,3603
+839,378,Sucursal 1,Diagonal Viedma N° 4745,Corrientes,Paso de los Libres,-29.712677,-57.086546,3230
+840,378,Sucursal 2,Blv. Corrientes N° 784,Chaco,Charata,-27.219565,-61.198449,3730
+841,379,Sucursal 1,Calle Río Negro N° 243,Chaco,Sáenz Peña,-26.793275,-60.439945,3700
+842,379,Sucursal 2,Calle Rawson N° 11,Chaco,Villa Ángela,-27.583106,-60.715063,3540
+843,379,Sucursal 3,Diagonal San Juan N° 688,Entre Ríos,Concordia,-31.385594,-58.018804,3200
+844,379,Sucursal 4,Calle Alvear N° 410,Chaco,Villa Ángela,-27.585613,-60.71395,3540
+845,379,Sucursal 5,Camino Rawson N° 3833,Formosa,Pirané,-25.733216,-59.118461,3606
+846,380,Sucursal 1,Diagonal J.J. Castelli N° 78,Formosa,Pirané,-25.734389,-59.118851,3606
+847,380,Sucursal 2,Diagonal Comodoro Rivadavia N° 5646,Entre Ríos,Gualeguaychú,-33.005976,-58.510356,2820
+848,381,Sucursal 1,Av. Santiago del Estero N° 898,Corrientes,Curuzú Cuatiá,-29.790832,-58.051947,3460
+849,382,Sucursal 1,Diagonal Formosa N° 15,Misiones,Apóstoles,-27.919396,-55.769526,3350
+850,382,Sucursal 2,Calle 3 N° 19,Entre Ríos,Concordia,-31.385997,-58.017398,3200
+851,382,Sucursal 3,Av. 2 N° 670,Corrientes,Curuzú Cuatiá,-29.790141,-58.056226,3460
+852,382,Sucursal 4,Avenida 1 N° 69,Formosa,El Colorado,-26.297652,-59.365923,3603
+853,383,Sucursal 1,Av. Omar Nuñez N° 87,Formosa,El Colorado,-26.300866,-59.367706,3603
+854,383,Sucursal 2,Avenida Mitre N° 331,Chaco,Sáenz Peña,-26.790923,-60.437075,3700
+855,384,Sucursal 1,Avenida Salta N° 726,Corrientes,Curuzú Cuatiá,-29.786858,-58.052766,3460
+856,384,Sucursal 2,Av. Malvinas Argentinas N° 1760,Misiones,Apóstoles,-27.916293,-55.769143,3350
+857,384,Sucursal 3,Avenida 6 N° 186,Entre Ríos,Gualeguaychú,-33.00799,-58.511066,2820
+858,384,Sucursal 4,Diagonal 3 N° 593,Entre Ríos,Concordia,-31.382433,-58.015101,3200
+859,384,Sucursal 5,Boulevard Mitre N° 648,Formosa,Formosa Capital,-26.18491,-58.184957,3600
+860,385,Sucursal 1,Calle Güemes N° 95,Chaco,Villa Ángela,-27.580823,-60.717348,3540
+861,385,Sucursal 2,Diagonal 2 N° 47,Entre Ríos,Gualeguaychú,-33.005296,-58.511818,2820
+862,385,Sucursal 3,Blv. Bahía Blanca N° 826,Misiones,Posadas,-27.36738,-55.898918,3300
+863,385,Sucursal 4,Calle Chubut N° 961,Formosa,Formosa Capital,-26.185623,-58.183428,3600
+864,386,Sucursal 1,Avenida Mar del Plata N° 23,Chaco,Charata,-27.215092,-61.199373,3730
+865,387,Sucursal 1,Avenida Alem N° 3788,Formosa,Clorinda,-25.285682,-57.714795,3610
+866,387,Sucursal 2,Av. Mitre N° 121,Corrientes,Paso de los Libres,-29.713845,-57.086603,3230
+867,388,Sucursal 1,Av. Tucumán N° 669,Formosa,Pirané,-25.733534,-59.116157,3606
+868,388,Sucursal 2,Diag. La Rioja N° 39,Chaco,Barranqueras,-27.482575,-58.933012,3503
+869,388,Sucursal 3,Calle 2 N° 451,Formosa,Formosa Capital,-26.183997,-58.184256,3600
+870,389,Sucursal 1,Diagonal Posadas N° 332,Misiones,Puerto Iguazú,-25.596797,-54.579547,3370
+871,389,Sucursal 2,Camino 1 N° 651,Entre Ríos,Gualeguaychú,-33.009383,-58.509824,2820
+872,390,Sucursal 1,Avenida Rawson N° 397,Entre Ríos,Concepción del Uruguay,-32.480015,-58.236755,3260
+873,390,Sucursal 2,Boulevard San Juan N° 753,Formosa,Formosa Capital,-26.185614,-58.182724,3600
+874,390,Sucursal 3,Av. Pte. Perón N° 833,Misiones,Posadas,-27.366769,-55.894168,3300
+875,391,Sucursal 1,Avenida Santiago del Estero N° 35,Chaco,Charata,-27.213965,-61.202582,3730
+876,392,Sucursal 1,Av. Entre Ríos N° 37,Entre Ríos,Concordia,-31.381416,-58.015072,3200
+877,392,Sucursal 2,Camino Buenos Aires N° 32,Misiones,Eldorado,-26.401036,-54.61583,3380
+878,393,Sucursal 1,Calle San Miguel de Tucumán N° 642,Corrientes,Curuzú Cuatiá,-29.791394,-58.056466,3460
+879,394,Sucursal 1,Camino Catamarca N° 364,Entre Ríos,Gualeguay,-33.140883,-59.319699,2840
+880,394,Sucursal 2,Diag. Tierra del Fuego N° 427,Corrientes,Mercedes,-29.180335,-58.079182,3470
+881,394,Sucursal 3,Diagonal Rosario N° 2430,Chaco,Charata,-27.21736,-61.199532,3730
+882,394,Sucursal 4,Avenida San Juan N° 852,Chaco,Sáenz Peña,-26.793966,-60.435835,3700
+883,395,Sucursal 1,Blv. 2 N° 66,Formosa,Ingeniero Juárez,-23.898234,-61.848923,3636
+884,395,Sucursal 2,Blv. 9 N° 986,Misiones,Puerto Iguazú,-25.595893,-54.576109,3370
+885,396,Sucursal 1,Diagonal Tierra del Fuego N° 2126,Formosa,Ingeniero Juárez,-23.902951,-61.847081,3636
+886,397,Sucursal 1,Avenida Tucumán N° 533,Corrientes,Mercedes,-29.179185,-58.081526,3470
+887,397,Sucursal 2,Avenida San Martin N° 53,Formosa,Pirané,-25.730493,-59.119695,3606
+888,397,Sucursal 3,Diagonal Tierra del Fuego N° 34,Formosa,Pirané,-25.731375,-59.117545,3606
+889,397,Sucursal 4,Camino Mendoza N° 895,Chaco,Charata,-27.214506,-61.201589,3730
+890,398,Sucursal 1,Diagonal Salta N° 716,Entre Ríos,Paraná,-31.742991,-60.512203,3100
+891,398,Sucursal 2,Avenida San Ferando del Valle de Catamarca N° 8853,Misiones,Eldorado,-26.400389,-54.618433,3380
+892,399,Sucursal 1,Calle 1 N° 2481,Formosa,Formosa Capital,-26.185466,-58.182967,3600
+893,400,Sucursal 1,Av. 5 N° 380,Misiones,Puerto Iguazú,-25.599274,-54.575615,3370
+894,400,Sucursal 2,Av. Alem N° 286,Entre Ríos,Concordia,-31.385547,-58.01963,3200
+895,400,Sucursal 3,Calle Alem N° 84,Entre Ríos,Paraná,-31.744806,-60.510172,3100
+896,400,Sucursal 4,Av. Ushuaia N° 882,Formosa,Formosa Capital,-26.182352,-58.18045,3600
+897,401,Sucursal 1,Diagonal San Luis N° 51,Corrientes,Curuzú Cuatiá,-29.791877,-58.052464,3460
+898,401,Sucursal 2,Diagonal Ushuaia N° 9573,Misiones,Apóstoles,-27.914339,-55.765528,3350
+899,401,Sucursal 3,Avenida 6 N° 2762,Misiones,Puerto Iguazú,-25.596461,-54.578874,3370
+900,402,Sucursal 1,Boulevard Merlo N° 8961,Formosa,Pirané,-25.73138,-59.117392,3606
+901,402,Sucursal 2,Avenida 9 N° 699,Chaco,Barranqueras,-27.485185,-58.932673,3503
+902,403,Sucursal 1,Avenida J.M. de Rosas N° 4994,Formosa,Formosa Capital,-26.181219,-58.18488,3600
+903,403,Sucursal 2,Calle J.J. Castelli N° 455,Formosa,Clorinda,-25.284684,-57.714141,3610
+904,403,Sucursal 3,Avenida 6 N° 417,Formosa,Ingeniero Juárez,-23.900798,-61.847131,3636
+905,403,Sucursal 4,Avenida 6 N° 116,Formosa,Ingeniero Juárez,-23.9001,-61.850789,3636
+906,404,Sucursal 1,Avenida Alem N° 51,Entre Ríos,Gualeguaychú,-33.01032,-58.509419,2820
+907,404,Sucursal 2,Camino 6 N° 164,Formosa,Clorinda,-25.280399,-57.713798,3610
+908,405,Sucursal 1,Avenida Tucumán N° 5829,Misiones,Apóstoles,-27.916598,-55.76656,3350
+909,405,Sucursal 2,Camino 2 N° 83,Formosa,El Colorado,-26.302469,-59.366865,3603
+910,406,Sucursal 1,Diagonal Río Gallegos N° 44,Entre Ríos,Concordia,-31.382498,-58.014911,3200
+911,407,Sucursal 1,Avenida Mendoza N° 541,Formosa,El Colorado,-26.302683,-59.367639,3603
+912,407,Sucursal 2,Av. Corrientes N° 147,Entre Ríos,Gualeguay,-33.144635,-59.316976,2840
+913,407,Sucursal 3,Diagonal San Salvador de Jujuy N° 113,Formosa,Formosa Capital,-26.182856,-58.184311,3600
+914,408,Sucursal 1,Avenida Resistencia N° 156,Chaco,Charata,-27.217965,-61.202788,3730
+915,408,Sucursal 2,Diagonal Santa Cruz N° 9345,Formosa,El Colorado,-26.298503,-59.365338,3603
+916,408,Sucursal 3,Blv. Corrientes N° 782,Formosa,Ingeniero Juárez,-23.901437,-61.849224,3636
+917,409,Sucursal 1,Calle Río Gallegos N° 769,Chaco,Resistencia,-27.450663,-58.984662,3500
+918,409,Sucursal 2,Av. San Miguel de Tucumán N° 494,Chaco,Charata,-27.214847,-61.199254,3730
+919,409,Sucursal 3,Avenida Alem N° 34,Chaco,Charata,-27.216791,-61.202239,3730
+920,409,Sucursal 4,Diagonal La Pampa N° 7385,Corrientes,Curuzú Cuatiá,-29.787591,-58.055633,3460
+921,410,Sucursal 1,Boulevard Santa Fe N° 55,Formosa,El Colorado,-26.301314,-59.364553,3603
+922,410,Sucursal 2,Diagonal Santa Fe N° 528,Corrientes,Corrientes Capital,-27.479051,-58.833977,3400
+923,411,Sucursal 1,Diagonal J.M. de Rosas N° 62,Entre Ríos,Concordia,-31.38362,-58.014853,3200
+924,412,Sucursal 1,Av. Tierra del Fuego N° 28,Entre Ríos,Gualeguaychú,-33.009383,-58.512715,2820
+925,412,Sucursal 2,Diagonal San Martin N° 88,Formosa,Clorinda,-25.281128,-57.717643,3610
+926,413,Sucursal 1,Calle Mendoza N° 6332,Corrientes,Mercedes,-29.180727,-58.07697,3470
+927,414,Sucursal 1,Av. 4 N° 156,Entre Ríos,Gualeguay,-33.138738,-59.315078,2840
+928,414,Sucursal 2,Diagonal Constitución N° 295,Chaco,Barranqueras,-27.482336,-58.931944,3503
+929,415,Sucursal 1,Avenida 152 Bis N° 8659,Chaco,Sáenz Peña,-26.791733,-60.436049,3700
+930,416,Sucursal 1,Camino San Luis N° 882,Entre Ríos,Paraná,-31.743314,-60.509583,3100
+931,416,Sucursal 2,Calle San Luis N° 74,Corrientes,Goya,-29.142394,-59.263308,3450
+932,417,Sucursal 1,Diagonal Santiago del Estero N° 61,Formosa,Formosa Capital,-26.181823,-58.181785,3600
+933,417,Sucursal 2,Blv. 3 N° 96,Formosa,Pirané,-25.734898,-59.115599,3606
+934,418,Sucursal 1,Avenida 5 N° 65,Formosa,Formosa Capital,-26.184724,-58.183117,3600
+935,418,Sucursal 2,Diagonal 7 N° 9132,Misiones,Puerto Iguazú,-25.600129,-54.576037,3370
+936,419,Sucursal 1,Diagonal Mar del Plata N° 881,Misiones,Eldorado,-26.398929,-54.613929,3380
+937,419,Sucursal 2,Avenida 3 N° 7138,Entre Ríos,Concordia,-31.380565,-58.019116,3200
+938,420,Sucursal 1,Diagonal Saavedra N° 8481,Entre Ríos,Paraná,-31.742777,-60.509435,3100
+939,420,Sucursal 2,Av. 7 N° 773,Formosa,El Colorado,-26.297492,-59.36455,3603
+940,420,Sucursal 3,Diag. 4 N° 413,Misiones,Posadas,-27.368478,-55.894286,3300
+941,420,Sucursal 4,Calle 6 N° 3975,Chaco,Villa Ángela,-27.582374,-60.717353,3540
+942,421,Sucursal 1,Avenida Catamarca N° 827,Entre Ríos,Concepción del Uruguay,-32.484149,-58.236169,3260
+943,421,Sucursal 2,Av. Tucumán N° 1294,Entre Ríos,Gualeguay,-33.14353,-59.317676,2840
+944,421,Sucursal 3,Diagonal Paraná N° 150,Entre Ríos,Gualeguaychú,-33.004841,-58.51192,2820
+945,421,Sucursal 4,Avenida Alvear N° 8986,Corrientes,Corrientes Capital,-27.479463,-58.83261,3400
+946,422,Sucursal 1,Av. 5 N° 9880,Misiones,Puerto Iguazú,-25.599614,-54.580977,3370
+947,423,Sucursal 1,Avenida Paraná N° 5866,Misiones,Oberá,-27.484984,-55.118,3360
+948,423,Sucursal 2,Diagonal Chubut N° 7777,Chaco,Sáenz Peña,-26.794996,-60.437384,3700
+949,424,Sucursal 1,Calle Mar del Plata N° 73,Formosa,El Colorado,-26.29906,-59.364687,3603
+950,424,Sucursal 2,Blv. Rivadavia N° 8938,Formosa,El Colorado,-26.299172,-59.365452,3603
+951,425,Sucursal 1,Avenida Rivadavia N° 45,Corrientes,Curuzú Cuatiá,-29.787561,-58.056521,3460
+952,426,Sucursal 1,Blv. La Pampa N° 978,Entre Ríos,Gualeguay,-33.139301,-59.316304,2840
+953,426,Sucursal 2,Avenida Corrientes N° 224,Chaco,Resistencia,-27.448724,-58.984426,3500
+954,426,Sucursal 3,Calle 4 N° 815,Chaco,Villa Ángela,-27.584533,-60.715737,3540
+955,426,Sucursal 4,Diagonal La Rioja N° 3723,Corrientes,Curuzú Cuatiá,-29.788867,-58.051764,3460
+956,427,Sucursal 1,Calle 9 N° 5069,Entre Ríos,Gualeguay,-33.142138,-59.31428,2840
+957,427,Sucursal 2,Calle G. Brown N° 796,Entre Ríos,Gualeguay,-33.140079,-59.318156,2840
+958,427,Sucursal 3,Boulevard Comodoro Rivadavia N° 886,Entre Ríos,Gualeguay,-33.144256,-59.315037,2840
+959,428,Sucursal 1,Diagonal Chaco N° 4936,Misiones,Eldorado,-26.401004,-54.61934,3380
+960,428,Sucursal 2,Diagonal Tucumán N° 53,Chaco,Villa Ángela,-27.585232,-60.719284,3540
+961,429,Sucursal 1,Av. 4 N° 562,Formosa,El Colorado,-26.300644,-59.365827,3603
+962,430,Sucursal 1,Diagonal Córdoba N° 339,Corrientes,Mercedes,-29.181056,-58.079312,3470
+963,430,Sucursal 2,Diag. Belgrano N° 41,Formosa,El Colorado,-26.29914,-59.364224,3603
+964,430,Sucursal 3,Camino Alvear N° 51,Entre Ríos,Gualeguaychú,-33.009246,-58.513591,2820
+965,431,Sucursal 1,Diagonal Alvear N° 3025,Formosa,Ingeniero Juárez,-23.898635,-61.848337,3636
+966,432,Sucursal 1,Calle Pte. Perón N° 8375,Formosa,Formosa Capital,-26.185407,-58.182458,3600
+967,433,Sucursal 1,Calle Santa Cruz N° 497,Entre Ríos,Concordia,-31.383957,-58.01879,3200
+968,433,Sucursal 2,Diagonal Mar del Plata N° 673,Misiones,Posadas,-27.364672,-55.895652,3300
+969,434,Sucursal 1,Calle J.J. Castelli N° 258,Entre Ríos,Gualeguaychú,-33.005161,-58.510856,2820
+970,434,Sucursal 2,Calle San Luis N° 4837,Misiones,Puerto Iguazú,-25.597777,-54.577233,3370
+971,434,Sucursal 3,Boulevard 9 N° 7326,Corrientes,Curuzú Cuatiá,-29.789459,-58.05728,3460
+972,434,Sucursal 4,Avenida Santa Rosa N° 78,Entre Ríos,Gualeguaychú,-33.005892,-58.510908,2820
+973,434,Sucursal 5,Blv. Río Negro N° 127,Formosa,Ingeniero Juárez,-23.899788,-61.84705,3636
+974,435,Sucursal 1,Diagonal San Juan N° 759,Entre Ríos,Concordia,-31.384483,-58.019369,3200
+975,435,Sucursal 2,Avenida G. Brown N° 36,Entre Ríos,Paraná,-31.744356,-60.511292,3100
+976,435,Sucursal 3,Diagonal Alvear N° 9513,Misiones,Posadas,-27.369617,-55.896342,3300
+977,435,Sucursal 4,Diagonal 4 N° 399,Entre Ríos,Gualeguay,-33.14296,-59.318481,2840
+978,436,Sucursal 1,Av. Saavedra N° 32,Corrientes,Goya,-29.137595,-59.261736,3450
+979,436,Sucursal 2,Av. Jujuy N° 984,Chaco,Charata,-27.215525,-61.197621,3730
+980,436,Sucursal 3,Boulevard Alem N° 16,Entre Ríos,Paraná,-31.740767,-60.511581,3100
+981,436,Sucursal 4,Avenida Pte. Perón N° 945,Entre Ríos,Paraná,-31.742272,-60.513363,3100
+982,437,Sucursal 1,Calle Mendoza N° 348,Chaco,Sáenz Peña,-26.795048,-60.435122,3700
+983,438,Sucursal 1,Avenida Jujuy N° 928,Formosa,Formosa Capital,-26.183967,-58.181544,3600
+984,439,Sucursal 1,Avenida 8 N° 4634,Chaco,Charata,-27.216702,-61.19721,3730
+985,439,Sucursal 2,Diagonal Malvinas Argentinas N° 64,Misiones,Apóstoles,-27.913901,-55.769601,3350
+986,439,Sucursal 3,Avenida Misiones N° 8971,Misiones,Posadas,-27.369764,-55.894373,3300
+987,439,Sucursal 4,Diagonal Güemes N° 462,Corrientes,Goya,-29.140967,-59.26443,3450
+988,440,Sucursal 1,Diag. J.M. de Rosas N° 5624,Entre Ríos,Concordia,-31.381079,-58.016481,3200
+989,440,Sucursal 2,Calle Santiago del Estero N° 5091,Entre Ríos,Concepción del Uruguay,-32.482124,-58.234651,3260
+990,441,Sucursal 1,Boulevard Córdoba N° 79,Entre Ríos,Concepción del Uruguay,-32.48475,-58.236277,3260
+991,442,Sucursal 1,Calle San Martin N° 71,Formosa,El Colorado,-26.302725,-59.365492,3603
+992,442,Sucursal 2,Boulevard Rivadavia N° 340,Corrientes,Mercedes,-29.184214,-58.078104,3470
+993,442,Sucursal 3,Boulevard 2 N° 9057,Chaco,Charata,-27.214776,-61.202416,3730
+994,442,Sucursal 4,Calle La Pampa N° 98,Formosa,El Colorado,-26.301976,-59.366154,3603
+995,443,Sucursal 1,Av. 3 N° 642,Corrientes,Paso de los Libres,-29.712817,-57.085705,3230
+996,444,Sucursal 1,Avenida G. Brown N° 7040,Corrientes,Curuzú Cuatiá,-29.787873,-58.054743,3460
+997,445,Sucursal 1,Calle Chaco N° 698,Misiones,Posadas,-27.369375,-55.894995,3300
+998,445,Sucursal 2,Blv. Formosa N° 685,Formosa,Pirané,-25.735476,-59.114681,3606
+999,446,Sucursal 1,Av. Río Gallegos N° 175,Entre Ríos,Gualeguay,-33.144426,-59.318659,2840
+1000,447,Sucursal 1,Avenida 5 N° 688,Corrientes,Paso de los Libres,-29.714157,-57.085955,3230
+1001,448,Sucursal 1,Avenida San Martin N° 756,Entre Ríos,Gualeguaychú,-33.00858,-58.51281,2820
+1002,449,Sucursal 1,Avenida 7 N° 47,Formosa,Ingeniero Juárez,-23.902756,-61.8524,3636
+1003,450,Sucursal 1,Avenida Salta N° 884,Formosa,El Colorado,-26.300743,-59.368753,3603
+1004,450,Sucursal 2,Calle Paraná N° 7291,Formosa,Formosa Capital,-26.185816,-58.186257,3600
+1005,450,Sucursal 3,Blv. 4 N° 41,Corrientes,Curuzú Cuatiá,-29.78846,-58.053738,3460
+1006,450,Sucursal 4,Diagonal 6 N° 94,Chaco,Charata,-27.217203,-61.198156,3730
+1007,451,Sucursal 1,Diagonal G. Brown N° 8412,Entre Ríos,Gualeguaychú,-33.010039,-58.512941,2820
+1008,451,Sucursal 2,Av. Mendoza N° 474,Chaco,Villa Ángela,-27.583161,-60.717228,3540
+1009,451,Sucursal 3,Diagonal Río Negro N° 9545,Chaco,Resistencia,-27.450437,-58.988374,3500
+1010,452,Sucursal 1,Boulevard 2 N° 57,Entre Ríos,Gualeguaychú,-33.007801,-58.508098,2820
+1011,453,Sucursal 1,Av. Omar Nuñez N° 869,Chaco,Charata,-27.217613,-61.202973,3730
+1012,453,Sucursal 2,Diag. 3 N° 897,Chaco,Barranqueras,-27.485149,-58.93038,3503
+1013,453,Sucursal 3,Diagonal 5 N° 678,Corrientes,Paso de los Libres,-29.712086,-57.085324,3230
+1014,453,Sucursal 4,Boulevard Omar Nuñez N° 653,Formosa,Pirané,-25.733255,-59.116915,3606
+1015,453,Sucursal 5,Camino Belgrano N° 5821,Entre Ríos,Paraná,-31.740944,-60.512841,3100
+1016,454,Sucursal 1,Calle 8 N° 8279,Corrientes,Paso de los Libres,-29.71102,-57.086389,3230
+1017,455,Sucursal 1,Diagonal Neuquén N° 17,Formosa,Formosa Capital,-26.185242,-58.182279,3600
+1018,455,Sucursal 2,Calle Buenos Aires N° 794,Corrientes,Goya,-29.143076,-59.263515,3450
+1019,456,Sucursal 1,Avenida 9 N° 7195,Misiones,Puerto Iguazú,-25.598692,-54.577899,3370
+1020,456,Sucursal 2,Av. Alem N° 4686,Entre Ríos,Gualeguay,-33.141981,-59.319073,2840
+1021,457,Sucursal 1,Av. Ciudad Autónoma de Buenos Aires N° 95,Formosa,Pirané,-25.735245,-59.114987,3606
+1022,458,Sucursal 1,Av. San Miguel de Tucumán N° 159,Formosa,Clorinda,-25.285604,-57.71433,3610
+1023,458,Sucursal 2,Blv. 5 N° 176,Entre Ríos,Concepción del Uruguay,-32.482931,-58.236721,3260
+1024,458,Sucursal 3,Av. Catamarca N° 33,Misiones,Puerto Iguazú,-25.599007,-54.577539,3370
+1025,458,Sucursal 4,Avenida 8 N° 829,Misiones,Posadas,-27.36872,-55.898439,3300
+1026,459,Sucursal 1,Av. 3 N° 175,Corrientes,Paso de los Libres,-29.714377,-57.088024,3230
+1027,460,Sucursal 1,Blv. 6 N° 77,Misiones,Eldorado,-26.397652,-54.619259,3380
+1028,460,Sucursal 2,Camino Santa Fe N° 943,Formosa,Ingeniero Juárez,-23.900094,-61.847657,3636
+1029,460,Sucursal 3,Calle 9 N° 64,Corrientes,Mercedes,-29.183003,-58.078243,3470
+1030,461,Sucursal 1,Calle 1 N° 395,Misiones,Eldorado,-26.400759,-54.616954,3380
+1031,462,Sucursal 1,Av. Formosa N° 214,Entre Ríos,Paraná,-31.742748,-60.512882,3100
+1032,462,Sucursal 2,Avenida 9 N° 676,Misiones,Posadas,-27.369337,-55.894947,3300
+1033,463,Sucursal 1,Calle Santiago del Estero N° 11,Chaco,Villa Ángela,-27.585481,-60.71459,3540
+1034,464,Sucursal 1,Avenida 185 Bis N° 1833,Misiones,Puerto Iguazú,-25.599173,-54.579539,3370
+1035,464,Sucursal 2,Blv. Tierra del Fuego N° 4594,Chaco,Charata,-27.216078,-61.198263,3730
+1036,464,Sucursal 3,Calle Rivadavia N° 72,Entre Ríos,Paraná,-31.739183,-60.509067,3100
+1037,464,Sucursal 4,Avenida San Juan N° 3061,Formosa,Ingeniero Juárez,-23.897179,-61.84787,3636
+1038,465,Sucursal 1,Avenida Neuquén N° 6120,Misiones,Puerto Iguazú,-25.595058,-54.578665,3370
+1039,466,Sucursal 1,Av. Neuquén N° 74,Formosa,Ingeniero Juárez,-23.900159,-61.850223,3636
+1040,467,Sucursal 1,Diagonal Río Negro N° 2890,Entre Ríos,Concepción del Uruguay,-32.483031,-58.234964,3260
+1041,467,Sucursal 2,Calle La Rioja N° 335,Chaco,Barranqueras,-27.484336,-58.932823,3503
+1042,467,Sucursal 3,Calle Santiago del Estero N° 467,Formosa,Ingeniero Juárez,-23.897322,-61.847517,3636
+1043,468,Sucursal 1,Diagonal Mendoza N° 825,Misiones,Puerto Iguazú,-25.594319,-54.58136,3370
+1044,469,Sucursal 1,Diagonal Chaco N° 4198,Entre Ríos,Concepción del Uruguay,-32.480988,-58.239998,3260
+1045,469,Sucursal 2,Diagonal 188 Bis N° 424,Formosa,Clorinda,-25.283934,-57.714842,3610
+1046,469,Sucursal 3,Av. Pte. Perón N° 899,Entre Ríos,Gualeguaychú,-33.005872,-58.511085,2820
+1047,470,Sucursal 1,Diag. G. Brown N° 981,Corrientes,Curuzú Cuatiá,-29.789349,-58.057225,3460
+1048,470,Sucursal 2,Avenida Chaco N° 94,Entre Ríos,Concepción del Uruguay,-32.48316,-58.238892,3260
+1049,471,Sucursal 1,Av. 168 B N° 6928,Chaco,Charata,-27.218266,-61.197006,3730
+1050,471,Sucursal 2,Camino San Luis N° 3140,Corrientes,Corrientes Capital,-27.480621,-58.835771,3400
+1051,472,Sucursal 1,Avenida Güemes N° 304,Misiones,Apóstoles,-27.914552,-55.765216,3350
+1052,472,Sucursal 2,Diag. San Luis N° 823,Corrientes,Corrientes Capital,-27.477641,-58.834817,3400
+1053,472,Sucursal 3,Avenida Constitución N° 5928,Corrientes,Mercedes,-29.179055,-58.079468,3470
+1054,472,Sucursal 4,Avenida San Juan N° 9142,Misiones,Oberá,-27.482539,-55.115477,3360
+1055,473,Sucursal 1,Av. Belgrano N° 619,Entre Ríos,Paraná,-31.744476,-60.509139,3100
+1056,474,Sucursal 1,Av. Catamarca N° 531,Formosa,Clorinda,-25.286104,-57.717145,3610
+1057,474,Sucursal 2,Diagonal G. Brown N° 468,Chaco,Villa Ángela,-27.582112,-60.716025,3540
+1058,474,Sucursal 3,Blv. 3 N° 93,Formosa,Ingeniero Juárez,-23.898233,-61.848274,3636
+1059,474,Sucursal 4,Calle Mitre N° 315,Corrientes,Curuzú Cuatiá,-29.788977,-58.055286,3460
+1060,475,Sucursal 1,Calle San Martin N° 4219,Formosa,Clorinda,-25.280628,-57.715652,3610
+1061,476,Sucursal 1,Avenida Ushuaia N° 317,Corrientes,Paso de los Libres,-29.713502,-57.087708,3230
+1062,477,Sucursal 1,Av. Córdoba N° 725,Misiones,Oberá,-27.484101,-55.115811,3360
+1063,477,Sucursal 2,Camino 189 B N° 1354,Entre Ríos,Gualeguaychú,-33.010398,-58.509544,2820
+1064,477,Sucursal 3,Diagonal Resistencia N° 4010,Chaco,Sáenz Peña,-26.79437,-60.43909,3700
+1065,478,Sucursal 1,Camino 9 N° 46,Corrientes,Paso de los Libres,-29.711906,-57.086076,3230
+1066,478,Sucursal 2,Avenida G. Brown N° 686,Entre Ríos,Gualeguay,-33.141219,-59.313945,2840
+1067,478,Sucursal 3,Calle 7 N° 128,Chaco,Sáenz Peña,-26.790681,-60.436535,3700
+1068,478,Sucursal 4,Diagonal San Martin N° 2441,Misiones,Posadas,-27.367984,-55.897496,3300
+1069,479,Sucursal 1,Calle 3 N° 45,Chaco,Villa Ángela,-27.585973,-60.717463,3540
+1070,479,Sucursal 2,Calle Güemes N° 965,Misiones,Apóstoles,-27.916783,-55.76654,3350
+1071,480,Sucursal 1,Calle 1 N° 972,Formosa,Formosa Capital,-26.182041,-58.18223,3600
+1072,480,Sucursal 2,Avenida San Juan N° 42,Formosa,Pirané,-25.730903,-59.116988,3606
+1073,481,Sucursal 1,Avenida Buenos Aires N° 542,Entre Ríos,Concordia,-31.380628,-58.014847,3200
+1074,481,Sucursal 2,Diagonal 9 N° 977,Corrientes,Curuzú Cuatiá,-29.79157,-58.051996,3460
+1075,482,Sucursal 1,Avenida Neuquén N° 49,Corrientes,Curuzú Cuatiá,-29.790356,-58.056227,3460
+1076,483,Sucursal 1,Diagonal Bahía Blanca N° 598,Corrientes,Paso de los Libres,-29.714811,-57.089828,3230
+1077,484,Sucursal 1,Camino Viedma N° 12,Formosa,Formosa Capital,-26.185397,-58.185074,3600
+1078,485,Sucursal 1,Boulevard Merlo N° 7417,Chaco,Charata,-27.217201,-61.198906,3730
+1079,486,Sucursal 1,Calle Mendoza N° 71,Formosa,Formosa Capital,-26.18422,-58.183637,3600
+1080,487,Sucursal 1,Diagonal Omar Nuñez N° 690,Corrientes,Corrientes Capital,-27.481751,-58.837222,3400
+1081,487,Sucursal 2,Av. 4 N° 879,Chaco,Barranqueras,-27.48129,-58.933182,3503
+1082,487,Sucursal 3,Av. J.J. Castelli N° 8313,Misiones,Posadas,-27.36763,-55.897043,3300
+1083,487,Sucursal 4,Avenida 6 N° 12,Entre Ríos,Paraná,-31.740179,-60.511583,3100
+1084,487,Sucursal 5,Av. Corrientes N° 577,Entre Ríos,Concordia,-31.382119,-58.014649,3200
+1085,488,Sucursal 1,Diag. 1 N° 98,Misiones,Apóstoles,-27.917876,-55.768908,3350
+1086,488,Sucursal 2,Diagonal 179 A N° 414,Chaco,Charata,-27.21867,-61.20144,3730
+1087,488,Sucursal 3,Calle G. Brown N° 7489,Formosa,Formosa Capital,-26.184069,-58.184571,3600
+1088,488,Sucursal 4,Avenida San Luis N° 297,Corrientes,Goya,-29.14251,-59.263994,3450
+1089,489,Sucursal 1,Diag. Güemes N° 338,Formosa,El Colorado,-26.297455,-59.365429,3603
+1090,489,Sucursal 2,Calle Formosa N° 183,Chaco,Charata,-27.218606,-61.201948,3730
+1091,490,Sucursal 1,Calle Resistencia N° 78,Chaco,Resistencia,-27.452673,-58.988353,3500
+1092,491,Sucursal 1,Camino 8 N° 92,Formosa,Ingeniero Juárez,-23.902241,-61.851438,3636
+1093,491,Sucursal 2,Avenida Malvinas Argentinas N° 477,Chaco,Resistencia,-27.452869,-58.984357,3500
+1094,492,Sucursal 1,Av. Rivadavia N° 486,Misiones,Posadas,-27.364232,-55.898212,3300
+1095,492,Sucursal 2,Av. Güemes N° 873,Misiones,Apóstoles,-27.916461,-55.768724,3350
+1096,492,Sucursal 3,Av. San Juan N° 718,Chaco,Charata,-27.218971,-61.20285,3730
+1097,492,Sucursal 4,Diagonal 9 N° 913,Formosa,Formosa Capital,-26.181689,-58.180613,3600
+1098,493,Sucursal 1,Avenida 5 N° 256,Corrientes,Mercedes,-29.184274,-58.077469,3470
+1099,493,Sucursal 2,Av. J.B. Alberdi N° 379,Formosa,Clorinda,-25.284312,-57.715467,3610
+1100,493,Sucursal 3,Diagonal J.B. Alberdi N° 18,Formosa,Formosa Capital,-26.180924,-58.180482,3600
+1101,494,Sucursal 1,Av. Mitre N° 9643,Formosa,Ingeniero Juárez,-23.898629,-61.847466,3636
+1102,495,Sucursal 1,Av. 155 B N° 2971,Entre Ríos,Gualeguaychú,-33.010126,-58.510926,2820
+1103,495,Sucursal 2,Calle J.M. de Rosas N° 2960,Corrientes,Goya,-29.142563,-59.262394,3450
+1104,495,Sucursal 3,Diagonal Río Gallegos N° 427,Chaco,Charata,-27.219551,-61.199295,3730
+1105,495,Sucursal 4,Av. Río Negro N° 565,Chaco,Barranqueras,-27.483624,-58.935745,3503
+1106,496,Sucursal 1,Av. 1 N° 4658,Formosa,El Colorado,-26.299152,-59.366199,3603
+1107,496,Sucursal 2,Av. San Miguel de Tucumán N° 345,Chaco,Barranqueras,-27.481612,-58.931697,3503
+1108,497,Sucursal 1,Av. Resistencia N° 71,Corrientes,Corrientes Capital,-27.482998,-58.832503,3400
+1109,497,Sucursal 2,Av. Buenos Aires N° 4049,Entre Ríos,Concordia,-31.382271,-58.019176,3200
+1110,497,Sucursal 3,Av. Río Gallegos N° 186,Formosa,Clorinda,-25.283933,-57.716757,3610
+1111,498,Sucursal 1,Av. 1 N° 396,Formosa,El Colorado,-26.299931,-59.369364,3603
+1112,498,Sucursal 2,Camino 3 N° 631,Entre Ríos,Concordia,-31.384134,-58.018812,3200
+1113,498,Sucursal 3,Avenida Rawson N° 64,Misiones,Puerto Iguazú,-25.597982,-54.579363,3370
+1114,498,Sucursal 4,Avenida San Miguel de Tucumán N° 55,Chaco,Charata,-27.21763,-61.201151,3730
+1115,499,Sucursal 1,Av. Ushuaia N° 734,Formosa,Pirané,-25.735774,-59.115333,3606
+1116,499,Sucursal 2,Blv. Salta N° 93,Misiones,Apóstoles,-27.915251,-55.767206,3350
+1117,499,Sucursal 3,Diagonal J.M. de Rosas N° 8018,Misiones,Apóstoles,-27.917968,-55.764866,3350
+1118,500,Sucursal 1,Av. Alvear N° 1560,Entre Ríos,Concepción del Uruguay,-32.480221,-58.239363,3260
+1119,500,Sucursal 2,Diagonal 7 N° 424,Formosa,Ingeniero Juárez,-23.899412,-61.852138,3636
+1120,501,Sucursal 1,Avenida 6 N° 332,Formosa,Formosa Capital,-26.18037,-58.183148,3600
+1121,501,Sucursal 2,Av. 2 N° 11,Misiones,Posadas,-27.369703,-55.893339,3300
+1122,501,Sucursal 3,Diag. Neuquén N° 63,Entre Ríos,Gualeguay,-33.142445,-59.31966,2840
+1123,501,Sucursal 4,Diagonal 1 N° 14,Entre Ríos,Paraná,-31.739414,-60.512013,3100
+1124,502,Sucursal 1,Av. San Ferando del Valle de Catamarca N° 932,Misiones,Apóstoles,-27.915439,-55.765169,3350
+1125,502,Sucursal 2,Boulevard Saavedra N° 81,Corrientes,Mercedes,-29.183104,-58.076906,3470
+1126,502,Sucursal 3,Boulevard J.B. Alberdi N° 878,Chaco,Charata,-27.216377,-61.202747,3730
+1127,502,Sucursal 4,Diagonal 8 N° 265,Chaco,Charata,-27.214692,-61.201177,3730
+1128,503,Sucursal 1,Diagonal 8 N° 8124,Chaco,Barranqueras,-27.486139,-58.936285,3503
+1129,503,Sucursal 2,Av. San Luis N° 562,Chaco,Villa Ángela,-27.584499,-60.715857,3540
+1130,504,Sucursal 1,Camino Ushuaia N° 167,Corrientes,Paso de los Libres,-29.711877,-57.085144,3230
+1131,504,Sucursal 2,Calle Ciudad Autónoma de Buenos Aires N° 864,Misiones,Puerto Iguazú,-25.599124,-54.576159,3370
+1132,505,Sucursal 1,Av. Mendoza N° 66,Corrientes,Corrientes Capital,-27.482784,-58.835937,3400
+1133,506,Sucursal 1,Calle Formosa N° 917,Formosa,El Colorado,-26.298527,-59.366214,3603
+1134,506,Sucursal 2,Avenida Bahía Blanca N° 355,Formosa,Ingeniero Juárez,-23.900384,-61.851453,3636
+1135,507,Sucursal 1,Avenida J.B. Alberdi N° 902,Formosa,Formosa Capital,-26.180454,-58.18139,3600
+1136,507,Sucursal 2,Av. Salta N° 326,Misiones,Oberá,-27.483225,-55.116248,3360
+1137,507,Sucursal 3,Calle 3 N° 2842,Chaco,Villa Ángela,-27.585323,-60.719349,3540
+1138,507,Sucursal 4,Blv. La Rioja N° 162,Misiones,Posadas,-27.367334,-55.89494,3300
+1139,507,Sucursal 5,Av. Belgrano N° 569,Misiones,Oberá,-27.48532,-55.118064,3360
+1140,508,Sucursal 1,Boulevard Buenos Aires N° 8422,Entre Ríos,Paraná,-31.739427,-60.512364,3100
+1141,508,Sucursal 2,Calle 3 N° 6787,Chaco,Charata,-27.21795,-61.199166,3730
+1142,509,Sucursal 1,Avenida Mitre N° 4610,Formosa,Clorinda,-25.285137,-57.715932,3610
+1143,510,Sucursal 1,Av. Ciudad Autónoma de Buenos Aires N° 240,Formosa,El Colorado,-26.298484,-59.366438,3603
+1144,511,Sucursal 1,Boulevard Chubut N° 635,Entre Ríos,Concordia,-31.381501,-58.018071,3200
+1145,511,Sucursal 2,Av. Salta N° 5972,Entre Ríos,Gualeguaychú,-33.00667,-58.513225,2820
+1146,511,Sucursal 3,Blv. Misiones N° 757,Formosa,Ingeniero Juárez,-23.90089,-61.852138,3636
+1147,511,Sucursal 4,Calle Alvear N° 53,Corrientes,Mercedes,-29.181191,-58.079662,3470
+1148,512,Sucursal 1,Calle 4 N° 7086,Misiones,Puerto Iguazú,-25.598158,-54.576135,3370
+1149,512,Sucursal 2,Avenida Bahía Blanca N° 1566,Corrientes,Paso de los Libres,-29.714493,-57.08748,3230
+1150,512,Sucursal 3,Av. Formosa N° 7993,Chaco,Sáenz Peña,-26.790429,-60.437748,3700
+1151,513,Sucursal 1,Avenida Formosa N° 741,Formosa,Clorinda,-25.281224,-57.715425,3610
+1152,513,Sucursal 2,Avenida Bahía Blanca N° 2674,Entre Ríos,Gualeguaychú,-33.006262,-58.513116,2820
+1153,513,Sucursal 3,Av. Alvear N° 35,Misiones,Apóstoles,-27.914204,-55.769001,3350
+1154,513,Sucursal 4,Calle G. Brown N° 252,Corrientes,Mercedes,-29.17876,-58.079023,3470
+1155,514,Sucursal 1,Camino Mitre N° 98,Entre Ríos,Gualeguaychú,-33.008625,-58.508898,2820
+1156,514,Sucursal 2,Boulevard 1 N° 201,Formosa,El Colorado,-26.299861,-59.363879,3603
+1157,515,Sucursal 1,Diagonal 6 N° 163,Entre Ríos,Gualeguaychú,-33.008972,-58.509333,2820
+1158,516,Sucursal 1,Avenida Chaco N° 8297,Chaco,Barranqueras,-27.485528,-58.932135,3503
+1159,517,Sucursal 1,Avenida Tucumán N° 73,Chaco,Charata,-27.218948,-61.202219,3730
+1160,518,Sucursal 1,Calle 6 N° 7047,Misiones,Puerto Iguazú,-25.596055,-54.576896,3370
+1161,518,Sucursal 2,Diagonal Neuquén N° 8418,Corrientes,Curuzú Cuatiá,-29.792587,-58.054394,3460
+1162,519,Sucursal 1,Avenida La Rioja N° 910,Corrientes,Goya,-29.142222,-59.265503,3450
+1163,519,Sucursal 2,Calle 3 N° 925,Entre Ríos,Concordia,-31.383219,-58.019344,3200
+1164,519,Sucursal 3,Avenida Misiones N° 128,Corrientes,Paso de los Libres,-29.710349,-57.09024,3230
+1165,520,Sucursal 1,Diag. 8 N° 130,Entre Ríos,Concordia,-31.386238,-58.019121,3200
+1166,520,Sucursal 2,Av. La Plata N° 389,Corrientes,Paso de los Libres,-29.710279,-57.089268,3230
+1167,520,Sucursal 3,Av. Neuquén N° 31,Chaco,Sáenz Peña,-26.794091,-60.438991,3700
+1168,520,Sucursal 4,Calle Rosario N° 525,Corrientes,Curuzú Cuatiá,-29.791827,-58.052823,3460
+1169,521,Sucursal 1,Calle Mendoza N° 76,Formosa,Ingeniero Juárez,-23.900913,-61.852037,3636
+1170,521,Sucursal 2,Avenida 4 N° 339,Formosa,Clorinda,-25.281615,-57.716022,3610
+1171,521,Sucursal 3,Calle Chubut N° 78,Formosa,Clorinda,-25.282879,-57.719105,3610
+1172,521,Sucursal 4,Calle 6 N° 482,Formosa,Ingeniero Juárez,-23.898421,-61.849827,3636
+1173,522,Sucursal 1,Boulevard Chaco N° 7935,Chaco,Charata,-27.218669,-61.198476,3730
+1174,523,Sucursal 1,Diagonal Ushuaia N° 52,Entre Ríos,Concepción del Uruguay,-32.485008,-58.238916,3260
+1175,523,Sucursal 2,Avenida San Martin N° 4424,Formosa,Clorinda,-25.281192,-57.716852,3610
+1176,524,Sucursal 1,Diag. Malvinas Argentinas N° 766,Formosa,Ingeniero Juárez,-23.901889,-61.848959,3636
+1177,524,Sucursal 2,Av. Malvinas Argentinas N° 6631,Corrientes,Paso de los Libres,-29.714715,-57.088371,3230
+1178,524,Sucursal 3,Av. 8 N° 478,Misiones,Eldorado,-26.400455,-54.616614,3380
+1179,524,Sucursal 4,Diagonal Corrientes N° 95,Misiones,Puerto Iguazú,-25.599523,-54.575692,3370
+1180,524,Sucursal 5,Avenida Pte. Perón N° 554,Corrientes,Paso de los Libres,-29.713005,-57.087382,3230
+1181,525,Sucursal 1,Boulevard Alem N° 9923,Entre Ríos,Gualeguay,-33.142532,-59.31797,2840
+1182,525,Sucursal 2,Avenida Omar Nuñez N° 273,Entre Ríos,Concepción del Uruguay,-32.485356,-58.238231,3260
+1183,525,Sucursal 3,Avenida Belgrano N° 7472,Corrientes,Paso de los Libres,-29.713491,-57.087758,3230
+1184,526,Sucursal 1,Av. Neuquén N° 608,Entre Ríos,Concordia,-31.380443,-58.017036,3200
+1185,526,Sucursal 2,Avenida Santiago del Estero N° 7712,Formosa,Pirané,-25.733856,-59.11379,3606
+1186,527,Sucursal 1,Diagonal San Juan N° 353,Chaco,Sáenz Peña,-26.790059,-60.435731,3700
+1187,527,Sucursal 2,Diagonal Alvear N° 793,Formosa,Formosa Capital,-26.180666,-58.184095,3600
+1188,528,Sucursal 1,Calle San Salvador de Jujuy N° 35,Entre Ríos,Concordia,-31.38335,-58.019069,3200
+1189,529,Sucursal 1,Diag. San Martin N° 62,Formosa,Clorinda,-25.282349,-57.71919,3610
+1190,529,Sucursal 2,Calle 4 N° 1110,Corrientes,Mercedes,-29.181931,-58.07773,3470
+1191,529,Sucursal 3,Calle Río Negro N° 98,Corrientes,Paso de los Libres,-29.711351,-57.085145,3230
+1192,529,Sucursal 4,Diag. 3 N° 856,Chaco,Resistencia,-27.453712,-58.982749,3500
+1193,530,Sucursal 1,Calle Río Negro N° 592,Chaco,Sáenz Peña,-26.79163,-60.435156,3700
+1194,530,Sucursal 2,Diagonal J.J. Castelli N° 37,Corrientes,Paso de los Libres,-29.714403,-57.087952,3230
+1195,530,Sucursal 3,Calle 169 B N° 114,Formosa,Formosa Capital,-26.184629,-58.182019,3600
+1196,531,Sucursal 1,Av. Malvinas Argentinas N° 230,Entre Ríos,Gualeguay,-33.139963,-59.315837,2840
+1197,531,Sucursal 2,Av. G. Brown N° 95,Misiones,Eldorado,-26.400863,-54.6157,3380
+1198,532,Sucursal 1,Diagonal Malvinas Argentinas N° 195,Formosa,Formosa Capital,-26.183232,-58.185416,3600
+1199,532,Sucursal 2,Av. 8 N° 11,Misiones,Apóstoles,-27.919052,-55.768196,3350
+1200,532,Sucursal 3,Avenida Malvinas Argentinas N° 5710,Formosa,Formosa Capital,-26.184915,-58.180646,3600
+1201,533,Sucursal 1,Av. 2 N° 475,Corrientes,Paso de los Libres,-29.711373,-57.085518,3230
+1202,533,Sucursal 2,Av. 8 N° 195,Formosa,Formosa Capital,-26.182231,-58.180468,3600
+1203,534,Sucursal 1,Diagonal Alvear N° 2798,Formosa,El Colorado,-26.298925,-59.368784,3603
+1204,534,Sucursal 2,Camino Mitre N° 951,Formosa,El Colorado,-26.299261,-59.365139,3603
+1205,535,Sucursal 1,Boulevard G. Brown N° 594,Misiones,Apóstoles,-27.918488,-55.765727,3350
+1206,535,Sucursal 2,Avenida 1 N° 7443,Formosa,Formosa Capital,-26.183271,-58.183045,3600
+1207,536,Sucursal 1,Avenida G. Brown N° 599,Formosa,Pirané,-25.736194,-59.115116,3606
+1208,536,Sucursal 2,Calle Mendoza N° 55,Misiones,Puerto Iguazú,-25.594919,-54.580885,3370
+1209,536,Sucursal 3,Calle Corrientes N° 94,Misiones,Apóstoles,-27.917813,-55.767442,3350
+1210,536,Sucursal 4,Diagonal 2 N° 814,Misiones,Apóstoles,-27.919484,-55.768639,3350
+1211,537,Sucursal 1,Av. Rivadavia N° 290,Entre Ríos,Gualeguaychú,-33.009815,-58.511216,2820
+1212,537,Sucursal 2,Av. Alvear N° 8118,Chaco,Charata,-27.215406,-61.200075,3730
+1213,538,Sucursal 1,Diag. Neuquén N° 8875,Formosa,Ingeniero Juárez,-23.89895,-61.84904,3636
+1214,538,Sucursal 2,Diagonal 4 N° 185,Entre Ríos,Concordia,-31.383064,-58.016881,3200
+1215,539,Sucursal 1,Calle Río Gallegos N° 720,Formosa,Clorinda,-25.285966,-57.71812,3610
+1216,540,Sucursal 1,Calle Salta N° 449,Misiones,Eldorado,-26.399298,-54.617583,3380
+1217,540,Sucursal 2,Diagonal Chaco N° 25,Chaco,Charata,-27.217777,-61.202831,3730
+1218,540,Sucursal 3,Avenida Mendoza N° 554,Corrientes,Goya,-29.142631,-59.263502,3450
+1219,540,Sucursal 4,Diagonal 4 N° 552,Entre Ríos,Concepción del Uruguay,-32.482096,-58.235609,3260
+1220,541,Sucursal 1,Calle Chilecito N° 238,Misiones,Eldorado,-26.402416,-54.617629,3380
+1221,541,Sucursal 2,Calle 3 N° 989,Misiones,Oberá,-27.483828,-55.119361,3360
+1222,542,Sucursal 1,Avenida Catamarca N° 7834,Chaco,Barranqueras,-27.484892,-58.934427,3503
+1223,543,Sucursal 1,Blv. Comodoro Rivadavia N° 418,Entre Ríos,Gualeguaychú,-33.010407,-58.511971,2820
+1224,543,Sucursal 2,Blv. Santa Cruz N° 863,Misiones,Posadas,-27.369081,-55.895869,3300
+1225,544,Sucursal 1,Camino Santiago del Estero N° 27,Misiones,Apóstoles,-27.915753,-55.767165,3350
+1226,545,Sucursal 1,Diagonal San Juan N° 1664,Chaco,Villa Ángela,-27.586178,-60.716882,3540
+1227,545,Sucursal 2,Avenida 4 N° 437,Corrientes,Corrientes Capital,-27.477585,-58.835334,3400
+1228,546,Sucursal 1,Avenida San Juan N° 5214,Misiones,Posadas,-27.366665,-55.89425,3300
+1229,546,Sucursal 2,Diagonal Belgrano N° 7476,Corrientes,Paso de los Libres,-29.711655,-57.089265,3230
+1230,547,Sucursal 1,Camino San Salvador de Jujuy N° 124,Formosa,Clorinda,-25.281431,-57.715696,3610
+1231,547,Sucursal 2,Calle G. Brown N° 741,Chaco,Resistencia,-27.450411,-58.98642,3500
+1232,547,Sucursal 3,Calle J.B. Alberdi N° 157,Misiones,Puerto Iguazú,-25.598989,-54.577787,3370
+1233,548,Sucursal 1,Boulevard 6 N° 629,Formosa,Pirané,-25.735016,-59.118109,3606
+1234,548,Sucursal 2,Av. San Martin N° 575,Chaco,Charata,-27.213723,-61.200588,3730
+1235,549,Sucursal 1,Calle 5 N° 7856,Formosa,El Colorado,-26.298543,-59.369148,3603
+1236,549,Sucursal 2,Diagonal Rivadavia N° 911,Formosa,Ingeniero Juárez,-23.902432,-61.850979,3636
+1237,550,Sucursal 1,Avenida G. Brown N° 298,Formosa,Ingeniero Juárez,-23.898193,-61.850148,3636
+1238,551,Sucursal 1,Diagonal J.M. de Rosas N° 132,Misiones,Oberá,-27.481526,-55.115791,3360
+1239,552,Sucursal 1,Avenida J.M. de Rosas N° 1784,Formosa,Clorinda,-25.281475,-57.717103,3610
+1240,552,Sucursal 2,Calle Salta N° 2221,Formosa,Pirané,-25.73442,-59.117214,3606
+1241,553,Sucursal 1,Calle J.M. de Rosas N° 86,Formosa,El Colorado,-26.299908,-59.365671,3603
+1242,553,Sucursal 2,Calle 8 N° 77,Formosa,Pirané,-25.735216,-59.119588,3606
+1243,554,Sucursal 1,Camino 6 N° 373,Formosa,Ingeniero Juárez,-23.900005,-61.849035,3636
+1244,555,Sucursal 1,Avenida Comodoro Rivadavia N° 653,Chaco,Villa Ángela,-27.580677,-60.716504,3540
+1245,555,Sucursal 2,Avenida San Martin N° 58,Formosa,El Colorado,-26.297883,-59.364259,3603
+1246,556,Sucursal 1,Calle Paraná N° 8984,Formosa,Clorinda,-25.285096,-57.716925,3610
+1247,557,Sucursal 1,Calle La Rioja N° 232,Corrientes,Mercedes,-29.179821,-58.077307,3470
+1248,557,Sucursal 2,Diagonal La Rioja N° 721,Misiones,Puerto Iguazú,-25.597738,-54.576439,3370
+1249,557,Sucursal 3,Diagonal J.B. Alberdi N° 93,Corrientes,Curuzú Cuatiá,-29.788896,-58.052224,3460
+1250,558,Sucursal 1,Av. Santiago del Estero N° 449,Chaco,Charata,-27.215824,-61.201461,3730
+1251,558,Sucursal 2,Diag. Santa Fe N° 974,Formosa,El Colorado,-26.301583,-59.368269,3603
+1252,559,Sucursal 1,Av. 9 N° 82,Chaco,Sáenz Peña,-26.795034,-60.436318,3700
+1253,560,Sucursal 1,Diagonal Merlo N° 46,Misiones,Apóstoles,-27.916788,-55.763752,3350
+1254,560,Sucursal 2,Avenida 2 N° 69,Misiones,Puerto Iguazú,-25.596318,-54.581378,3370
+1255,560,Sucursal 3,Avenida 129 B N° 479,Chaco,Resistencia,-27.452464,-58.988425,3500
+1256,561,Sucursal 1,Calle Misiones N° 890,Entre Ríos,Concordia,-31.382996,-58.015834,3200
+1257,561,Sucursal 2,Avenida 181 A N° 418,Corrientes,Goya,-29.137617,-59.262785,3450
+1258,562,Sucursal 1,Avenida 4 N° 428,Corrientes,Goya,-29.138242,-59.265196,3450
+1259,562,Sucursal 2,Diagonal Mitre N° 4196,Formosa,El Colorado,-26.301212,-59.369319,3603
+1260,563,Sucursal 1,Diagonal Pte. Perón N° 957,Misiones,Oberá,-27.48227,-55.114386,3360
+1261,563,Sucursal 2,Calle 7 N° 138,Misiones,Eldorado,-26.397341,-54.615355,3380
+1262,563,Sucursal 3,Diagonal J.B. Alberdi N° 184,Corrientes,Mercedes,-29.182884,-58.078474,3470
+1263,564,Sucursal 1,Av. Catamarca N° 1510,Corrientes,Paso de los Libres,-29.712668,-57.085526,3230
+1264,564,Sucursal 2,Calle San Martin N° 5256,Entre Ríos,Gualeguay,-33.139111,-59.318189,2840
+1265,564,Sucursal 3,Avenida Comodoro Rivadavia N° 427,Corrientes,Curuzú Cuatiá,-29.791272,-58.056566,3460
+1266,564,Sucursal 4,Diag. 4 N° 73,Misiones,Posadas,-27.368124,-55.895594,3300
+1267,564,Sucursal 5,Avenida 6 N° 4685,Misiones,Eldorado,-26.398165,-54.615236,3380
+1268,565,Sucursal 1,Camino La Rioja N° 834,Chaco,Sáenz Peña,-26.794334,-60.440049,3700
+1269,565,Sucursal 2,Calle Neuquén N° 219,Chaco,Villa Ángela,-27.583663,-60.718174,3540
+1270,566,Sucursal 1,Av. Omar Nuñez N° 43,Corrientes,Goya,-29.140458,-59.263452,3450
+1271,566,Sucursal 2,Diag. San Juan N° 549,Corrientes,Paso de los Libres,-29.713901,-57.087957,3230
+1272,566,Sucursal 3,Diagonal 8 N° 992,Entre Ríos,Concordia,-31.384822,-58.018034,3200
+1273,566,Sucursal 4,Diagonal 2 N° 8085,Corrientes,Mercedes,-29.182122,-58.077606,3470
+1274,566,Sucursal 5,Avenida Ushuaia N° 164,Chaco,Charata,-27.219574,-61.197199,3730
+1275,567,Sucursal 1,Calle Constitución N° 531,Entre Ríos,Concepción del Uruguay,-32.481627,-58.234555,3260
+1276,568,Sucursal 1,Diagonal Entre Ríos N° 117,Chaco,Villa Ángela,-27.582984,-60.717844,3540
+1277,569,Sucursal 1,Boulevard G. Brown N° 434,Entre Ríos,Concordia,-31.385568,-58.014498,3200
+1278,569,Sucursal 2,Av. Mitre N° 660,Misiones,Apóstoles,-27.917369,-55.764241,3350
+1279,570,Sucursal 1,Blv. Saavedra N° 75,Chaco,Villa Ángela,-27.584495,-60.714082,3540
+1280,570,Sucursal 2,Diagonal Entre Ríos N° 21,Entre Ríos,Gualeguay,-33.143287,-59.318438,2840
+1281,570,Sucursal 3,Av. Santa Rosa N° 573,Chaco,Resistencia,-27.448605,-58.984812,3500
+1282,570,Sucursal 4,Av. Formosa N° 191,Entre Ríos,Gualeguay,-33.140833,-59.314964,2840
+1283,571,Sucursal 1,Avenida 1 N° 196,Corrientes,Curuzú Cuatiá,-29.787761,-58.051657,3460
+1284,571,Sucursal 2,Avenida 1 N° 92,Formosa,Formosa Capital,-26.181878,-58.180741,3600
+1285,572,Sucursal 1,Calle Entre Ríos N° 278,Entre Ríos,Gualeguaychú,-33.008266,-58.508289,2820
+1286,572,Sucursal 2,Av. Alvear N° 790,Corrientes,Paso de los Libres,-29.710854,-57.086309,3230
+1287,573,Sucursal 1,Camino Corrientes N° 126,Corrientes,Curuzú Cuatiá,-29.790589,-58.053687,3460
+1288,573,Sucursal 2,Diagonal Entre Ríos N° 161,Formosa,Pirané,-25.731873,-59.11698,3606
+1289,573,Sucursal 3,Diagonal 9 N° 994,Corrientes,Corrientes Capital,-27.478928,-58.833752,3400
+1290,573,Sucursal 4,Avenida 7 N° 110,Chaco,Resistencia,-27.450319,-58.983854,3500
+1291,574,Sucursal 1,Diagonal 1 N° 6043,Corrientes,Corrientes Capital,-27.481096,-58.83383,3400
+1292,575,Sucursal 1,Av. 1 N° 428,Formosa,Ingeniero Juárez,-23.902507,-61.852053,3636
+1293,575,Sucursal 2,Calle Bahía Blanca N° 282,Formosa,Clorinda,-25.282019,-57.715094,3610
+1294,576,Sucursal 1,Calle 6 N° 9731,Formosa,El Colorado,-26.298885,-59.364944,3603
+1295,577,Sucursal 1,Boulevard Malvinas Argentinas N° 551,Misiones,Apóstoles,-27.91683,-55.765289,3350
+1296,577,Sucursal 2,Camino Santa Cruz N° 3398,Chaco,Villa Ángela,-27.585259,-60.716142,3540
+1297,578,Sucursal 1,Diag. Mendoza N° 888,Chaco,Charata,-27.218508,-61.200513,3730
+1298,578,Sucursal 2,Calle Santa Fe N° 223,Chaco,Resistencia,-27.451739,-58.986336,3500
+1299,579,Sucursal 1,Diag. Mendoza N° 825,Corrientes,Corrientes Capital,-27.477811,-58.832061,3400
+1300,580,Sucursal 1,Av. Misiones N° 641,Formosa,El Colorado,-26.29924,-59.364259,3603
+1301,580,Sucursal 2,Calle La Pampa N° 22,Misiones,Apóstoles,-27.91851,-55.765492,3350
+1302,580,Sucursal 3,Avenida 7 N° 992,Chaco,Resistencia,-27.453801,-58.984892,3500
+1303,580,Sucursal 4,Avenida 2 N° 167,Formosa,El Colorado,-26.301439,-59.369166,3603
+1304,581,Sucursal 1,Diagonal Formosa N° 1162,Chaco,Resistencia,-27.448417,-58.987896,3500
+1305,581,Sucursal 2,Av. 3 N° 5370,Entre Ríos,Gualeguaychú,-33.007645,-58.50916,2820
+1306,582,Sucursal 1,Diag. 6 N° 169,Entre Ríos,Concordia,-31.383335,-58.018353,3200
+1307,582,Sucursal 2,Diagonal 5 N° 755,Chaco,Sáenz Peña,-26.794057,-60.435928,3700
+1308,583,Sucursal 1,Boulevard Bahía Blanca N° 239,Chaco,Charata,-27.215221,-61.200708,3730
+1309,583,Sucursal 2,Avenida Pte. Perón N° 13,Misiones,Puerto Iguazú,-25.595062,-54.578,3370
+1310,583,Sucursal 3,Avenida Rawson N° 187,Chaco,Charata,-27.21534,-61.201864,3730
+1311,584,Sucursal 1,Camino Posadas N° 987,Misiones,Puerto Iguazú,-25.595445,-54.581427,3370
+1312,585,Sucursal 1,Av. Formosa N° 932,Chaco,Barranqueras,-27.482594,-58.930856,3503
+1313,585,Sucursal 2,Av. Güemes N° 1793,Misiones,Oberá,-27.482803,-55.115817,3360
+1314,585,Sucursal 3,Avenida Mitre N° 293,Corrientes,Curuzú Cuatiá,-29.792638,-58.056501,3460
+1315,586,Sucursal 1,Diagonal 7 N° 4010,Entre Ríos,Gualeguaychú,-33.008415,-58.512527,2820
+1316,586,Sucursal 2,Av. Alem N° 5618,Misiones,Eldorado,-26.398749,-54.615283,3380
+1317,587,Sucursal 1,Avenida Pte. Perón N° 4199,Corrientes,Curuzú Cuatiá,-29.792128,-58.056947,3460
+1318,587,Sucursal 2,Av. Constitución N° 464,Misiones,Posadas,-27.364514,-55.896274,3300
+1319,588,Sucursal 1,Blv. 9 N° 821,Formosa,El Colorado,-26.297364,-59.363897,3603
+1320,588,Sucursal 2,Diag. Río Gallegos N° 849,Formosa,El Colorado,-26.298743,-59.364841,3603
+1321,589,Sucursal 1,Camino San Juan N° 8980,Chaco,Villa Ángela,-27.583273,-60.717414,3540
+1322,590,Sucursal 1,Avenida 6 N° 318,Entre Ríos,Concordia,-31.384075,-58.013892,3200
+1323,590,Sucursal 2,Diagonal Formosa N° 1378,Formosa,Pirané,-25.736053,-59.118624,3606
+1324,591,Sucursal 1,Camino Río Negro N° 48,Formosa,Clorinda,-25.283343,-57.717665,3610
+1325,592,Sucursal 1,Avenida Pte. Perón N° 2086,Corrientes,Mercedes,-29.183762,-58.077638,3470
+1326,592,Sucursal 2,Av. San Martin N° 994,Misiones,Puerto Iguazú,-25.599349,-54.580899,3370
+1327,593,Sucursal 1,Av. Santa Cruz N° 248,Corrientes,Mercedes,-29.181305,-58.07606,3470
+1328,594,Sucursal 1,Calle Misiones N° 9490,Entre Ríos,Concepción del Uruguay,-32.483436,-58.237619,3260
+1329,594,Sucursal 2,Av. Formosa N° 12,Chaco,Villa Ángela,-27.582622,-60.715131,3540
+1330,595,Sucursal 1,Calle 2 N° 1158,Formosa,Clorinda,-25.284422,-57.714344,3610
+1331,595,Sucursal 2,Avenida 7 N° 265,Misiones,Posadas,-27.365679,-55.896152,3300
+1332,596,Sucursal 1,Blv. Mendoza N° 28,Formosa,Pirané,-25.731182,-59.115755,3606
+1333,597,Sucursal 1,Avenida J.B. Alberdi N° 128,Corrientes,Goya,-29.142266,-59.265373,3450
+1334,597,Sucursal 2,Camino Rawson N° 548,Chaco,Resistencia,-27.453885,-58.987039,3500
+1335,598,Sucursal 1,Calle 7 N° 963,Misiones,Apóstoles,-27.917081,-55.763729,3350
+1336,598,Sucursal 2,Diag. J.M. de Rosas N° 9042,Formosa,Formosa Capital,-26.186055,-58.184161,3600
+1337,598,Sucursal 3,Boulevard La Rioja N° 615,Entre Ríos,Gualeguaychú,-33.007435,-58.511053,2820
+1338,598,Sucursal 4,Avenida J.J. Castelli N° 854,Corrientes,Paso de los Libres,-29.710725,-57.085299,3230
+1339,599,Sucursal 1,Boulevard Ushuaia N° 36,Misiones,Oberá,-27.485739,-55.114491,3360
+1340,600,Sucursal 1,Calle Chilecito N° 97,Chaco,Resistencia,-27.4496,-58.983665,3500
+1341,600,Sucursal 2,Diagonal Mar del Plata N° 39,Formosa,Ingeniero Juárez,-23.897655,-61.849486,3636
+1342,601,Sucursal 1,Diag. Resistencia N° 452,Corrientes,Corrientes Capital,-27.480344,-58.834175,3400
+1343,601,Sucursal 2,Diagonal Jujuy N° 157,Misiones,Puerto Iguazú,-25.594678,-54.580123,3370
+1344,601,Sucursal 3,Diagonal San Miguel de Tucumán N° 96,Formosa,Formosa Capital,-26.182239,-58.180976,3600
+1345,601,Sucursal 4,Diagonal Corrientes N° 8273,Corrientes,Corrientes Capital,-27.481794,-58.831712,3400
+1346,602,Sucursal 1,Calle Tierra del Fuego N° 96,Misiones,Eldorado,-26.400759,-54.614125,3380
+1347,603,Sucursal 1,Calle Alem N° 350,Misiones,Posadas,-27.369177,-55.898614,3300
+1348,603,Sucursal 2,Av. 6 N° 8329,Entre Ríos,Gualeguaychú,-33.006843,-58.511076,2820
+1349,604,Sucursal 1,Diagonal San Luis N° 276,Formosa,El Colorado,-26.299052,-59.367723,3603
+1350,604,Sucursal 2,Blv. 177 A N° 861,Corrientes,Goya,-29.139463,-59.259995,3450
+1351,604,Sucursal 3,Av. 1 N° 510,Misiones,Posadas,-27.364415,-55.893101,3300
+1352,604,Sucursal 4,Av. Rosario N° 645,Formosa,Ingeniero Juárez,-23.902224,-61.84782,3636
+1353,605,Sucursal 1,Diagonal San Miguel de Tucumán N° 38,Misiones,Posadas,-27.365311,-55.894637,3300
+1354,605,Sucursal 2,Av. Salta N° 618,Formosa,Pirané,-25.730589,-59.117412,3606
+1355,606,Sucursal 1,Av. La Plata N° 1357,Chaco,Villa Ángela,-27.585232,-60.71391,3540
+1356,606,Sucursal 2,Boulevard Mitre N° 975,Misiones,Eldorado,-26.402465,-54.614586,3380
+1357,607,Sucursal 1,Av. San Luis N° 665,Misiones,Eldorado,-26.398323,-54.61799,3380
+1358,607,Sucursal 2,Diagonal 6 N° 95,Entre Ríos,Gualeguay,-33.138973,-59.318775,2840
+1359,608,Sucursal 1,Avenida 3 N° 792,Formosa,Formosa Capital,-26.181493,-58.181885,3600
+1360,608,Sucursal 2,Diagonal Buenos Aires N° 4416,Chaco,Charata,-27.214278,-61.199379,3730
+1361,608,Sucursal 3,Av. San Martin N° 92,Misiones,Oberá,-27.482307,-55.114708,3360
+1362,609,Sucursal 1,Avenida Corrientes N° 6160,Formosa,Formosa Capital,-26.183627,-58.183971,3600
+1363,610,Sucursal 1,Calle G. Brown N° 591,Formosa,Ingeniero Juárez,-23.899398,-61.852459,3636
+1364,610,Sucursal 2,Boulevard La Pampa N° 7421,Misiones,Puerto Iguazú,-25.595334,-54.577917,3370
+1365,611,Sucursal 1,Blv. J.B. Alberdi N° 470,Entre Ríos,Paraná,-31.742344,-60.514257,3100
+1366,611,Sucursal 2,Diagonal Belgrano N° 572,Misiones,Posadas,-27.36426,-55.895041,3300
+1367,612,Sucursal 1,Avenida Saavedra N° 6768,Formosa,Formosa Capital,-26.183136,-58.182417,3600
+1368,613,Sucursal 1,Diagonal Jujuy N° 97,Chaco,Charata,-27.216891,-61.202525,3730
+1369,613,Sucursal 2,Av. Alem N° 924,Formosa,Formosa Capital,-26.184498,-58.180395,3600
+1370,614,Sucursal 1,Avenida Belgrano N° 94,Chaco,Barranqueras,-27.483161,-58.934527,3503
+1371,614,Sucursal 2,Calle Saavedra N° 325,Corrientes,Goya,-29.140094,-59.260196,3450
+1372,615,Sucursal 1,Diagonal Formosa N° 18,Formosa,Clorinda,-25.283751,-57.719133,3610
+1373,616,Sucursal 1,Avenida Ushuaia N° 458,Entre Ríos,Concepción del Uruguay,-32.482189,-58.23868,3260
+1374,616,Sucursal 2,Avenida Rosario N° 75,Chaco,Villa Ángela,-27.582787,-60.715088,3540
+1375,616,Sucursal 3,Calle Chubut N° 4227,Corrientes,Corrientes Capital,-27.482816,-58.833631,3400
+1376,616,Sucursal 4,Calle Mendoza N° 510,Chaco,Resistencia,-27.449383,-58.983543,3500
+1377,617,Sucursal 1,Boulevard Córdoba N° 534,Corrientes,Curuzú Cuatiá,-29.790202,-58.053074,3460
+1378,618,Sucursal 1,Calle 5 N° 39,Formosa,Ingeniero Juárez,-23.898655,-61.848456,3636
+1379,618,Sucursal 2,Diagonal Entre Ríos N° 2691,Misiones,Apóstoles,-27.915957,-55.76811,3350
+1380,619,Sucursal 1,Calle Alvear N° 66,Chaco,Sáenz Peña,-26.794089,-60.436618,3700
+1381,619,Sucursal 2,Calle San Luis N° 893,Formosa,El Colorado,-26.301444,-59.36566,3603
+1382,620,Sucursal 1,Calle San Salvador de Jujuy N° 1669,Formosa,Pirané,-25.736193,-59.11733,3606
+1383,620,Sucursal 2,Av. 7 N° 99,Corrientes,Corrientes Capital,-27.48247,-58.834737,3400
+1384,620,Sucursal 3,Avenida Pte. Perón N° 5266,Entre Ríos,Gualeguaychú,-33.008369,-58.509854,2820
+1385,621,Sucursal 1,Camino Corrientes N° 5861,Chaco,Charata,-27.215989,-61.197156,3730
+1386,621,Sucursal 2,Avenida 180 A N° 63,Misiones,Oberá,-27.482156,-55.113921,3360
+1387,622,Sucursal 1,Blv. San Salvador de Jujuy N° 32,Chaco,Charata,-27.219174,-61.202189,3730
+1388,622,Sucursal 2,Diag. J.M. de Rosas N° 2713,Chaco,Sáenz Peña,-26.794529,-60.441005,3700
+1389,623,Sucursal 1,Avenida 9 N° 894,Corrientes,Corrientes Capital,-27.482245,-58.833708,3400
+1390,624,Sucursal 1,Calle Chubut N° 51,Misiones,Puerto Iguazú,-25.595147,-54.576451,3370
+1391,625,Sucursal 1,Av. Pte. Perón N° 86,Corrientes,Curuzú Cuatiá,-29.790894,-58.054519,3460
+1392,626,Sucursal 1,Calle Mendoza N° 2942,Misiones,Puerto Iguazú,-25.600069,-54.580603,3370
+1393,626,Sucursal 2,Diagonal Omar Nuñez N° 4621,Corrientes,Mercedes,-29.179867,-58.079228,3470
+1394,627,Sucursal 1,Boulevard La Plata N° 66,Formosa,Formosa Capital,-26.186182,-58.183603,3600
+1395,627,Sucursal 2,Calle Rivadavia N° 7891,Chaco,Barranqueras,-27.485092,-58.932883,3503
+1396,628,Sucursal 1,Av. Belgrano N° 31,Corrientes,Goya,-29.141397,-59.265084,3450
+1397,628,Sucursal 2,Avenida Merlo N° 7980,Entre Ríos,Gualeguaychú,-33.008209,-58.511306,2820
+1398,629,Sucursal 1,Avenida Río Negro N° 6065,Entre Ríos,Concepción del Uruguay,-32.482128,-58.235814,3260
+1399,629,Sucursal 2,Av. 4 N° 125,Chaco,Charata,-27.219478,-61.200602,3730
+1400,630,Sucursal 1,Calle 128 B N° 95,Chaco,Barranqueras,-27.482014,-58.93313,3503
+1401,630,Sucursal 2,Calle Mitre N° 161,Misiones,Puerto Iguazú,-25.596742,-54.57828,3370
+1402,631,Sucursal 1,Camino Río Negro N° 68,Entre Ríos,Paraná,-31.742397,-60.51166,3100
+1403,631,Sucursal 2,Calle Tucumán N° 88,Formosa,Formosa Capital,-26.182564,-58.182423,3600
+1404,632,Sucursal 1,Av. Alem N° 871,Entre Ríos,Gualeguaychú,-33.008183,-58.512832,2820
+1405,632,Sucursal 2,Calle 3 N° 243,Entre Ríos,Concepción del Uruguay,-32.484447,-58.238137,3260
+1406,633,Sucursal 1,Avenida Belgrano N° 559,Formosa,Clorinda,-25.284982,-57.714246,3610
+1407,634,Sucursal 1,Camino 2 N° 662,Formosa,El Colorado,-26.297879,-59.365409,3603
+1408,634,Sucursal 2,Avenida La Rioja N° 522,Misiones,Apóstoles,-27.918913,-55.76794,3350
+1409,634,Sucursal 3,Diagonal 3 N° 8448,Entre Ríos,Gualeguaychú,-33.008458,-58.511299,2820
+1410,635,Sucursal 1,Calle Córdoba N° 3959,Formosa,Formosa Capital,-26.181501,-58.181233,3600
+1411,635,Sucursal 2,Avenida 3 N° 86,Formosa,El Colorado,-26.301757,-59.365556,3603
+1412,636,Sucursal 1,Calle La Plata N° 889,Entre Ríos,Concordia,-31.383403,-58.01866,3200
+1413,636,Sucursal 2,Av. Paraná N° 94,Chaco,Resistencia,-27.450466,-58.987995,3500
+1414,637,Sucursal 1,Avenida J.M. de Rosas N° 590,Formosa,Formosa Capital,-26.184478,-58.185043,3600
+1415,637,Sucursal 2,Avenida Pte. Perón N° 4658,Corrientes,Goya,-29.137404,-59.263547,3450
+1416,637,Sucursal 3,Diagonal 2 N° 318,Chaco,Villa Ángela,-27.584158,-60.718748,3540
+1417,638,Sucursal 1,Av. Viedma N° 786,Corrientes,Curuzú Cuatiá,-29.790674,-58.056616,3460
+1418,639,Sucursal 1,Calle 7 N° 286,Corrientes,Paso de los Libres,-29.712428,-57.087582,3230
+1419,640,Sucursal 1,Av. Rawson N° 45,Misiones,Oberá,-27.481684,-55.115079,3360
+1420,640,Sucursal 2,Camino 2 N° 6414,Formosa,Pirané,-25.734695,-59.118793,3606
+1421,641,Sucursal 1,Avenida Rivadavia N° 9370,Entre Ríos,Gualeguaychú,-33.010497,-58.508122,2820
+1422,642,Sucursal 1,Boulevard Mendoza N° 12,Entre Ríos,Gualeguay,-33.144034,-59.319065,2840
+1423,642,Sucursal 2,Blv. 9 N° 973,Formosa,El Colorado,-26.299342,-59.36455,3603
+1424,642,Sucursal 3,Diag. Salta N° 444,Corrientes,Paso de los Libres,-29.710858,-57.090248,3230
+1425,643,Sucursal 1,Av. 6 N° 566,Chaco,Resistencia,-27.45032,-58.983375,3500
+1426,644,Sucursal 1,Diag. 8 N° 874,Chaco,Resistencia,-27.44973,-58.984351,3500
+1427,644,Sucursal 2,Calle Belgrano N° 454,Entre Ríos,Gualeguay,-33.141665,-59.315305,2840
+1428,645,Sucursal 1,Diag. Catamarca N° 13,Corrientes,Mercedes,-29.180417,-58.079892,3470
+1429,646,Sucursal 1,Avenida 182 A N° 110,Corrientes,Paso de los Libres,-29.710708,-57.087865,3230
+1430,647,Sucursal 1,Camino 7 N° 119,Entre Ríos,Gualeguay,-33.140086,-59.318228,2840
+1431,647,Sucursal 2,Av. Catamarca N° 5981,Formosa,Formosa Capital,-26.184252,-58.18327,3600
+1432,647,Sucursal 3,Diag. 1 N° 1118,Corrientes,Curuzú Cuatiá,-29.791104,-58.053009,3460
+1433,648,Sucursal 1,Blv. 6 N° 752,Misiones,Oberá,-27.482523,-55.118227,3360
+1434,648,Sucursal 2,Calle 7 N° 16,Entre Ríos,Gualeguay,-33.140179,-59.31717,2840
+1435,649,Sucursal 1,Diagonal Merlo N° 4112,Corrientes,Mercedes,-29.179489,-58.07942,3470
+1436,650,Sucursal 1,Calle 7 N° 1499,Misiones,Apóstoles,-27.913989,-55.766603,3350
+1437,650,Sucursal 2,Diag. 4 N° 225,Entre Ríos,Concordia,-31.384129,-58.019521,3200
+1438,650,Sucursal 3,Avenida Bahía Blanca N° 64,Corrientes,Mercedes,-29.179679,-58.077594,3470
+1439,650,Sucursal 4,Av. Chaco N° 64,Formosa,Clorinda,-25.280638,-57.719191,3610
+1440,651,Sucursal 1,Calle J.M. de Rosas N° 3363,Misiones,Eldorado,-26.397108,-54.618714,3380
+1441,651,Sucursal 2,Av. 4 N° 418,Corrientes,Goya,-29.14104,-59.265477,3450
+1442,651,Sucursal 3,Av. San Ferando del Valle de Catamarca N° 9266,Entre Ríos,Paraná,-31.743994,-60.511053,3100
+1443,652,Sucursal 1,Calle San Juan N° 13,Misiones,Puerto Iguazú,-25.597788,-54.577515,3370
+1444,652,Sucursal 2,Avenida San Juan N° 67,Formosa,Pirané,-25.731059,-59.115371,3606
+1445,653,Sucursal 1,Diagonal La Rioja N° 948,Misiones,Oberá,-27.486253,-55.118021,3360
+1446,653,Sucursal 2,Avenida J.J. Castelli N° 797,Formosa,Clorinda,-25.282638,-57.718819,3610
+1447,654,Sucursal 1,Calle Chaco N° 3322,Misiones,Apóstoles,-27.915837,-55.764375,3350
+1448,654,Sucursal 2,Av. Chubut N° 924,Formosa,El Colorado,-26.29827,-59.365788,3603
+1449,655,Sucursal 1,Calle 1 N° 1936,Entre Ríos,Paraná,-31.742473,-60.513316,3100
+1450,655,Sucursal 2,Diagonal Tierra del Fuego N° 140,Chaco,Charata,-27.219194,-61.199775,3730
+1451,656,Sucursal 1,Boulevard 4 N° 3010,Entre Ríos,Concepción del Uruguay,-32.481287,-58.234921,3260
+1452,656,Sucursal 2,Calle Omar Nuñez N° 561,Formosa,Clorinda,-25.280348,-57.717996,3610
+1453,657,Sucursal 1,Av. San Martin N° 474,Formosa,Clorinda,-25.282989,-57.716572,3610
+1454,658,Sucursal 1,Diagonal 3 N° 915,Corrientes,Corrientes Capital,-27.483333,-58.83282,3400
+1455,659,Sucursal 1,Diagonal Viedma N° 315,Chaco,Barranqueras,-27.481307,-58.934476,3503
+1456,659,Sucursal 2,Camino 3 N° 23,Misiones,Puerto Iguazú,-25.594278,-54.580937,3370
+1457,660,Sucursal 1,Diagonal 9 N° 286,Misiones,Oberá,-27.484741,-55.116655,3360
+1458,660,Sucursal 2,Diagonal Corrientes N° 943,Corrientes,Paso de los Libres,-29.715514,-57.086594,3230
+1459,661,Sucursal 1,Calle 6 N° 659,Misiones,Apóstoles,-27.917912,-55.765279,3350
+1460,662,Sucursal 1,Diagonal Rosario N° 44,Misiones,Posadas,-27.364202,-55.894268,3300
+1461,662,Sucursal 2,Diagonal Salta N° 66,Formosa,Ingeniero Juárez,-23.899606,-61.847634,3636
+1462,663,Sucursal 1,Blv. Formosa N° 6475,Misiones,Oberá,-27.484505,-55.115698,3360
+1463,664,Sucursal 1,Calle J.J. Castelli N° 14,Formosa,Ingeniero Juárez,-23.898965,-61.848714,3636
+1464,664,Sucursal 2,Blv. 2 N° 581,Formosa,Clorinda,-25.281875,-57.719069,3610
+1465,664,Sucursal 3,Avenida 8 N° 550,Formosa,Clorinda,-25.282806,-57.714763,3610
+1466,664,Sucursal 4,Diagonal San Miguel de Tucumán N° 617,Misiones,Oberá,-27.483574,-55.118821,3360
+1467,664,Sucursal 5,Diagonal San Juan N° 38,Misiones,Puerto Iguazú,-25.595229,-54.581108,3370
+1468,665,Sucursal 1,Diagonal 1 N° 164,Misiones,Puerto Iguazú,-25.594869,-54.578742,3370
+1469,666,Sucursal 1,Diagonal Santiago del Estero N° 2519,Corrientes,Curuzú Cuatiá,-29.790484,-58.054142,3460
+1470,666,Sucursal 2,Calle Tucumán N° 648,Formosa,Ingeniero Juárez,-23.899646,-61.848327,3636
+1471,667,Sucursal 1,Diag. Comodoro Rivadavia N° 38,Formosa,Ingeniero Juárez,-23.900007,-61.850459,3636
+1472,667,Sucursal 2,Camino San Martin N° 852,Misiones,Apóstoles,-27.915566,-55.764013,3350
+1473,667,Sucursal 3,Diagonal 9 N° 562,Entre Ríos,Concepción del Uruguay,-32.47976,-58.235257,3260
+1474,667,Sucursal 4,Calle Córdoba N° 57,Corrientes,Mercedes,-29.181265,-58.078991,3470
+1475,668,Sucursal 1,Calle Malvinas Argentinas N° 5742,Corrientes,Mercedes,-29.178492,-58.078821,3470
+1476,668,Sucursal 2,Av. 3 N° 87,Formosa,Clorinda,-25.285592,-57.718424,3610
+1477,668,Sucursal 3,Camino G. Brown N° 42,Formosa,Formosa Capital,-26.186104,-58.185359,3600
+1478,669,Sucursal 1,Avenida 7 N° 6596,Misiones,Oberá,-27.48077,-55.118987,3360
+1479,669,Sucursal 2,Diagonal Chubut N° 9751,Misiones,Puerto Iguazú,-25.599538,-54.579382,3370
+1480,669,Sucursal 3,Avenida Mendoza N° 83,Chaco,Charata,-27.219458,-61.20208,3730
+1481,669,Sucursal 4,Avenida Río Gallegos N° 147,Misiones,Oberá,-27.48447,-55.117453,3360
+1482,670,Sucursal 1,Calle 4 N° 25,Formosa,Formosa Capital,-26.186132,-58.185443,3600
+1483,670,Sucursal 2,Diagonal Entre Ríos N° 4943,Formosa,Ingeniero Juárez,-23.900469,-61.847379,3636
+1484,671,Sucursal 1,Blv. Posadas N° 635,Chaco,Charata,-27.218407,-61.198085,3730
+1485,671,Sucursal 2,Av. Omar Nuñez N° 69,Formosa,Formosa Capital,-26.186287,-58.183015,3600
+1486,672,Sucursal 1,Avenida San Martin N° 23,Corrientes,Goya,-29.140895,-59.262262,3450
+1487,672,Sucursal 2,Av. 3 N° 808,Formosa,Ingeniero Juárez,-23.900286,-61.850973,3636
+1488,673,Sucursal 1,Calle Córdoba N° 3655,Formosa,Formosa Capital,-26.181293,-58.181298,3600
+1489,673,Sucursal 2,Av. 1 N° 3110,Corrientes,Mercedes,-29.179728,-58.078871,3470
+1490,673,Sucursal 3,Boulevard 9 N° 2851,Misiones,Apóstoles,-27.91513,-55.765697,3350
+1491,673,Sucursal 4,Calle Rivadavia N° 8558,Corrientes,Mercedes,-29.179102,-58.079949,3470
+1492,674,Sucursal 1,Calle Mendoza N° 3077,Misiones,Eldorado,-26.401603,-54.617328,3380
+1493,674,Sucursal 2,Diagonal 3 N° 22,Formosa,Pirané,-25.736025,-59.115677,3606
+1494,675,Sucursal 1,Av. Mar del Plata N° 16,Entre Ríos,Concepción del Uruguay,-32.483936,-58.239669,3260
+1495,675,Sucursal 2,Diagonal Mitre N° 332,Chaco,Resistencia,-27.449857,-58.985168,3500
+1496,676,Sucursal 1,Avenida Ciudad Autónoma de Buenos Aires N° 2784,Formosa,Pirané,-25.732429,-59.115837,3606
+1497,676,Sucursal 2,Avenida Buenos Aires N° 260,Corrientes,Curuzú Cuatiá,-29.791545,-58.053588,3460
+1498,677,Sucursal 1,Avenida San Salvador de Jujuy N° 120,Entre Ríos,Gualeguay,-33.144383,-59.316279,2840
+1499,677,Sucursal 2,Diagonal 3 N° 7519,Chaco,Sáenz Peña,-26.790697,-60.438084,3700
+1500,677,Sucursal 3,Blv. Catamarca N° 4766,Corrientes,Corrientes Capital,-27.482778,-58.831983,3400
+1501,677,Sucursal 4,Calle Neuquén N° 647,Chaco,Resistencia,-27.448326,-58.98695,3500
+1502,678,Sucursal 1,Calle San Juan N° 7356,Chaco,Barranqueras,-27.481322,-58.931266,3503
+1503,679,Sucursal 1,Blv. 158 Bis N° 5451,Corrientes,Curuzú Cuatiá,-29.787858,-58.053659,3460
+1504,679,Sucursal 2,Avenida Bahía Blanca N° 588,Misiones,Eldorado,-26.399467,-54.616751,3380
+1505,680,Sucursal 1,Av. Chubut N° 51,Misiones,Posadas,-27.367478,-55.89661,3300
+1506,681,Sucursal 1,Blv. Rivadavia N° 769,Misiones,Eldorado,-26.401457,-54.619012,3380
+1507,681,Sucursal 2,Blv. Saavedra N° 26,Corrientes,Paso de los Libres,-29.712549,-57.088788,3230
+1508,682,Sucursal 1,Camino Santiago del Estero N° 479,Chaco,Villa Ángela,-27.58169,-60.718775,3540
+1509,683,Sucursal 1,Av. Santiago del Estero N° 5513,Entre Ríos,Concordia,-31.385285,-58.016013,3200
+1510,683,Sucursal 2,Diag. Mitre N° 283,Misiones,Posadas,-27.369011,-55.89482,3300
+1511,684,Sucursal 1,Diagonal 4 N° 397,Misiones,Eldorado,-26.402408,-54.618845,3380
+1512,684,Sucursal 2,Av. 9 N° 5520,Misiones,Posadas,-27.368552,-55.893451,3300
+1513,684,Sucursal 3,Av. San Luis N° 37,Corrientes,Paso de los Libres,-29.715489,-57.089062,3230
+1514,685,Sucursal 1,Camino Alem N° 8624,Formosa,Formosa Capital,-26.183248,-58.183273,3600
+1515,686,Sucursal 1,Diagonal 9 N° 4597,Chaco,Villa Ángela,-27.585936,-60.716911,3540
+1516,687,Sucursal 1,Diagonal J.J. Castelli N° 17,Corrientes,Curuzú Cuatiá,-29.789795,-58.054855,3460
+1517,687,Sucursal 2,Calle Rivadavia N° 28,Chaco,Barranqueras,-27.480818,-58.936188,3503
+1518,688,Sucursal 1,Av. Mar del Plata N° 1458,Chaco,Barranqueras,-27.481722,-58.932391,3503
+1519,689,Sucursal 1,Avenida La Pampa N° 9276,Chaco,Charata,-27.216291,-61.200324,3730
+1520,690,Sucursal 1,Av. Pte. Perón N° 4392,Corrientes,Mercedes,-29.18206,-58.075988,3470
+1521,691,Sucursal 1,Diagonal 4 N° 351,Formosa,Pirané,-25.730584,-59.113932,3606
+1522,692,Sucursal 1,Av. San Martin N° 74,Corrientes,Goya,-29.143394,-59.262912,3450
+1523,692,Sucursal 2,Avenida Chubut N° 110,Formosa,El Colorado,-26.301265,-59.363868,3603
+1524,693,Sucursal 1,Calle Rivadavia N° 38,Corrientes,Goya,-29.137799,-59.262807,3450
+1525,694,Sucursal 1,Av. Chilecito N° 63,Chaco,Villa Ángela,-27.581263,-60.717419,3540
+1526,694,Sucursal 2,Av. Posadas N° 4365,Misiones,Oberá,-27.481245,-55.118423,3360
+1527,694,Sucursal 3,Avenida Santa Fe N° 197,Formosa,Clorinda,-25.284612,-57.718732,3610
+1528,694,Sucursal 4,Av. Neuquén N° 286,Formosa,Pirané,-25.732922,-59.117896,3606
+1529,694,Sucursal 5,Diag. San Ferando del Valle de Catamarca N° 914,Misiones,Eldorado,-26.398809,-54.614717,3380
+1530,695,Sucursal 1,Avenida Buenos Aires N° 392,Misiones,Puerto Iguazú,-25.598935,-54.578571,3370
+1531,695,Sucursal 2,Avenida 6 N° 8593,Misiones,Posadas,-27.364796,-55.893428,3300
+1532,696,Sucursal 1,Av. 2 N° 721,Chaco,Villa Ángela,-27.580422,-60.715453,3540
+1533,696,Sucursal 2,Avenida Tierra del Fuego N° 676,Chaco,Villa Ángela,-27.584824,-60.713802,3540
+1534,696,Sucursal 3,Diag. Malvinas Argentinas N° 518,Misiones,Posadas,-27.368836,-55.893346,3300
+1535,696,Sucursal 4,Diagonal 2 N° 55,Misiones,Posadas,-27.370005,-55.894949,3300
+1536,697,Sucursal 1,Calle J.M. de Rosas N° 95,Formosa,El Colorado,-26.300141,-59.364291,3603
+1537,698,Sucursal 1,Avenida San Luis N° 63,Chaco,Resistencia,-27.451621,-58.983228,3500
+1538,698,Sucursal 2,Avenida Mendoza N° 9826,Entre Ríos,Gualeguaychú,-33.007866,-58.511443,2820
+1539,698,Sucursal 3,Diagonal Güemes N° 568,Corrientes,Curuzú Cuatiá,-29.787976,-58.053405,3460
+1540,698,Sucursal 4,Blv. Corrientes N° 287,Corrientes,Curuzú Cuatiá,-29.789468,-58.051945,3460
+1541,699,Sucursal 1,Diagonal Constitución N° 69,Misiones,Apóstoles,-27.915667,-55.767582,3350
+1542,699,Sucursal 2,Av. Chaco N° 224,Misiones,Eldorado,-26.398035,-54.617552,3380
+1543,699,Sucursal 3,Diagonal Formosa N° 17,Chaco,Resistencia,-27.449065,-58.983729,3500
+1544,699,Sucursal 4,Calle Viedma N° 712,Corrientes,Corrientes Capital,-27.482751,-58.835377,3400
+1545,700,Sucursal 1,Avenida Ciudad Autónoma de Buenos Aires N° 191,Misiones,Apóstoles,-27.919644,-55.765241,3350
+1546,701,Sucursal 1,Avenida Rosario N° 209,Entre Ríos,Concordia,-31.380772,-58.017553,3200
+1547,701,Sucursal 2,Diagonal Mitre N° 3227,Corrientes,Curuzú Cuatiá,-29.787802,-58.053549,3460
+1548,702,Sucursal 1,Blv. Rivadavia N° 230,Chaco,Barranqueras,-27.480419,-58.930496,3503
+1549,703,Sucursal 1,Avenida J.J. Castelli N° 393,Chaco,Villa Ángela,-27.583343,-60.715476,3540
+1550,704,Sucursal 1,Diagonal Pte. Perón N° 25,Chaco,Sáenz Peña,-26.795157,-60.435194,3700
+1551,704,Sucursal 2,Avenida 1 N° 351,Entre Ríos,Paraná,-31.742523,-60.509281,3100
+1552,704,Sucursal 3,Calle Jujuy N° 593,Formosa,Ingeniero Juárez,-23.899998,-61.851977,3636
+1553,704,Sucursal 4,Calle 1 N° 946,Chaco,Sáenz Peña,-26.791241,-60.437706,3700
+1554,704,Sucursal 5,Camino La Rioja N° 9541,Entre Ríos,Concordia,-31.382682,-58.018647,3200
+1555,705,Sucursal 1,Calle Chaco N° 892,Corrientes,Mercedes,-29.179824,-58.081135,3470
+1556,705,Sucursal 2,Avenida Santiago del Estero N° 323,Formosa,Ingeniero Juárez,-23.897867,-61.847714,3636
+1557,705,Sucursal 3,Blv. Santiago del Estero N° 6671,Entre Ríos,Concepción del Uruguay,-32.480906,-58.239049,3260
+1558,705,Sucursal 4,Blv. Omar Nuñez N° 899,Entre Ríos,Concordia,-31.386161,-58.013881,3200
+1559,706,Sucursal 1,Calle San Salvador de Jujuy N° 5395,Formosa,Pirané,-25.732613,-59.115616,3606
+1560,706,Sucursal 2,Calle San Miguel de Tucumán N° 4162,Misiones,Apóstoles,-27.919688,-55.767137,3350
+1561,706,Sucursal 3,Av. San Miguel de Tucumán N° 277,Entre Ríos,Concordia,-31.380642,-58.019389,3200
+1562,706,Sucursal 4,Diagonal Rivadavia N° 921,Misiones,Posadas,-27.367505,-55.893129,3300
+1563,706,Sucursal 5,Avenida Santa Fe N° 37,Chaco,Villa Ángela,-27.58557,-60.71659,3540
+1564,707,Sucursal 1,Diagonal J.M. de Rosas N° 5227,Misiones,Oberá,-27.483196,-55.119439,3360
+1565,707,Sucursal 2,Av. Pte. Perón N° 1928,Entre Ríos,Concepción del Uruguay,-32.484253,-58.238532,3260
+1566,708,Sucursal 1,Av. 3 N° 99,Formosa,Pirané,-25.733607,-59.119669,3606
+1567,708,Sucursal 2,Av. Alvear N° 457,Chaco,Sáenz Peña,-26.793192,-60.435819,3700
+1568,708,Sucursal 3,Camino 8 N° 137,Corrientes,Corrientes Capital,-27.477558,-58.836246,3400
+1569,709,Sucursal 1,Calle Santa Fe N° 425,Misiones,Puerto Iguazú,-25.594453,-54.576098,3370
+1570,709,Sucursal 2,Camino Tucumán N° 69,Chaco,Sáenz Peña,-26.794213,-60.439235,3700
+1571,709,Sucursal 3,Avenida Chubut N° 930,Entre Ríos,Paraná,-31.741148,-60.514333,3100
+1572,709,Sucursal 4,Avenida Constitución N° 47,Misiones,Puerto Iguazú,-25.595352,-54.578045,3370
+1573,709,Sucursal 5,Calle 114 A N° 3340,Entre Ríos,Paraná,-31.73929,-60.509457,3100
+1574,710,Sucursal 1,Av. Mendoza N° 778,Corrientes,Paso de los Libres,-29.712959,-57.084747,3230
+1575,711,Sucursal 1,Calle San Salvador de Jujuy N° 32,Misiones,Posadas,-27.366982,-55.89768,3300
+1576,712,Sucursal 1,Calle J.M. de Rosas N° 51,Entre Ríos,Gualeguay,-33.1411,-59.317069,2840
+1577,712,Sucursal 2,Avenida Posadas N° 76,Corrientes,Paso de los Libres,-29.712048,-57.087026,3230
+1578,713,Sucursal 1,Boulevard 131 Bis N° 679,Corrientes,Goya,-29.1379,-59.263436,3450
+1579,714,Sucursal 1,Diagonal Neuquén N° 9754,Corrientes,Curuzú Cuatiá,-29.788004,-58.056928,3460
+1580,714,Sucursal 2,Diagonal Corrientes N° 559,Misiones,Apóstoles,-27.919371,-55.766036,3350
+1581,714,Sucursal 3,Av. 8 N° 868,Misiones,Puerto Iguazú,-25.599805,-54.577535,3370
+1582,714,Sucursal 4,Avenida Mar del Plata N° 225,Formosa,Pirané,-25.735987,-59.1146,3606
+1583,715,Sucursal 1,Calle Belgrano N° 549,Corrientes,Paso de los Libres,-29.712096,-57.088033,3230
+1584,715,Sucursal 2,Av. Güemes N° 4950,Formosa,El Colorado,-26.298275,-59.365956,3603
+1585,716,Sucursal 1,Calle 8 N° 462,Misiones,Eldorado,-26.400215,-54.617131,3380
+1586,716,Sucursal 2,Camino J.M. de Rosas N° 9152,Formosa,El Colorado,-26.299285,-59.367662,3603
+1587,716,Sucursal 3,Avenida Bahía Blanca N° 67,Entre Ríos,Concordia,-31.381602,-58.016976,3200
+1588,717,Sucursal 1,Calle Omar Nuñez N° 21,Formosa,Ingeniero Juárez,-23.901845,-61.852384,3636
+1589,717,Sucursal 2,Av. San Ferando del Valle de Catamarca N° 239,Formosa,El Colorado,-26.29872,-59.366143,3603
+1590,718,Sucursal 1,Diagonal 8 N° 558,Formosa,Ingeniero Juárez,-23.902244,-61.849947,3636
+1591,719,Sucursal 1,Calle 9 N° 915,Misiones,Puerto Iguazú,-25.597312,-54.577875,3370
+1592,719,Sucursal 2,Calle 144 Bis N° 83,Chaco,Resistencia,-27.452641,-58.983818,3500
+1593,720,Sucursal 1,Camino San Salvador de Jujuy N° 56,Corrientes,Mercedes,-29.18243,-58.079285,3470
+1594,720,Sucursal 2,Av. San Luis N° 125,Entre Ríos,Paraná,-31.740374,-60.512633,3100
+1595,721,Sucursal 1,Calle Mendoza N° 756,Entre Ríos,Gualeguay,-33.143826,-59.316883,2840
+1596,721,Sucursal 2,Calle J.J. Castelli N° 97,Formosa,El Colorado,-26.300943,-59.367487,3603
+1597,721,Sucursal 3,Avenida Paraná N° 617,Corrientes,Corrientes Capital,-27.480394,-58.833654,3400
+1598,721,Sucursal 4,Calle 1 N° 838,Corrientes,Mercedes,-29.183956,-58.078857,3470
+1599,722,Sucursal 1,Av. Salta N° 35,Misiones,Puerto Iguazú,-25.598137,-54.575741,3370
+1600,723,Sucursal 1,Calle 141 B N° 819,Corrientes,Curuzú Cuatiá,-29.790651,-58.053293,3460
+1601,724,Sucursal 1,Av. Bahía Blanca N° 61,Entre Ríos,Gualeguaychú,-33.004908,-58.510201,2820
+1602,724,Sucursal 2,Calle G. Brown N° 125,Misiones,Posadas,-27.364988,-55.895703,3300
+1603,724,Sucursal 3,Diag. Omar Nuñez N° 36,Misiones,Posadas,-27.366403,-55.896588,3300
+1604,724,Sucursal 4,Av. J.B. Alberdi N° 275,Chaco,Resistencia,-27.453471,-58.983343,3500
+1605,725,Sucursal 1,Diag. Santiago del Estero N° 136,Formosa,Formosa Capital,-26.184984,-58.186278,3600
+1606,726,Sucursal 1,Avenida La Pampa N° 25,Entre Ríos,Gualeguaychú,-33.009418,-58.510056,2820
+1607,726,Sucursal 2,Calle Santa Cruz N° 7854,Chaco,Barranqueras,-27.483416,-58.93169,3503
+1608,727,Sucursal 1,Boulevard 176 Bis N° 492,Entre Ríos,Concepción del Uruguay,-32.483345,-58.237798,3260
+1609,727,Sucursal 2,Calle Güemes N° 757,Corrientes,Corrientes Capital,-27.481323,-58.837158,3400
+1610,728,Sucursal 1,Av. 2 N° 338,Formosa,Pirané,-25.735609,-59.117957,3606
+1611,729,Sucursal 1,Av. Mitre N° 838,Entre Ríos,Paraná,-31.741386,-60.509907,3100
+1612,730,Sucursal 1,Blv. J.M. de Rosas N° 69,Corrientes,Corrientes Capital,-27.482305,-58.835895,3400
+1613,731,Sucursal 1,Av. J.B. Alberdi N° 974,Chaco,Villa Ángela,-27.581987,-60.717661,3540
+1614,731,Sucursal 2,Diag. 5 N° 696,Formosa,Pirané,-25.734824,-59.118524,3606
+1615,732,Sucursal 1,Calle J.J. Castelli N° 7530,Chaco,Villa Ángela,-27.580836,-60.719574,3540
+1616,733,Sucursal 1,Camino Jujuy N° 476,Misiones,Eldorado,-26.399071,-54.61439,3380
+1617,734,Sucursal 1,Camino Entre Ríos N° 62,Chaco,Sáenz Peña,-26.79337,-60.439659,3700
+1618,734,Sucursal 2,Av. La Rioja N° 852,Misiones,Oberá,-27.482335,-55.114053,3360
+1619,734,Sucursal 3,Avenida Santa Fe N° 894,Formosa,El Colorado,-26.29771,-59.36443,3603
+1620,735,Sucursal 1,Calle Formosa N° 26,Corrientes,Paso de los Libres,-29.714933,-57.084955,3230
+1621,736,Sucursal 1,Av. Constitución N° 5116,Chaco,Sáenz Peña,-26.792005,-60.436934,3700
+1622,737,Sucursal 1,Boulevard Chubut N° 24,Formosa,El Colorado,-26.300423,-59.365883,3603
+1623,737,Sucursal 2,Avenida Entre Ríos N° 911,Corrientes,Goya,-29.138822,-59.262176,3450
+1624,737,Sucursal 3,Calle Mendoza N° 79,Formosa,Pirané,-25.734535,-59.118809,3606
+1625,737,Sucursal 4,Boulevard Mendoza N° 524,Chaco,Barranqueras,-27.48598,-58.931526,3503
+1626,738,Sucursal 1,Av. La Rioja N° 12,Formosa,Clorinda,-25.28049,-57.714385,3610
+1627,738,Sucursal 2,Calle Mitre N° 398,Chaco,Sáenz Peña,-26.790836,-60.436392,3700
+1628,739,Sucursal 1,Blv. 5 N° 5724,Chaco,Resistencia,-27.451048,-58.984092,3500
+1629,740,Sucursal 1,Diagonal Comodoro Rivadavia N° 4583,Entre Ríos,Gualeguay,-33.141645,-59.316708,2840
+1630,740,Sucursal 2,Diagonal 5 N° 987,Misiones,Apóstoles,-27.918626,-55.765425,3350
+1631,740,Sucursal 3,Diagonal Belgrano N° 213,Formosa,Clorinda,-25.282133,-57.715406,3610
+1632,740,Sucursal 4,Diagonal Paraná N° 44,Formosa,Formosa Capital,-26.183457,-58.182813,3600
+1633,740,Sucursal 5,Avenida Alvear N° 588,Entre Ríos,Paraná,-31.739373,-60.510996,3100
+1634,741,Sucursal 1,Diagonal J.M. de Rosas N° 326,Chaco,Sáenz Peña,-26.793883,-60.439882,3700
+1635,741,Sucursal 2,Diagonal 2 N° 162,Chaco,Barranqueras,-27.483925,-58.934464,3503
+1636,742,Sucursal 1,Avenida Mendoza N° 77,Formosa,Ingeniero Juárez,-23.902057,-61.847945,3636
+1637,742,Sucursal 2,Diagonal Neuquén N° 2918,Chaco,Villa Ángela,-27.582997,-60.718894,3540
+1638,743,Sucursal 1,Avenida Chilecito N° 3494,Chaco,Charata,-27.217033,-61.200891,3730
+1639,744,Sucursal 1,Diag. 5 N° 42,Corrientes,Goya,-29.140608,-59.261973,3450
+1640,744,Sucursal 2,Av. Santa Fe N° 974,Misiones,Puerto Iguazú,-25.597493,-54.579005,3370
+1641,744,Sucursal 3,Diagonal J.J. Castelli N° 12,Misiones,Oberá,-27.481473,-55.117798,3360
+1642,744,Sucursal 4,Diagonal 5 N° 175,Misiones,Eldorado,-26.402852,-54.61705,3380
+1643,745,Sucursal 1,Avenida Neuquén N° 3865,Entre Ríos,Paraná,-31.744445,-60.509091,3100
+1644,745,Sucursal 2,Avenida Corrientes N° 434,Chaco,Charata,-27.214644,-61.199923,3730
+1645,745,Sucursal 3,Camino Pte. Perón N° 701,Entre Ríos,Paraná,-31.744431,-60.512841,3100
+1646,746,Sucursal 1,Avenida Mitre N° 869,Corrientes,Paso de los Libres,-29.715088,-57.088339,3230
+1647,747,Sucursal 1,Blv. Posadas N° 34,Chaco,Sáenz Peña,-26.793197,-60.437049,3700
+1648,747,Sucursal 2,Avenida 4 N° 751,Chaco,Villa Ángela,-27.584484,-60.714807,3540
+1649,747,Sucursal 3,Diagonal San Salvador de Jujuy N° 56,Entre Ríos,Concordia,-31.381227,-58.018556,3200
+1650,747,Sucursal 4,Avenida Catamarca N° 613,Formosa,El Colorado,-26.297012,-59.36371,3603
+1651,748,Sucursal 1,Blv. Rivadavia N° 672,Entre Ríos,Concepción del Uruguay,-32.482341,-58.238633,3260
+1652,748,Sucursal 2,Diagonal J.M. de Rosas N° 807,Entre Ríos,Gualeguay,-33.142903,-59.314766,2840
+1653,748,Sucursal 3,Av. 9 N° 178,Misiones,Eldorado,-26.397325,-54.614769,3380
+1654,748,Sucursal 4,Avenida Misiones N° 560,Entre Ríos,Gualeguay,-33.140768,-59.316868,2840
+1655,749,Sucursal 1,Diagonal Mendoza N° 42,Misiones,Eldorado,-26.401635,-54.61536,3380
+1656,750,Sucursal 1,Blv. Mitre N° 648,Formosa,Formosa Capital,-26.184898,-58.182778,3600
+1657,751,Sucursal 1,Calle Chaco N° 465,Entre Ríos,Concepción del Uruguay,-32.480714,-58.238156,3260
+1658,751,Sucursal 2,Avenida 3 N° 1451,Corrientes,Curuzú Cuatiá,-29.790822,-58.056173,3460
+1659,752,Sucursal 1,Diagonal Chaco N° 4013,Misiones,Puerto Iguazú,-25.598942,-54.5789,3370
+1660,752,Sucursal 2,Avenida 5 N° 223,Formosa,Pirané,-25.736119,-59.118866,3606
+1661,752,Sucursal 3,Calle La Rioja N° 4620,Corrientes,Mercedes,-29.182467,-58.077473,3470
+1662,752,Sucursal 4,Diagonal Mitre N° 489,Formosa,Formosa Capital,-26.181438,-58.181294,3600
+1663,753,Sucursal 1,Boulevard 7 N° 345,Chaco,Barranqueras,-27.483785,-58.932185,3503
+1664,753,Sucursal 2,Camino Córdoba N° 633,Misiones,Eldorado,-26.398423,-54.615557,3380
+1665,754,Sucursal 1,Diagonal 176 A N° 95,Misiones,Posadas,-27.366578,-55.895695,3300
+1666,754,Sucursal 2,Diagonal Saavedra N° 171,Corrientes,Goya,-29.137867,-59.264778,3450
+1667,755,Sucursal 1,Calle 7 N° 1842,Formosa,Ingeniero Juárez,-23.899221,-61.849382,3636
+1668,755,Sucursal 2,Calle 6 N° 74,Formosa,El Colorado,-26.299557,-59.367355,3603
+1669,755,Sucursal 3,Av. 5 N° 71,Misiones,Eldorado,-26.401775,-54.617356,3380
+1670,756,Sucursal 1,Av. Merlo N° 8221,Misiones,Eldorado,-26.40187,-54.619048,3380
+1671,756,Sucursal 2,Diagonal 6 N° 39,Formosa,Ingeniero Juárez,-23.897228,-61.849166,3636
+1672,756,Sucursal 3,Calle San Salvador de Jujuy N° 45,Chaco,Charata,-27.219141,-61.202374,3730
+1673,756,Sucursal 4,Calle San Luis N° 5338,Formosa,Pirané,-25.735234,-59.114741,3606
+1674,757,Sucursal 1,Avenida 120 A N° 594,Corrientes,Corrientes Capital,-27.48238,-58.837183,3400
+1675,757,Sucursal 2,Diagonal 8 N° 661,Misiones,Eldorado,-26.401297,-54.618302,3380
+1676,758,Sucursal 1,Avenida Santiago del Estero N° 2611,Formosa,Clorinda,-25.28588,-57.719355,3610
+1677,758,Sucursal 2,Av. San Juan N° 2424,Formosa,Clorinda,-25.286234,-57.717739,3610
+1678,758,Sucursal 3,Avenida 157 Bis N° 47,Misiones,Puerto Iguazú,-25.597853,-54.575662,3370
+1679,758,Sucursal 4,Av. San Juan N° 6932,Corrientes,Mercedes,-29.181081,-58.07903,3470
+1680,759,Sucursal 1,Avenida Tucumán N° 816,Misiones,Eldorado,-26.397269,-54.614506,3380
+1681,760,Sucursal 1,Calle Tierra del Fuego N° 35,Chaco,Sáenz Peña,-26.793341,-60.436193,3700
+1682,760,Sucursal 2,Calle Río Negro N° 548,Entre Ríos,Concordia,-31.383451,-58.016078,3200
+1683,761,Sucursal 1,Av. 7 N° 476,Formosa,Ingeniero Juárez,-23.901782,-61.848699,3636
+1684,761,Sucursal 2,Diagonal San Juan N° 64,Misiones,Apóstoles,-27.918047,-55.769655,3350
+1685,762,Sucursal 1,Diagonal San Juan N° 8854,Misiones,Apóstoles,-27.919316,-55.767305,3350
+1686,763,Sucursal 1,Camino Alem N° 457,Formosa,Clorinda,-25.284327,-57.716285,3610
+1687,763,Sucursal 2,Avenida Paraná N° 778,Formosa,Formosa Capital,-26.183539,-58.182843,3600
+1688,764,Sucursal 1,Boulevard Formosa N° 4260,Chaco,Charata,-27.215822,-61.197487,3730
+1689,765,Sucursal 1,Avenida Alvear N° 31,Entre Ríos,Gualeguaychú,-33.005744,-58.509046,2820
+1690,765,Sucursal 2,Diag. Bahía Blanca N° 79,Misiones,Eldorado,-26.399322,-54.61484,3380
+1691,766,Sucursal 1,Camino Mendoza N° 6016,Misiones,Puerto Iguazú,-25.598705,-54.5762,3370
+1692,766,Sucursal 2,Av. San Martin N° 3413,Entre Ríos,Concepción del Uruguay,-32.483008,-58.237892,3260
+1693,767,Sucursal 1,Calle Paraná N° 4811,Chaco,Resistencia,-27.449909,-58.988027,3500
+1694,767,Sucursal 2,Diagonal Mendoza N° 412,Entre Ríos,Gualeguaychú,-33.005126,-58.512362,2820
+1695,767,Sucursal 3,Diagonal 5 N° 7471,Chaco,Resistencia,-27.452457,-58.984832,3500
+1696,767,Sucursal 4,Av. 3 N° 845,Chaco,Charata,-27.2157,-61.2026,3730
+1697,768,Sucursal 1,Avenida Mitre N° 365,Entre Ríos,Concepción del Uruguay,-32.480187,-58.234748,3260
+1698,768,Sucursal 2,Diagonal Salta N° 4762,Misiones,Puerto Iguazú,-25.594246,-54.578283,3370
+1699,768,Sucursal 3,Avenida 8 N° 685,Misiones,Oberá,-27.485841,-55.119069,3360
+1700,768,Sucursal 4,Diagonal J.M. de Rosas N° 7113,Entre Ríos,Gualeguay,-33.140023,-59.317239,2840
+1701,769,Sucursal 1,Avenida Chubut N° 9350,Chaco,Villa Ángela,-27.585056,-60.719432,3540
+1702,769,Sucursal 2,Diagonal 3 N° 25,Corrientes,Corrientes Capital,-27.483061,-58.833433,3400
+1703,770,Sucursal 1,Av. San Juan N° 195,Misiones,Eldorado,-26.400938,-54.617304,3380
+1704,770,Sucursal 2,Avenida 191 B N° 38,Chaco,Sáenz Peña,-26.79282,-60.441036,3700
+1705,771,Sucursal 1,Avenida 5 N° 516,Entre Ríos,Gualeguaychú,-33.005297,-58.511837,2820
+1706,772,Sucursal 1,Diagonal Saavedra N° 252,Formosa,Formosa Capital,-26.183532,-58.185805,3600
+1707,772,Sucursal 2,Avenida Santa Cruz N° 48,Entre Ríos,Concordia,-31.384846,-58.014,3200
+1708,773,Sucursal 1,Diagonal Güemes N° 663,Formosa,Formosa Capital,-26.181377,-58.181251,3600
+1709,774,Sucursal 1,Boulevard 2 N° 847,Corrientes,Corrientes Capital,-27.479858,-58.836537,3400
+1710,774,Sucursal 2,Diagonal Viedma N° 1216,Corrientes,Paso de los Libres,-29.712592,-57.088155,3230
+1711,774,Sucursal 3,Diagonal Rivadavia N° 6729,Corrientes,Curuzú Cuatiá,-29.788672,-58.057233,3460
+1712,775,Sucursal 1,Diag. San Juan N° 275,Corrientes,Mercedes,-29.181656,-58.080832,3470
+1713,775,Sucursal 2,Av. Rawson N° 51,Entre Ríos,Gualeguaychú,-33.010593,-58.50975,2820
+1714,776,Sucursal 1,Camino 9 N° 131,Misiones,Apóstoles,-27.91552,-55.764681,3350
+1715,777,Sucursal 1,Calle Corrientes N° 431,Misiones,Eldorado,-26.398858,-54.617036,3380
+1716,778,Sucursal 1,Calle Constitución N° 9673,Corrientes,Corrientes Capital,-27.483208,-58.835336,3400
+1717,778,Sucursal 2,Boulevard San Luis N° 3159,Chaco,Sáenz Peña,-26.789627,-60.438852,3700
+1718,778,Sucursal 3,Avenida Entre Ríos N° 7675,Chaco,Barranqueras,-27.4851,-58.936204,3503
+1719,778,Sucursal 4,Av. 3 N° 397,Corrientes,Corrientes Capital,-27.477564,-58.835577,3400
+1720,778,Sucursal 5,Av. Resistencia N° 3467,Chaco,Sáenz Peña,-26.79112,-60.440721,3700
+1721,779,Sucursal 1,Avenida San Luis N° 84,Entre Ríos,Concordia,-31.385293,-58.018698,3200
+1722,780,Sucursal 1,Blv. 6 N° 667,Formosa,Clorinda,-25.285654,-57.717737,3610
+1723,780,Sucursal 2,Av. 3 N° 9985,Formosa,Pirané,-25.732539,-59.115952,3606
+1724,781,Sucursal 1,Boulevard Rivadavia N° 37,Misiones,Puerto Iguazú,-25.599475,-54.580317,3370
+1725,781,Sucursal 2,Av. Saavedra N° 7813,Misiones,Oberá,-27.48436,-55.11961,3360
+1726,782,Sucursal 1,Calle Catamarca N° 122,Misiones,Posadas,-27.370028,-55.897823,3300
+1727,782,Sucursal 2,Calle Mar del Plata N° 27,Chaco,Barranqueras,-27.485904,-58.931409,3503
+1728,782,Sucursal 3,Diagonal 8 N° 233,Entre Ríos,Paraná,-31.741157,-60.514236,3100
+1729,782,Sucursal 4,Av. Rawson N° 475,Chaco,Sáenz Peña,-26.792733,-60.436495,3700
+1730,783,Sucursal 1,Avenida Catamarca N° 4020,Corrientes,Paso de los Libres,-29.711525,-57.085752,3230
+1731,783,Sucursal 2,Calle Santa Fe N° 160,Formosa,Ingeniero Juárez,-23.901971,-61.847246,3636
+1732,784,Sucursal 1,Avenida Chaco N° 786,Misiones,Posadas,-27.364212,-55.894922,3300
+1733,784,Sucursal 2,Av. Constitución N° 476,Entre Ríos,Concordia,-31.380753,-58.015072,3200
+1734,784,Sucursal 3,Diagonal 6 N° 8077,Corrientes,Mercedes,-29.182308,-58.078088,3470
+1735,784,Sucursal 4,Av. Rosario N° 151,Entre Ríos,Gualeguaychú,-33.008892,-58.508691,2820
+1736,785,Sucursal 1,Av. Comodoro Rivadavia N° 9450,Corrientes,Curuzú Cuatiá,-29.790689,-58.053649,3460
+1737,785,Sucursal 2,Avenida 3 N° 535,Formosa,Ingeniero Juárez,-23.900307,-61.849934,3636
+1738,785,Sucursal 3,Diagonal 7 N° 922,Entre Ríos,Concepción del Uruguay,-32.484205,-58.236675,3260
+1739,785,Sucursal 4,Av. 5 N° 62,Corrientes,Corrientes Capital,-27.482104,-58.833902,3400
+1740,786,Sucursal 1,Blv. Belgrano N° 66,Chaco,Charata,-27.218282,-61.200429,3730
+1741,787,Sucursal 1,Calle 7 N° 22,Formosa,El Colorado,-26.302524,-59.368875,3603
+1742,787,Sucursal 2,Diagonal Constitución N° 4898,Formosa,Formosa Capital,-26.18452,-58.18539,3600
+1743,788,Sucursal 1,Avenida 120 Bis N° 469,Entre Ríos,Paraná,-31.744673,-60.50896,3100
+1744,788,Sucursal 2,Avenida Catamarca N° 84,Formosa,El Colorado,-26.297069,-59.367038,3603
+1745,788,Sucursal 3,Calle Santiago del Estero N° 597,Misiones,Posadas,-27.369294,-55.897195,3300
+1746,789,Sucursal 1,Av. Entre Ríos N° 83,Formosa,Clorinda,-25.281549,-57.717211,3610
+1747,789,Sucursal 2,Diag. Alem N° 484,Chaco,Charata,-27.215197,-61.201626,3730
+1748,790,Sucursal 1,Av. Güemes N° 258,Misiones,Posadas,-27.368647,-55.895864,3300
+1749,790,Sucursal 2,Av. San Salvador de Jujuy N° 4093,Entre Ríos,Concordia,-31.38037,-58.014891,3200
+1750,791,Sucursal 1,Diagonal Catamarca N° 497,Formosa,El Colorado,-26.297764,-59.366571,3603
+1751,792,Sucursal 1,Boulevard Córdoba N° 271,Misiones,Apóstoles,-27.915921,-55.769312,3350
+1752,792,Sucursal 2,Av. J.M. de Rosas N° 92,Formosa,Formosa Capital,-26.18588,-58.185145,3600
+1753,793,Sucursal 1,Av. Neuquén N° 867,Chaco,Sáenz Peña,-26.794447,-60.440058,3700
+1754,794,Sucursal 1,Av. Entre Ríos N° 821,Chaco,Sáenz Peña,-26.793782,-60.440631,3700
+1755,794,Sucursal 2,Boulevard Güemes N° 93,Entre Ríos,Concepción del Uruguay,-32.482798,-58.239215,3260
+1756,794,Sucursal 3,Av. Paraná N° 117,Chaco,Sáenz Peña,-26.79373,-60.440041,3700
+1757,794,Sucursal 4,Calle Mitre N° 964,Chaco,Barranqueras,-27.484481,-58.932841,3503
+1758,795,Sucursal 1,Camino Alvear N° 3677,Chaco,Sáenz Peña,-26.793569,-60.436412,3700
+1759,795,Sucursal 2,Avenida Córdoba N° 7930,Corrientes,Curuzú Cuatiá,-29.786994,-58.055143,3460
+1760,795,Sucursal 3,Diagonal 1 N° 250,Misiones,Eldorado,-26.401993,-54.617052,3380
+1761,795,Sucursal 4,Avenida Tierra del Fuego N° 203,Formosa,Clorinda,-25.282644,-57.717099,3610
+1762,795,Sucursal 5,Av. San Luis N° 4431,Corrientes,Mercedes,-29.179382,-58.077139,3470
+1763,796,Sucursal 1,Calle 2 N° 332,Entre Ríos,Gualeguay,-33.142411,-59.314576,2840
+1764,796,Sucursal 2,Diagonal Córdoba N° 5318,Entre Ríos,Gualeguay,-33.139261,-59.317899,2840
+1765,796,Sucursal 3,Avenida Pte. Perón N° 6828,Formosa,Pirané,-25.735383,-59.11534,3606
+1766,797,Sucursal 1,Calle San Miguel de Tucumán N° 247,Misiones,Eldorado,-26.400218,-54.616978,3380
+1767,797,Sucursal 2,Calle Saavedra N° 98,Misiones,Eldorado,-26.399627,-54.616815,3380
+1768,798,Sucursal 1,Blv. G. Brown N° 9973,Corrientes,Mercedes,-29.180011,-58.080726,3470
+1769,798,Sucursal 2,Diagonal Santiago del Estero N° 42,Chaco,Sáenz Peña,-26.795175,-60.43593,3700
+1770,799,Sucursal 1,Avenida Pte. Perón N° 523,Entre Ríos,Concepción del Uruguay,-32.483354,-58.237773,3260
+1771,799,Sucursal 2,Diagonal 2 N° 74,Misiones,Puerto Iguazú,-25.594558,-54.575777,3370
+1772,799,Sucursal 3,Calle Neuquén N° 91,Misiones,Oberá,-27.483996,-55.117853,3360
+1773,799,Sucursal 4,Boulevard Córdoba N° 412,Formosa,Ingeniero Juárez,-23.902573,-61.84769,3636
+1774,799,Sucursal 5,Calle Malvinas Argentinas N° 880,Corrientes,Paso de los Libres,-29.713491,-57.087106,3230
+1775,800,Sucursal 1,Avenida Santiago del Estero N° 431,Entre Ríos,Gualeguay,-33.142082,-59.318168,2840
+1776,800,Sucursal 2,Av. San Juan N° 267,Entre Ríos,Gualeguay,-33.140367,-59.316642,2840
+1777,801,Sucursal 1,Av. 8 N° 169,Entre Ríos,Paraná,-31.740769,-60.510321,3100
+1778,801,Sucursal 2,Calle Jujuy N° 284,Entre Ríos,Paraná,-31.742588,-60.511956,3100
+1779,802,Sucursal 1,Avenida Neuquén N° 957,Chaco,Barranqueras,-27.483434,-58.930771,3503
+1780,802,Sucursal 2,Av. Malvinas Argentinas N° 156,Misiones,Oberá,-27.482514,-55.115641,3360
+1781,802,Sucursal 3,Calle Viedma N° 137,Entre Ríos,Gualeguaychú,-33.006806,-58.512913,2820
+1782,803,Sucursal 1,Av. Alem N° 441,Misiones,Apóstoles,-27.914034,-55.768816,3350
+1783,803,Sucursal 2,Diagonal Pte. Perón N° 2670,Chaco,Barranqueras,-27.482687,-58.930589,3503
+1784,803,Sucursal 3,Diagonal 3 N° 538,Chaco,Resistencia,-27.454026,-58.983974,3500
+1785,803,Sucursal 4,Boulevard G. Brown N° 762,Entre Ríos,Paraná,-31.74063,-60.512194,3100
+1786,804,Sucursal 1,Blv. Chaco N° 92,Formosa,Clorinda,-25.28084,-57.714444,3610
+1787,805,Sucursal 1,Calle 1 N° 148,Misiones,Puerto Iguazú,-25.598683,-54.579787,3370
+1788,806,Sucursal 1,Av. Rosario N° 899,Formosa,Ingeniero Juárez,-23.901152,-61.85053,3636
+1789,806,Sucursal 2,Diagonal Río Gallegos N° 44,Entre Ríos,Concepción del Uruguay,-32.480383,-58.239544,3260
+1790,807,Sucursal 1,Av. 8 N° 616,Corrientes,Mercedes,-29.182686,-58.080643,3470
+1791,807,Sucursal 2,Blv. J.J. Castelli N° 658,Entre Ríos,Concepción del Uruguay,-32.483212,-58.238351,3260
+1792,808,Sucursal 1,Avenida Resistencia N° 716,Formosa,Formosa Capital,-26.186291,-58.185881,3600
+1793,809,Sucursal 1,Av. 4 N° 962,Misiones,Puerto Iguazú,-25.59705,-54.577673,3370
+1794,809,Sucursal 2,Calle Belgrano N° 675,Entre Ríos,Concepción del Uruguay,-32.483014,-58.239142,3260
+1795,809,Sucursal 3,Avenida Ushuaia N° 94,Chaco,Resistencia,-27.449876,-58.987412,3500
+1796,809,Sucursal 4,Diag. Río Gallegos N° 418,Chaco,Resistencia,-27.451084,-58.987939,3500
+1797,810,Sucursal 1,Calle Neuquén N° 8896,Chaco,Resistencia,-27.452894,-58.984101,3500
+1798,811,Sucursal 1,Av. Salta N° 62,Chaco,Villa Ángela,-27.580402,-60.71447,3540
+1799,812,Sucursal 1,Diagonal 6 N° 86,Entre Ríos,Paraná,-31.739422,-60.513845,3100
+1800,812,Sucursal 2,Avenida Rawson N° 1135,Entre Ríos,Paraná,-31.743903,-60.512741,3100
+1801,813,Sucursal 1,Av. J.M. de Rosas N° 973,Corrientes,Paso de los Libres,-29.714139,-57.088447,3230
+1802,813,Sucursal 2,Calle 7 N° 1983,Formosa,Ingeniero Juárez,-23.901591,-61.850089,3636
+1803,814,Sucursal 1,Avenida Malvinas Argentinas N° 5160,Corrientes,Corrientes Capital,-27.483134,-58.833089,3400
+1804,814,Sucursal 2,Av. Buenos Aires N° 828,Corrientes,Corrientes Capital,-27.479508,-58.832865,3400
+1805,814,Sucursal 3,Diagonal 4 N° 689,Corrientes,Goya,-29.142819,-59.262566,3450
+1806,815,Sucursal 1,Avenida 3 N° 13,Misiones,Eldorado,-26.399382,-54.613779,3380
+1807,816,Sucursal 1,Avenida 9 N° 541,Formosa,Formosa Capital,-26.183461,-58.184278,3600
+1808,816,Sucursal 2,Avenida San Juan N° 577,Misiones,Puerto Iguazú,-25.598181,-54.577509,3370
+1809,817,Sucursal 1,Calle J.M. de Rosas N° 1597,Misiones,Posadas,-27.365199,-55.893454,3300
+1810,817,Sucursal 2,Av. 9 N° 973,Entre Ríos,Concordia,-31.383909,-58.016035,3200
+1811,817,Sucursal 3,Diagonal 8 N° 427,Misiones,Oberá,-27.481062,-55.114862,3360
+1812,818,Sucursal 1,Camino Omar Nuñez N° 511,Misiones,Apóstoles,-27.914477,-55.767289,3350
+1813,819,Sucursal 1,Diagonal 8 N° 52,Corrientes,Corrientes Capital,-27.479889,-58.832386,3400
+1814,820,Sucursal 1,Av. La Pampa N° 92,Entre Ríos,Gualeguaychú,-33.006291,-58.512309,2820
+1815,820,Sucursal 2,Calle J.M. de Rosas N° 3690,Misiones,Apóstoles,-27.91599,-55.765747,3350
+1816,821,Sucursal 1,Avenida 7 N° 386,Formosa,Clorinda,-25.283821,-57.718572,3610
+1817,821,Sucursal 2,Avenida 5 N° 770,Entre Ríos,Paraná,-31.739155,-60.509624,3100
+1818,822,Sucursal 1,Avenida Mitre N° 5877,Entre Ríos,Paraná,-31.742739,-60.514225,3100
+1819,823,Sucursal 1,Calle Mitre N° 3061,Entre Ríos,Concordia,-31.383634,-58.016059,3200
+1820,823,Sucursal 2,Av. Tierra del Fuego N° 29,Misiones,Eldorado,-26.398565,-54.614936,3380
+1821,824,Sucursal 1,Av. Saavedra N° 56,Misiones,Puerto Iguazú,-25.594565,-54.575951,3370
+1822,824,Sucursal 2,Diagonal Tucumán N° 47,Formosa,Formosa Capital,-26.180379,-58.181157,3600
+1823,825,Sucursal 1,Boulevard La Pampa N° 355,Entre Ríos,Concepción del Uruguay,-32.483291,-58.236557,3260
+1824,825,Sucursal 2,Calle 6 N° 860,Entre Ríos,Gualeguaychú,-33.009941,-58.51068,2820
+1825,825,Sucursal 3,Calle Entre Ríos N° 5856,Formosa,Ingeniero Juárez,-23.898291,-61.8487,3636
+1826,826,Sucursal 1,Diagonal 9 N° 4814,Corrientes,Mercedes,-29.181312,-58.081377,3470
+1827,827,Sucursal 1,Calle 8 N° 22,Chaco,Resistencia,-27.448722,-58.98287,3500
+1828,827,Sucursal 2,Avenida Córdoba N° 3762,Formosa,Formosa Capital,-26.182324,-58.184855,3600
+1829,828,Sucursal 1,Avenida Santa Rosa N° 483,Chaco,Resistencia,-27.44958,-58.984642,3500
+1830,828,Sucursal 2,Calle G. Brown N° 49,Corrientes,Curuzú Cuatiá,-29.792067,-58.05134,3460
+1831,829,Sucursal 1,Avenida Neuquén N° 541,Chaco,Resistencia,-27.448526,-58.986641,3500
+1832,830,Sucursal 1,Avenida Merlo N° 2848,Entre Ríos,Gualeguay,-33.143018,-59.315385,2840
+1833,830,Sucursal 2,Calle 5 N° 2081,Entre Ríos,Concordia,-31.383442,-58.014315,3200
+1834,830,Sucursal 3,Diagonal G. Brown N° 801,Corrientes,Paso de los Libres,-29.711807,-57.084964,3230
+1835,831,Sucursal 1,Av. 5 N° 5260,Corrientes,Curuzú Cuatiá,-29.787927,-58.055303,3460
+1836,831,Sucursal 2,Calle San Juan N° 964,Chaco,Barranqueras,-27.480709,-58.931702,3503
+1837,832,Sucursal 1,Boulevard Neuquén N° 83,Corrientes,Curuzú Cuatiá,-29.788836,-58.055038,3460
+1838,832,Sucursal 2,Calle San Martin N° 218,Entre Ríos,Gualeguaychú,-33.006342,-58.50945,2820
+1839,832,Sucursal 3,Diag. La Plata N° 3051,Entre Ríos,Paraná,-31.741047,-60.511129,3100
+1840,832,Sucursal 4,Calle Santa Fe N° 565,Misiones,Puerto Iguazú,-25.595349,-54.580259,3370
+1841,832,Sucursal 5,Calle 9 N° 15,Corrientes,Paso de los Libres,-29.714054,-57.089832,3230
+1842,833,Sucursal 1,Calle 6 N° 463,Entre Ríos,Concepción del Uruguay,-32.482047,-58.239071,3260
+1843,833,Sucursal 2,Avenida Resistencia N° 480,Corrientes,Paso de los Libres,-29.712363,-57.089735,3230
+1844,834,Sucursal 1,Avenida San Luis N° 288,Misiones,Eldorado,-26.399538,-54.61969,3380
+1845,834,Sucursal 2,Diagonal Pte. Perón N° 54,Corrientes,Goya,-29.13986,-59.264561,3450
+1846,835,Sucursal 1,Diagonal G. Brown N° 511,Misiones,Puerto Iguazú,-25.598282,-54.57941,3370
+1847,835,Sucursal 2,Avenida San Luis N° 502,Entre Ríos,Concordia,-31.380696,-58.018942,3200
+1848,836,Sucursal 1,Blv. Alem N° 531,Formosa,El Colorado,-26.299455,-59.36906,3603
+1849,836,Sucursal 2,Diagonal 1 N° 41,Corrientes,Corrientes Capital,-27.48027,-58.834836,3400
+1850,836,Sucursal 3,Calle Salta N° 936,Corrientes,Mercedes,-29.179403,-58.080119,3470
+1851,836,Sucursal 4,Av. J.J. Castelli N° 790,Chaco,Barranqueras,-27.483301,-58.933565,3503
+1852,836,Sucursal 5,Av. Buenos Aires N° 1583,Formosa,El Colorado,-26.3013,-59.365218,3603
+1853,837,Sucursal 1,Diagonal Saavedra N° 588,Formosa,El Colorado,-26.301079,-59.366686,3603
+1854,838,Sucursal 1,Avenida Rawson N° 798,Chaco,Villa Ángela,-27.580319,-60.715461,3540
+1855,839,Sucursal 1,Avenida Pte. Perón N° 676,Entre Ríos,Paraná,-31.739928,-60.51153,3100
+1856,839,Sucursal 2,Avenida Ciudad Autónoma de Buenos Aires N° 116,Entre Ríos,Gualeguaychú,-33.005001,-58.513447,2820
+1857,840,Sucursal 1,Calle Salta N° 44,Corrientes,Mercedes,-29.179333,-58.080636,3470
+1858,840,Sucursal 2,Camino J.B. Alberdi N° 218,Entre Ríos,Concepción del Uruguay,-32.479993,-58.23885,3260
+1859,840,Sucursal 3,Calle San Martin N° 63,Entre Ríos,Concepción del Uruguay,-32.485285,-58.235007,3260
+1860,841,Sucursal 1,Avenida Mitre N° 26,Formosa,Formosa Capital,-26.181936,-58.184505,3600
+1861,842,Sucursal 1,Avenida 7 N° 446,Chaco,Resistencia,-27.448154,-58.985312,3500
+1862,842,Sucursal 2,Calle Güemes N° 49,Misiones,Posadas,-27.367565,-55.896259,3300
+1863,842,Sucursal 3,Diagonal Entre Ríos N° 247,Misiones,Oberá,-27.481754,-55.117354,3360
+1864,842,Sucursal 4,Camino Mendoza N° 71,Formosa,Clorinda,-25.281939,-57.718006,3610
+1865,843,Sucursal 1,Blv. Tierra del Fuego N° 73,Entre Ríos,Gualeguaychú,-33.005662,-58.511437,2820
+1866,844,Sucursal 1,Diag. 9 N° 24,Misiones,Posadas,-27.365586,-55.895618,3300
+1867,845,Sucursal 1,Camino 4 N° 6826,Entre Ríos,Gualeguaychú,-33.008976,-58.509872,2820
+1868,846,Sucursal 1,Av. 3 N° 638,Misiones,Apóstoles,-27.915524,-55.767954,3350
+1869,847,Sucursal 1,Av. San Salvador de Jujuy N° 59,Chaco,Sáenz Peña,-26.793891,-60.43661,3700
+1870,848,Sucursal 1,Avenida 4 N° 7954,Misiones,Oberá,-27.481944,-55.116246,3360
+1871,849,Sucursal 1,Diagonal Mar del Plata N° 4176,Corrientes,Mercedes,-29.182041,-58.076004,3470
+1872,849,Sucursal 2,Avenida Bahía Blanca N° 58,Entre Ríos,Concordia,-31.38125,-58.014144,3200
+1873,849,Sucursal 3,Boulevard 6 N° 45,Corrientes,Paso de los Libres,-29.713666,-57.087657,3230
+1874,849,Sucursal 4,Blv. J.B. Alberdi N° 323,Corrientes,Goya,-29.142696,-59.262607,3450
+1875,850,Sucursal 1,Calle La Rioja N° 287,Formosa,Ingeniero Juárez,-23.900397,-61.852109,3636
+1876,850,Sucursal 2,Av. 170 Bis N° 4997,Entre Ríos,Concepción del Uruguay,-32.483176,-58.239996,3260
+1877,851,Sucursal 1,Calle San Ferando del Valle de Catamarca N° 86,Misiones,Eldorado,-26.400068,-54.615572,3380
+1878,852,Sucursal 1,Av. 7 N° 15,Entre Ríos,Paraná,-31.740429,-60.509845,3100
+1879,853,Sucursal 1,Avenida 127 A N° 625,Entre Ríos,Gualeguay,-33.141918,-59.314791,2840
+1880,854,Sucursal 1,Avenida 7 N° 4166,Chaco,Villa Ángela,-27.582506,-60.717029,3540
+1881,854,Sucursal 2,Diag. J.J. Castelli N° 936,Corrientes,Corrientes Capital,-27.48278,-58.837104,3400
+1882,855,Sucursal 1,Diag. 1 N° 562,Entre Ríos,Paraná,-31.740887,-60.511442,3100
+1883,855,Sucursal 2,Calle Malvinas Argentinas N° 5331,Corrientes,Corrientes Capital,-27.479979,-58.831676,3400
+1884,856,Sucursal 1,Av. Mendoza N° 9888,Chaco,Villa Ángela,-27.582138,-60.719133,3540
+1885,856,Sucursal 2,Av. G. Brown N° 822,Formosa,Ingeniero Juárez,-23.901913,-61.850095,3636
+1886,857,Sucursal 1,Av. Mitre N° 1049,Entre Ríos,Gualeguaychú,-33.008198,-58.510371,2820
+1887,857,Sucursal 2,Diagonal Rosario N° 1225,Corrientes,Paso de los Libres,-29.713849,-57.086217,3230
+1888,857,Sucursal 3,Calle Mendoza N° 145,Formosa,Pirané,-25.735191,-59.114823,3606
+1889,857,Sucursal 4,Av. J.M. de Rosas N° 844,Corrientes,Corrientes Capital,-27.481137,-58.832695,3400
+1890,858,Sucursal 1,Av. Saavedra N° 79,Formosa,Formosa Capital,-26.185916,-58.181277,3600
+1891,858,Sucursal 2,Av. Ciudad Autónoma de Buenos Aires N° 936,Formosa,Pirané,-25.732018,-59.11496,3606
+1892,858,Sucursal 3,Calle 1 N° 321,Corrientes,Paso de los Libres,-29.711279,-57.089255,3230
+1893,858,Sucursal 4,Avenida J.J. Castelli N° 1936,Entre Ríos,Concordia,-31.380914,-58.018616,3200
+1894,858,Sucursal 5,Diagonal Saavedra N° 19,Formosa,El Colorado,-26.298829,-59.369668,3603
+1895,859,Sucursal 1,Av. Alem N° 46,Misiones,Posadas,-27.369362,-55.898327,3300
+1896,859,Sucursal 2,Calle 5 N° 168,Chaco,Sáenz Peña,-26.791284,-60.440573,3700
+1897,860,Sucursal 1,Av. 7 N° 481,Entre Ríos,Gualeguay,-33.14449,-59.31382,2840
+1898,860,Sucursal 2,Avenida Chaco N° 898,Formosa,Clorinda,-25.284509,-57.713902,3610
+1899,861,Sucursal 1,Diagonal Santiago del Estero N° 359,Misiones,Puerto Iguazú,-25.594337,-54.577651,3370
+1900,861,Sucursal 2,Avenida J.J. Castelli N° 945,Chaco,Barranqueras,-27.484496,-58.930623,3503
+1901,862,Sucursal 1,Camino Omar Nuñez N° 15,Entre Ríos,Concordia,-31.383095,-58.018861,3200
+1902,862,Sucursal 2,Av. Mendoza N° 9974,Formosa,Formosa Capital,-26.182129,-58.183164,3600
+1903,863,Sucursal 1,Avenida Santiago del Estero N° 101,Formosa,El Colorado,-26.299771,-59.368441,3603
+1904,863,Sucursal 2,Avenida Chubut N° 94,Corrientes,Paso de los Libres,-29.711824,-57.090232,3230
+1905,864,Sucursal 1,Blv. San Luis N° 17,Chaco,Sáenz Peña,-26.79435,-60.435963,3700
+1906,865,Sucursal 1,Diagonal Mitre N° 222,Corrientes,Mercedes,-29.180687,-58.080604,3470
+1907,865,Sucursal 2,Boulevard 6 N° 396,Misiones,Oberá,-27.484636,-55.115325,3360
+1908,866,Sucursal 1,Avenida 5 N° 8523,Corrientes,Curuzú Cuatiá,-29.789401,-58.055736,3460
+1909,866,Sucursal 2,Calle 7 N° 51,Entre Ríos,Paraná,-31.739478,-60.5121,3100
+1910,866,Sucursal 3,Av. Santa Fe N° 8070,Corrientes,Curuzú Cuatiá,-29.787032,-58.053241,3460
+1911,867,Sucursal 1,Diagonal Mendoza N° 6440,Formosa,Pirané,-25.735077,-59.115923,3606
+1912,868,Sucursal 1,Diag. Pte. Perón N° 25,Entre Ríos,Paraná,-31.740719,-60.513344,3100
+1913,868,Sucursal 2,Boulevard 1 N° 2038,Misiones,Oberá,-27.482918,-55.115813,3360
+1914,869,Sucursal 1,Calle Chilecito N° 371,Misiones,Puerto Iguazú,-25.595271,-54.579702,3370
+1915,870,Sucursal 1,Diag. Güemes N° 51,Misiones,Eldorado,-26.402845,-54.616078,3380
+1916,870,Sucursal 2,Diagonal Güemes N° 2163,Corrientes,Curuzú Cuatiá,-29.791079,-58.054111,3460
+1917,870,Sucursal 3,Av. Buenos Aires N° 414,Entre Ríos,Concordia,-31.38301,-58.019304,3200
+1918,871,Sucursal 1,Diagonal J.J. Castelli N° 239,Misiones,Oberá,-27.480845,-55.115032,3360
+1919,872,Sucursal 1,Blv. Santiago del Estero N° 71,Chaco,Barranqueras,-27.484658,-58.935712,3503
+1920,873,Sucursal 1,Calle Santa Cruz N° 2487,Misiones,Eldorado,-26.397289,-54.615004,3380
+1921,873,Sucursal 2,Calle San Martin N° 5846,Corrientes,Paso de los Libres,-29.714746,-57.08613,3230
+1922,874,Sucursal 1,Diagonal Ciudad Autónoma de Buenos Aires N° 818,Formosa,Ingeniero Juárez,-23.898072,-61.850062,3636
+1923,874,Sucursal 2,Blv. J.J. Castelli N° 653,Formosa,Clorinda,-25.284207,-57.716267,3610
+1924,875,Sucursal 1,Av. Belgrano N° 622,Formosa,Pirané,-25.734674,-59.119106,3606
+1925,875,Sucursal 2,Calle Constitución N° 417,Corrientes,Goya,-29.142376,-59.260021,3450
+1926,875,Sucursal 3,Diagonal 4 N° 652,Misiones,Eldorado,-26.401916,-54.614863,3380
+1927,876,Sucursal 1,Diagonal 9 N° 5830,Formosa,Formosa Capital,-26.182746,-58.184746,3600
+1928,876,Sucursal 2,Calle J.J. Castelli N° 3659,Entre Ríos,Concordia,-31.383219,-58.018767,3200
+1929,877,Sucursal 1,Av. Neuquén N° 39,Corrientes,Mercedes,-29.182027,-58.077487,3470
+1930,878,Sucursal 1,Av. La Rioja N° 79,Entre Ríos,Concepción del Uruguay,-32.481765,-58.237979,3260
+1931,879,Sucursal 1,Diagonal 2 N° 852,Entre Ríos,Concordia,-31.382648,-58.015459,3200
+1932,879,Sucursal 2,Avenida San Luis N° 649,Chaco,Resistencia,-27.451466,-58.986476,3500
+1933,880,Sucursal 1,Avenida Santa Fe N° 52,Formosa,Clorinda,-25.284579,-57.713984,3610
+1934,880,Sucursal 2,Diagonal Neuquén N° 899,Formosa,Clorinda,-25.28065,-57.714412,3610
+1935,880,Sucursal 3,Avenida San Juan N° 8276,Chaco,Barranqueras,-27.484469,-58.931152,3503
+1936,881,Sucursal 1,Av. San Ferando del Valle de Catamarca N° 111,Misiones,Puerto Iguazú,-25.595577,-54.576529,3370
+1937,881,Sucursal 2,Avenida Santiago del Estero N° 310,Entre Ríos,Paraná,-31.744423,-60.51012,3100
+1938,881,Sucursal 3,Avenida Rawson N° 188,Corrientes,Curuzú Cuatiá,-29.791709,-58.056956,3460
+1939,882,Sucursal 1,Diagonal San Salvador de Jujuy N° 26,Formosa,Pirané,-25.730722,-59.11485,3606
+1940,882,Sucursal 2,Diag. Entre Ríos N° 36,Corrientes,Corrientes Capital,-27.477727,-58.835056,3400
+1941,883,Sucursal 1,Avenida Chubut N° 507,Entre Ríos,Concepción del Uruguay,-32.484781,-58.237213,3260
+1942,883,Sucursal 2,Diagonal Pte. Perón N° 7415,Entre Ríos,Concordia,-31.380312,-58.014372,3200
+1943,883,Sucursal 3,Avenida San Miguel de Tucumán N° 66,Entre Ríos,Gualeguaychú,-33.010052,-58.513717,2820
+1944,883,Sucursal 4,Avenida San Salvador de Jujuy N° 362,Chaco,Sáenz Peña,-26.789735,-60.436624,3700
+1945,884,Sucursal 1,Boulevard La Pampa N° 324,Entre Ríos,Gualeguaychú,-33.007594,-58.51173,2820
+1946,884,Sucursal 2,Diagonal Santiago del Estero N° 912,Entre Ríos,Concepción del Uruguay,-32.481633,-58.234677,3260
+1947,885,Sucursal 1,Avenida Belgrano N° 709,Formosa,El Colorado,-26.300308,-59.368689,3603
+1948,886,Sucursal 1,Calle Neuquén N° 67,Chaco,Barranqueras,-27.485251,-58.934098,3503
+1949,886,Sucursal 2,Diagonal J.B. Alberdi N° 338,Corrientes,Mercedes,-29.181218,-58.076185,3470
+1950,886,Sucursal 3,Diagonal Río Gallegos N° 16,Misiones,Puerto Iguazú,-25.597227,-54.580577,3370
+1951,886,Sucursal 4,Avenida Ciudad Autónoma de Buenos Aires N° 8727,Corrientes,Paso de los Libres,-29.713772,-57.086426,3230
+1952,887,Sucursal 1,Calle 8 N° 984,Chaco,Charata,-27.217905,-61.201239,3730
+1953,888,Sucursal 1,Diagonal 7 N° 269,Corrientes,Corrientes Capital,-27.479072,-58.834187,3400
+1954,889,Sucursal 1,Calle 4 N° 222,Chaco,Charata,-27.214125,-61.197245,3730
+1955,890,Sucursal 1,Av. Río Gallegos N° 726,Misiones,Apóstoles,-27.914345,-55.76461,3350
+1956,891,Sucursal 1,Avenida La Rioja N° 346,Misiones,Oberá,-27.486265,-55.116938,3360
+1957,892,Sucursal 1,Avenida Belgrano N° 1258,Misiones,Oberá,-27.485657,-55.117602,3360
+1958,892,Sucursal 2,Calle Rawson N° 11,Entre Ríos,Concepción del Uruguay,-32.484483,-58.238073,3260
+1959,893,Sucursal 1,Calle Merlo N° 333,Misiones,Puerto Iguazú,-25.597248,-54.581092,3370
+1960,894,Sucursal 1,Diagonal Rosario N° 261,Corrientes,Mercedes,-29.181836,-58.076421,3470
+1961,894,Sucursal 2,Diagonal Mitre N° 92,Corrientes,Corrientes Capital,-27.482566,-58.83366,3400
+1962,894,Sucursal 3,Avenida 161 A N° 599,Chaco,Barranqueras,-27.483476,-58.934054,3503
+1963,894,Sucursal 4,Avenida Chilecito N° 633,Misiones,Oberá,-27.48373,-55.118607,3360
+1964,895,Sucursal 1,Diagonal La Plata N° 345,Corrientes,Paso de los Libres,-29.709864,-57.086562,3230
+1965,895,Sucursal 2,Camino J.M. de Rosas N° 2064,Misiones,Apóstoles,-27.918729,-55.767578,3350
+1966,895,Sucursal 3,Camino 8 N° 6619,Misiones,Puerto Iguazú,-25.600165,-54.576299,3370
+1967,896,Sucursal 1,Diagonal San Luis N° 4089,Corrientes,Paso de los Libres,-29.714663,-57.090258,3230
+1968,897,Sucursal 1,Boulevard San Martin N° 2038,Misiones,Puerto Iguazú,-25.595736,-54.576194,3370
+1969,897,Sucursal 2,Diagonal Santiago del Estero N° 61,Chaco,Resistencia,-27.450103,-58.98291,3500
+1970,898,Sucursal 1,Avenida Santa Fe N° 939,Corrientes,Paso de los Libres,-29.713273,-57.087199,3230
+1971,898,Sucursal 2,Diag. Pte. Perón N° 999,Entre Ríos,Concordia,-31.382014,-58.017751,3200
+1972,899,Sucursal 1,Av. 1 N° 265,Formosa,Clorinda,-25.281944,-57.715249,3610
+1973,899,Sucursal 2,Calle 191 Bis N° 25,Misiones,Eldorado,-26.402211,-54.613954,3380
+1974,900,Sucursal 1,Calle 7 N° 146,Corrientes,Mercedes,-29.183367,-58.0789,3470
+1975,901,Sucursal 1,Diagonal 8 N° 793,Chaco,Barranqueras,-27.485988,-58.931321,3503
+1976,901,Sucursal 2,Av. Saavedra N° 9065,Misiones,Puerto Iguazú,-25.594341,-54.577175,3370
+1977,901,Sucursal 3,Calle Córdoba N° 720,Misiones,Puerto Iguazú,-25.597319,-54.579907,3370
+1978,901,Sucursal 4,Avenida San Salvador de Jujuy N° 6536,Corrientes,Curuzú Cuatiá,-29.788135,-58.055814,3460
+1979,902,Sucursal 1,Calle 3 N° 427,Entre Ríos,Concepción del Uruguay,-32.482533,-58.238703,3260
+1980,903,Sucursal 1,Blv. La Rioja N° 18,Chaco,Villa Ángela,-27.580334,-60.718216,3540
+1981,904,Sucursal 1,Avenida Río Negro N° 78,Chaco,Sáenz Peña,-26.792357,-60.436404,3700
+1982,904,Sucursal 2,Diagonal San Juan N° 951,Corrientes,Paso de los Libres,-29.711593,-57.087486,3230
+1983,905,Sucursal 1,Av. Chubut N° 984,Chaco,Sáenz Peña,-26.789245,-60.437553,3700
+1984,906,Sucursal 1,Avenida Mendoza N° 74,Corrientes,Mercedes,-29.182924,-58.081106,3470
+1985,906,Sucursal 2,Avenida Santa Fe N° 21,Corrientes,Goya,-29.141757,-59.264547,3450
+1986,906,Sucursal 3,Calle Posadas N° 136,Corrientes,Mercedes,-29.181742,-58.078201,3470
+1987,906,Sucursal 4,Boulevard Ushuaia N° 51,Corrientes,Curuzú Cuatiá,-29.787514,-58.055018,3460
+1988,906,Sucursal 5,Boulevard 1 N° 52,Formosa,Clorinda,-25.284461,-57.7159,3610
+1989,907,Sucursal 1,Avenida J.M. de Rosas N° 699,Chaco,Barranqueras,-27.484283,-58.933425,3503
+1990,907,Sucursal 2,Camino Corrientes N° 16,Formosa,Clorinda,-25.283738,-57.71939,3610
+1991,908,Sucursal 1,Diagonal Bahía Blanca N° 595,Chaco,Villa Ángela,-27.584119,-60.714042,3540
+1992,909,Sucursal 1,Diagonal G. Brown N° 47,Misiones,Puerto Iguazú,-25.598718,-54.576229,3370
+1993,909,Sucursal 2,Calle San Juan N° 263,Chaco,Resistencia,-27.453855,-58.988287,3500
+1994,909,Sucursal 3,Diagonal J.J. Castelli N° 26,Entre Ríos,Concepción del Uruguay,-32.48367,-58.238488,3260
+1995,909,Sucursal 4,Boulevard Alem N° 8672,Chaco,Villa Ángela,-27.580849,-60.719095,3540
+1996,910,Sucursal 1,Avenida 9 N° 215,Chaco,Villa Ángela,-27.58061,-60.717519,3540
+1997,911,Sucursal 1,Av. 5 N° 991,Corrientes,Paso de los Libres,-29.715219,-57.090418,3230
+1998,911,Sucursal 2,Avenida Alem N° 813,Formosa,Pirané,-25.731677,-59.118918,3606
+1999,911,Sucursal 3,Calle Mendoza N° 79,Misiones,Oberá,-27.481852,-55.117532,3360
+2000,912,Sucursal 1,Av. Rosario N° 142,Formosa,Clorinda,-25.282672,-57.71827,3610
+2001,912,Sucursal 2,Avenida 7 N° 188,Chaco,Villa Ángela,-27.58504,-60.717396,3540
+2002,912,Sucursal 3,Blv. Rawson N° 75,Corrientes,Paso de los Libres,-29.715017,-57.086044,3230
+2003,912,Sucursal 4,Diag. 106 A N° 846,Corrientes,Paso de los Libres,-29.715554,-57.08469,3230
+2004,913,Sucursal 1,Boulevard Santiago del Estero N° 641,Chaco,Sáenz Peña,-26.790972,-60.435547,3700
+2005,914,Sucursal 1,Calle Mar del Plata N° 6827,Formosa,Pirané,-25.732586,-59.117891,3606
+2006,915,Sucursal 1,Diagonal Corrientes N° 66,Entre Ríos,Gualeguay,-33.143488,-59.315375,2840
+2007,915,Sucursal 2,Diagonal Rosario N° 89,Corrientes,Goya,-29.142633,-59.263191,3450
+2008,916,Sucursal 1,Avenida 6 N° 995,Entre Ríos,Gualeguay,-33.139579,-59.314259,2840
+2009,916,Sucursal 2,Av. Río Negro N° 5454,Misiones,Oberá,-27.480931,-55.117009,3360
+2010,917,Sucursal 1,Diagonal 9 N° 239,Corrientes,Paso de los Libres,-29.710335,-57.090094,3230
+2011,917,Sucursal 2,Avenida San Martin N° 4526,Misiones,Puerto Iguazú,-25.597057,-54.575885,3370
+2012,917,Sucursal 3,Diag. Santa Rosa N° 461,Corrientes,Corrientes Capital,-27.482498,-58.835955,3400
+2013,917,Sucursal 4,Diagonal 156 A N° 715,Corrientes,Mercedes,-29.182562,-58.076165,3470
+2014,918,Sucursal 1,Avenida 156 B N° 516,Entre Ríos,Gualeguaychú,-33.009659,-58.508913,2820
+2015,919,Sucursal 1,Blv. 3 N° 1743,Entre Ríos,Concordia,-31.383105,-58.016619,3200
+2016,919,Sucursal 2,Blv. Constitución N° 2816,Corrientes,Curuzú Cuatiá,-29.791707,-58.052796,3460
+2017,920,Sucursal 1,Diagonal Formosa N° 33,Formosa,Pirané,-25.731624,-59.117295,3606
+2018,920,Sucursal 2,Avenida Ciudad Autónoma de Buenos Aires N° 952,Chaco,Villa Ángela,-27.585058,-60.719678,3540
+2019,920,Sucursal 3,Boulevard 109 B N° 91,Formosa,Ingeniero Juárez,-23.901693,-61.84882,3636
+2020,921,Sucursal 1,Avenida La Rioja N° 93,Misiones,Apóstoles,-27.916677,-55.765377,3350
+2021,921,Sucursal 2,Boulevard Comodoro Rivadavia N° 2563,Chaco,Villa Ángela,-27.58448,-60.718378,3540
+2022,921,Sucursal 3,Av. 6 N° 421,Entre Ríos,Gualeguaychú,-33.009189,-58.513085,2820
+2023,921,Sucursal 4,Calle J.J. Castelli N° 9885,Chaco,Barranqueras,-27.486026,-58.934871,3503
+2024,921,Sucursal 5,Calle Belgrano N° 14,Corrientes,Goya,-29.139562,-59.260048,3450
+2025,922,Sucursal 1,Diagonal Mitre N° 4536,Corrientes,Mercedes,-29.182677,-58.077156,3470
+2026,922,Sucursal 2,Avenida San Miguel de Tucumán N° 37,Entre Ríos,Paraná,-31.73902,-60.508563,3100
+2027,923,Sucursal 1,Calle Mendoza N° 5328,Formosa,Pirané,-25.735603,-59.115808,3606
+2028,924,Sucursal 1,Diagonal Alvear N° 293,Misiones,Posadas,-27.369601,-55.894867,3300
+2029,924,Sucursal 2,Diagonal La Rioja N° 58,Formosa,Pirané,-25.734716,-59.118898,3606
+2030,925,Sucursal 1,Diagonal Corrientes N° 355,Misiones,Posadas,-27.364188,-55.895344,3300
+2031,925,Sucursal 2,Diagonal Merlo N° 774,Corrientes,Corrientes Capital,-27.478556,-58.836284,3400
+2032,926,Sucursal 1,Avenida G. Brown N° 2189,Chaco,Resistencia,-27.452564,-58.988506,3500
+2033,926,Sucursal 2,Diag. Bahía Blanca N° 97,Entre Ríos,Concordia,-31.380427,-58.015031,3200
+2034,926,Sucursal 3,Blv. Bahía Blanca N° 84,Entre Ríos,Gualeguay,-33.1412,-59.315364,2840
+2035,926,Sucursal 4,Camino 3 N° 73,Entre Ríos,Gualeguaychú,-33.008508,-58.509877,2820
+2036,927,Sucursal 1,Diagonal Omar Nuñez N° 541,Misiones,Apóstoles,-27.918376,-55.768087,3350
+2037,928,Sucursal 1,Avenida Mendoza N° 7326,Corrientes,Mercedes,-29.181624,-58.077521,3470
+2038,928,Sucursal 2,Avenida 195 A N° 7782,Misiones,Puerto Iguazú,-25.597988,-54.576187,3370
+2039,929,Sucursal 1,Diagonal 5 N° 919,Formosa,Formosa Capital,-26.185211,-58.18519,3600
+2040,930,Sucursal 1,Diagonal 1 N° 472,Chaco,Sáenz Peña,-26.791782,-60.43544,3700
+2041,931,Sucursal 1,Blv. 1 N° 93,Entre Ríos,Paraná,-31.743208,-60.512639,3100
+2042,931,Sucursal 2,Boulevard Santa Rosa N° 88,Chaco,Resistencia,-27.449195,-58.984476,3500
+2043,932,Sucursal 1,Camino Chilecito N° 64,Corrientes,Curuzú Cuatiá,-29.791839,-58.054742,3460
+2044,932,Sucursal 2,Calle 4 N° 413,Misiones,Apóstoles,-27.914245,-55.763878,3350
+2045,933,Sucursal 1,Boulevard Ushuaia N° 779,Entre Ríos,Concepción del Uruguay,-32.482439,-58.235839,3260
+2046,934,Sucursal 1,Avenida Ciudad Autónoma de Buenos Aires N° 766,Formosa,El Colorado,-26.302402,-59.367396,3603
+2047,935,Sucursal 1,Camino Tucumán N° 571,Corrientes,Corrientes Capital,-27.478919,-58.833733,3400
+2048,936,Sucursal 1,Calle 5 N° 57,Corrientes,Mercedes,-29.18281,-58.081398,3470
+2049,936,Sucursal 2,Av. Güemes N° 3453,Corrientes,Mercedes,-29.178668,-58.078302,3470
+2050,936,Sucursal 3,Diagonal Santa Fe N° 223,Corrientes,Corrientes Capital,-27.477754,-58.836962,3400
+2051,937,Sucursal 1,Calle 1 N° 566,Misiones,Posadas,-27.364984,-55.89859,3300
+2052,937,Sucursal 2,Boulevard Güemes N° 12,Corrientes,Mercedes,-29.181417,-58.078523,3470
+2053,937,Sucursal 3,Calle Buenos Aires N° 4610,Misiones,Apóstoles,-27.914807,-55.767856,3350
+2054,937,Sucursal 4,Av. Santiago del Estero N° 36,Formosa,Formosa Capital,-26.185373,-58.185965,3600
+2055,938,Sucursal 1,Blv. J.B. Alberdi N° 5327,Entre Ríos,Paraná,-31.741638,-60.514373,3100
+2056,938,Sucursal 2,Calle 3 N° 527,Corrientes,Goya,-29.142783,-59.26392,3450
+2057,939,Sucursal 1,Av. Formosa N° 876,Misiones,Puerto Iguazú,-25.599349,-54.576127,3370
+2058,939,Sucursal 2,Calle Neuquén N° 399,Corrientes,Corrientes Capital,-27.48214,-58.835288,3400
+2059,939,Sucursal 3,Calle Neuquén N° 25,Misiones,Oberá,-27.482368,-55.118345,3360
+2060,939,Sucursal 4,Av. Santiago del Estero N° 96,Entre Ríos,Concordia,-31.383992,-58.014395,3200
+2061,940,Sucursal 1,Calle 3 N° 52,Formosa,Formosa Capital,-26.185283,-58.185639,3600
+2062,940,Sucursal 2,Calle Chubut N° 2495,Corrientes,Paso de los Libres,-29.710061,-57.088809,3230
+2063,941,Sucursal 1,Calle Ciudad Autónoma de Buenos Aires N° 915,Formosa,El Colorado,-26.300998,-59.367537,3603
+2064,942,Sucursal 1,Av. San Martin N° 386,Corrientes,Goya,-29.139773,-59.264632,3450
+2065,942,Sucursal 2,Camino Neuquén N° 48,Formosa,Clorinda,-25.284291,-57.718612,3610
+2066,942,Sucursal 3,Avenida Güemes N° 791,Misiones,Puerto Iguazú,-25.599299,-54.577596,3370
+2067,943,Sucursal 1,Diagonal 1 N° 39,Formosa,El Colorado,-26.298095,-59.36761,3603
+2068,943,Sucursal 2,Av. Mitre N° 259,Corrientes,Paso de los Libres,-29.714173,-57.087504,3230
+2069,944,Sucursal 1,Avenida Corrientes N° 8896,Chaco,Villa Ángela,-27.581436,-60.715432,3540
+2070,944,Sucursal 2,Diag. 2 N° 768,Corrientes,Curuzú Cuatiá,-29.787967,-58.05213,3460
+2071,945,Sucursal 1,Diagonal Chaco N° 783,Entre Ríos,Gualeguay,-33.140765,-59.317778,2840
+2072,946,Sucursal 1,Blv. 3 N° 1040,Misiones,Apóstoles,-27.915372,-55.764987,3350
+2073,946,Sucursal 2,Av. 7 N° 9517,Formosa,Formosa Capital,-26.181412,-58.185621,3600
+2074,947,Sucursal 1,Diagonal Omar Nuñez N° 1549,Entre Ríos,Concepción del Uruguay,-32.483929,-58.239657,3260
+2075,947,Sucursal 2,Camino 6 N° 707,Corrientes,Mercedes,-29.183209,-58.07959,3470
+2076,948,Sucursal 1,Diagonal Rivadavia N° 889,Formosa,Formosa Capital,-26.183757,-58.182139,3600
+2077,948,Sucursal 2,Avenida Tierra del Fuego N° 193,Misiones,Puerto Iguazú,-25.59659,-54.57778,3370
+2078,948,Sucursal 3,Avenida Pte. Perón N° 199,Corrientes,Mercedes,-29.179487,-58.077976,3470
+2079,949,Sucursal 1,Avenida Misiones N° 74,Misiones,Eldorado,-26.400488,-54.616717,3380
+2080,950,Sucursal 1,Diagonal Resistencia N° 8423,Formosa,Formosa Capital,-26.183105,-58.181372,3600
+2081,950,Sucursal 2,Av. 4 N° 92,Misiones,Eldorado,-26.402498,-54.61541,3380
+2082,950,Sucursal 3,Calle Córdoba N° 148,Formosa,Clorinda,-25.282833,-57.715539,3610
+2083,950,Sucursal 4,Av. 155 Bis N° 667,Entre Ríos,Concepción del Uruguay,-32.484284,-58.239676,3260
+2084,951,Sucursal 1,Calle Salta N° 89,Corrientes,Corrientes Capital,-27.48228,-58.832496,3400
+2085,951,Sucursal 2,Av. G. Brown N° 729,Misiones,Oberá,-27.48295,-55.113954,3360
+2086,952,Sucursal 1,Av. J.M. de Rosas N° 213,Corrientes,Goya,-29.137932,-59.263535,3450
+2087,953,Sucursal 1,Blv. 6 N° 642,Chaco,Charata,-27.216938,-61.197988,3730
+2088,954,Sucursal 1,Avenida Santa Fe N° 96,Chaco,Barranqueras,-27.485036,-58.934952,3503
+2089,954,Sucursal 2,Diagonal Tucumán N° 1147,Entre Ríos,Concepción del Uruguay,-32.484773,-58.234428,3260
+2090,955,Sucursal 1,Diag. 9 N° 46,Corrientes,Mercedes,-29.182035,-58.081742,3470
+2091,955,Sucursal 2,Av. Santiago del Estero N° 3348,Misiones,Puerto Iguazú,-25.59797,-54.577392,3370
+2092,955,Sucursal 3,Calle La Rioja N° 712,Entre Ríos,Concordia,-31.38281,-58.016839,3200
+2093,955,Sucursal 4,Avenida J.B. Alberdi N° 6683,Formosa,El Colorado,-26.297777,-59.369519,3603
+2094,956,Sucursal 1,Boulevard 7 N° 749,Corrientes,Mercedes,-29.183826,-58.081438,3470
+2095,956,Sucursal 2,Calle San Juan N° 1378,Formosa,Ingeniero Juárez,-23.898014,-61.850501,3636
+2096,957,Sucursal 1,Avenida Rivadavia N° 959,Formosa,Formosa Capital,-26.181839,-58.181811,3600
+2097,958,Sucursal 1,Camino 4 N° 958,Formosa,Formosa Capital,-26.183831,-58.184276,3600
+2098,958,Sucursal 2,Avenida Santa Fe N° 39,Entre Ríos,Paraná,-31.740729,-60.512779,3100
+2099,959,Sucursal 1,Diagonal Jujuy N° 6036,Corrientes,Goya,-29.138113,-59.265507,3450
+2100,959,Sucursal 2,Blv. G. Brown N° 806,Entre Ríos,Gualeguay,-33.143659,-59.318738,2840
+2101,960,Sucursal 1,Avenida Bahía Blanca N° 888,Misiones,Puerto Iguazú,-25.596121,-54.576344,3370
+2102,960,Sucursal 2,Av. Santa Rosa N° 64,Formosa,Pirané,-25.732032,-59.118152,3606
+2103,960,Sucursal 3,Av. La Rioja N° 664,Formosa,Ingeniero Juárez,-23.899989,-61.848744,3636
+2104,960,Sucursal 4,Calle Mar del Plata N° 379,Misiones,Puerto Iguazú,-25.594611,-54.579969,3370
+2105,961,Sucursal 1,Av. 1 N° 42,Formosa,Clorinda,-25.284035,-57.713994,3610
+2106,961,Sucursal 2,Diagonal Ushuaia N° 4354,Entre Ríos,Concepción del Uruguay,-32.484329,-58.236486,3260
+2107,962,Sucursal 1,Calle 142 A N° 889,Misiones,Eldorado,-26.401898,-54.615224,3380
+2108,963,Sucursal 1,Avenida 8 N° 921,Entre Ríos,Gualeguaychú,-33.007989,-58.511921,2820
+2109,964,Sucursal 1,Diagonal 3 N° 8571,Misiones,Eldorado,-26.402011,-54.61488,3380
+2110,964,Sucursal 2,Avenida Córdoba N° 1183,Entre Ríos,Paraná,-31.742355,-60.51288,3100
+2111,965,Sucursal 1,Blv. San Salvador de Jujuy N° 747,Corrientes,Curuzú Cuatiá,-29.790524,-58.052627,3460
+2112,966,Sucursal 1,Av. 9 N° 82,Corrientes,Corrientes Capital,-27.482063,-58.836623,3400
+2113,966,Sucursal 2,Blv. 4 N° 1284,Corrientes,Paso de los Libres,-29.715408,-57.086917,3230
+2114,967,Sucursal 1,Camino Güemes N° 729,Chaco,Sáenz Peña,-26.79189,-60.43727,3700
+2115,967,Sucursal 2,Diagonal Salta N° 838,Corrientes,Goya,-29.141958,-59.26519,3450
+2116,968,Sucursal 1,Avenida Güemes N° 992,Formosa,Ingeniero Juárez,-23.897081,-61.850097,3636
+2117,969,Sucursal 1,Blv. 191 Bis N° 55,Misiones,Posadas,-27.369541,-55.897248,3300
+2118,970,Sucursal 1,Diagonal Alvear N° 384,Entre Ríos,Gualeguay,-33.143006,-59.317311,2840
+2119,970,Sucursal 2,Av. 7 N° 4943,Chaco,Sáenz Peña,-26.793313,-60.438756,3700
+2120,970,Sucursal 3,Avenida San Luis N° 752,Misiones,Oberá,-27.480457,-55.115484,3360
+2121,971,Sucursal 1,Camino Viedma N° 133,Misiones,Posadas,-27.367656,-55.894651,3300
+2122,972,Sucursal 1,Diag. Posadas N° 927,Formosa,Clorinda,-25.281455,-57.718799,3610
+2123,973,Sucursal 1,Av. Santiago del Estero N° 587,Misiones,Eldorado,-26.400138,-54.614487,3380
+2124,973,Sucursal 2,Avenida 4 N° 303,Corrientes,Goya,-29.141659,-59.264791,3450
+2125,973,Sucursal 3,Diagonal Omar Nuñez N° 396,Misiones,Apóstoles,-27.919227,-55.765944,3350
+2126,973,Sucursal 4,Diag. Río Negro N° 328,Entre Ríos,Gualeguaychú,-33.009411,-58.512506,2820
+2127,974,Sucursal 1,Av. 3 N° 122,Entre Ríos,Gualeguay,-33.140389,-59.31374,2840
+2128,975,Sucursal 1,Diagonal San Martin N° 486,Formosa,Clorinda,-25.280346,-57.716048,3610
+2129,975,Sucursal 2,Avenida Alem N° 25,Formosa,Clorinda,-25.280719,-57.717652,3610
+2130,975,Sucursal 3,Avenida 7 N° 6230,Corrientes,Mercedes,-29.182266,-58.079738,3470
+2131,975,Sucursal 4,Diagonal Mitre N° 1113,Misiones,Puerto Iguazú,-25.59996,-54.577323,3370
+2132,976,Sucursal 1,Blv. Tierra del Fuego N° 65,Chaco,Barranqueras,-27.485047,-58.932638,3503
+2133,976,Sucursal 2,Avenida Paraná N° 495,Corrientes,Curuzú Cuatiá,-29.786952,-58.053899,3460
+2134,977,Sucursal 1,Avenida Santa Fe N° 3551,Corrientes,Paso de los Libres,-29.710972,-57.089644,3230
+2135,977,Sucursal 2,Calle Neuquén N° 8587,Chaco,Charata,-27.216417,-61.197186,3730
+2136,978,Sucursal 1,Avenida Ciudad Autónoma de Buenos Aires N° 707,Formosa,Formosa Capital,-26.185735,-58.184418,3600
+2137,978,Sucursal 2,Diagonal Resistencia N° 2253,Chaco,Charata,-27.218731,-61.201319,3730
+2138,979,Sucursal 1,Diagonal Pte. Perón N° 34,Misiones,Oberá,-27.485765,-55.118625,3360
+2139,979,Sucursal 2,Blv. 3 N° 6271,Entre Ríos,Gualeguay,-33.141936,-59.313783,2840
+2140,979,Sucursal 3,Diag. La Rioja N° 7955,Chaco,Villa Ángela,-27.581721,-60.717048,3540
+2141,980,Sucursal 1,Calle Ushuaia N° 1429,Corrientes,Paso de los Libres,-29.70997,-57.08757,3230
+2142,980,Sucursal 2,Calle 5 N° 15,Misiones,Oberá,-27.481146,-55.117294,3360
+2143,981,Sucursal 1,Avenida 9 N° 378,Misiones,Apóstoles,-27.9175,-55.764631,3350
+2144,982,Sucursal 1,Avenida Saavedra N° 1351,Misiones,Oberá,-27.485799,-55.117221,3360
+2145,982,Sucursal 2,Diagonal Saavedra N° 327,Misiones,Apóstoles,-27.918123,-55.764447,3350
+2146,983,Sucursal 1,Camino 123 Bis N° 381,Formosa,El Colorado,-26.297135,-59.369358,3603
+2147,984,Sucursal 1,Av. Belgrano N° 91,Entre Ríos,Gualeguaychú,-33.005873,-58.513752,2820
+2148,985,Sucursal 1,Av. 184 A N° 3849,Chaco,Charata,-27.217445,-61.199579,3730
+2149,985,Sucursal 2,Blv. Santa Fe N° 325,Corrientes,Curuzú Cuatiá,-29.791362,-58.052055,3460
+2150,985,Sucursal 3,Diagonal Ciudad Autónoma de Buenos Aires N° 958,Entre Ríos,Concordia,-31.385739,-58.016905,3200
+2151,986,Sucursal 1,Diagonal Rawson N° 36,Corrientes,Paso de los Libres,-29.715285,-57.086109,3230
+2152,986,Sucursal 2,Boulevard Santa Rosa N° 816,Misiones,Eldorado,-26.398391,-54.618503,3380
+2153,987,Sucursal 1,Avenida 4 N° 144,Corrientes,Curuzú Cuatiá,-29.790796,-58.051321,3460
+2154,987,Sucursal 2,Av. 6 N° 721,Formosa,Formosa Capital,-26.185024,-58.181852,3600
+2155,987,Sucursal 3,Diagonal 167 B N° 61,Corrientes,Paso de los Libres,-29.71413,-57.09027,3230
+2156,987,Sucursal 4,Camino Santa Fe N° 142,Corrientes,Mercedes,-29.178609,-58.081027,3470
+2157,988,Sucursal 1,Diag. Jujuy N° 51,Misiones,Posadas,-27.366691,-55.893173,3300
+2158,989,Sucursal 1,Calle 8 N° 692,Corrientes,Goya,-29.137781,-59.263531,3450
+2159,989,Sucursal 2,Calle Jujuy N° 428,Misiones,Puerto Iguazú,-25.594329,-54.580319,3370
+2160,990,Sucursal 1,Diag. Tierra del Fuego N° 407,Corrientes,Corrientes Capital,-27.477784,-58.833498,3400
+2161,991,Sucursal 1,Boulevard Rawson N° 6378,Chaco,Villa Ángela,-27.582486,-60.719198,3540
+2162,991,Sucursal 2,Calle 108 Bis N° 541,Corrientes,Curuzú Cuatiá,-29.791057,-58.05681,3460
+2163,991,Sucursal 3,Avenida 4 N° 2970,Entre Ríos,Gualeguaychú,-33.008091,-58.511282,2820
+2164,992,Sucursal 1,Diagonal Paraná N° 127,Entre Ríos,Concordia,-31.380942,-58.018596,3200
+2165,992,Sucursal 2,Avenida Rivadavia N° 385,Corrientes,Goya,-29.142845,-59.26029,3450
+2166,993,Sucursal 1,Av. 7 N° 7665,Entre Ríos,Gualeguay,-33.142919,-59.318508,2840
+2167,993,Sucursal 2,Calle 1 N° 601,Misiones,Puerto Iguazú,-25.59731,-54.578387,3370
+2168,993,Sucursal 3,Diagonal Mendoza N° 96,Chaco,Resistencia,-27.448306,-58.985979,3500
+2169,994,Sucursal 1,Avenida 5 N° 6281,Formosa,Ingeniero Juárez,-23.900665,-61.85294,3636
+2170,994,Sucursal 2,Av. Tierra del Fuego N° 3961,Formosa,El Colorado,-26.301809,-59.365364,3603
+2171,994,Sucursal 3,Diag. Santa Cruz N° 492,Formosa,Ingeniero Juárez,-23.899301,-61.851058,3636
+2172,994,Sucursal 4,Calle Posadas N° 195,Entre Ríos,Concepción del Uruguay,-32.481143,-58.23578,3260
+2173,995,Sucursal 1,Avenida Rawson N° 719,Corrientes,Corrientes Capital,-27.482597,-58.834848,3400
+2174,995,Sucursal 2,Diagonal G. Brown N° 627,Corrientes,Mercedes,-29.181303,-58.080002,3470
+2175,995,Sucursal 3,Camino Belgrano N° 687,Entre Ríos,Concordia,-31.383862,-58.016576,3200
+2176,996,Sucursal 1,Diagonal Alem N° 415,Misiones,Apóstoles,-27.91404,-55.764556,3350
+2177,996,Sucursal 2,Camino Mendoza N° 764,Entre Ríos,Paraná,-31.742204,-60.508683,3100
+2178,997,Sucursal 1,Av. San Luis N° 435,Corrientes,Goya,-29.142088,-59.259826,3450
+2179,998,Sucursal 1,Blv. Alvear N° 8541,Entre Ríos,Gualeguaychú,-33.007523,-58.512803,2820
+2180,998,Sucursal 2,Avenida J.B. Alberdi N° 4740,Misiones,Eldorado,-26.401703,-54.618441,3380
+2181,999,Sucursal 1,Diag. San Salvador de Jujuy N° 610,Entre Ríos,Concordia,-31.382839,-58.019614,3200
+2182,1000,Sucursal 1,Diagonal Rosario N° 499,Corrientes,Corrientes Capital,-27.481688,-58.835758,3400
+2183,1000,Sucursal 2,Av. La Plata N° 9345,Corrientes,Paso de los Libres,-29.711604,-57.086607,3230
+2184,1000,Sucursal 3,Calle Salta N° 82,Misiones,Apóstoles,-27.917216,-55.76759,3350
+2185,1000,Sucursal 4,Avenida Entre Ríos N° 1611,Formosa,Pirané,-25.733745,-59.113856,3606
